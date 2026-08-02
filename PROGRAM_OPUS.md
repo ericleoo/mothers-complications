@@ -56,19 +56,6 @@ I'm not saying she has AF. I'm saying it is the single hypothesis that reconcile
 
 Still worth asking: were the three nights of stomach pain and vomiting a drug effect (cilostazol and clopidogrel both cause GI upset) or **biliary colic**? That distinction reclassifies her from "asymptomatic gallstones" to "symptomatic gallstones," which changes the surgical recommendation entirely.
 
-### 0.7 Two benzodiazepines in the house — ask the same-day question this week
-
-She has **two benzodiazepines**:
-- **Clobazam 10 mg** in the compounded racikan — *long-acting* (t½ 36–42 h; active metabolite N-desmethylclobazam 71–82 h), accumulates over roughly a week, produces the morning "puyeng."
-- **Bromazepam 3 mg** ½ PRN — taken at moments of anxiety, i.e. exactly when a BP reading alarms her.
-
-Assessed separately, each is defensible. Assessed together, in a 55-year-old with white-matter disease **on dual antiplatelet therapy**, they are the classic setup for a fall with head impact — the one event §4.3 calls non-negotiable to prevent.
-
-- **Ask her directly this week:** *Do you ever take the racikan and the Akamon on the same day?* Nothing in the record establishes that she doesn't. If the racikan is a morning dose and the bromazepam an afternoon anxiety response, she has **continuous benzodiazepine coverage** — a groggy window that starts in the morning and extends through the evening.
-- **Reframe the morning puyeng.** It is benign as to *cause* (clobazam accumulation, not hypotension) but **not benign as to consequence** — a groggy patient walking to the bathroom on tile is a fall-risk window regardless of why she's groggy. On a puyeng morning: sit on the edge of the bed for a full minute before standing, no stairs unaccompanied, no driving. Do one orthostatic check on such a morning to confirm it isn't BP.
-- **The racikan's format is the deeper problem.** The correct regimen for anxiety is an SSRI daily long-term, with a benzodiazepine as a **2–4 week bridge that is then tapered off *while the SSRI continues***. A compounded capsule fusing the two makes that impossible — she cannot stop the benzo without stopping the antidepressant, or continue the antidepressant without continuing the benzo. Whatever the prescriber intended, the delivery format forecloses the only sensible trajectory. Say this plainly to the prescriber.
-- **Establish who prescribed the racikan.** If it wasn't Dr. Budi Gunawan, no single physician currently holds her whole list — which is the actual point of 0.2.
-
 ### 0.4 Ask whether the MRI showed cerebral microbleeds
 
 The T2*/SWI sequence was performed. The report only mentions absence of susceptibility artifact at the lacune — it doesn't report a **microbleed count**. This is essential: multiple lobar microbleeds substantially raise intracerebral hemorrhage risk on dual antiplatelet therapy. Request that the radiologist explicitly report microbleed number and distribution from the existing images. No new scan needed.
@@ -93,6 +80,19 @@ The Kuching panel, while broad, omitted several things that matter more than the
 - **Sleep apnea screening.** OSA is a leading cause of resistant hypertension, non-dipping, and small-vessel disease. Start with a STOP-BANG questionnaire; if positive, a home sleep test. This is frequently the missing piece in someone whose BP won't behave.
 
 Also worth requesting: **echocardiogram** (left ventricular hypertrophy is target-organ damage and changes prognosis) and **extracranial carotid imaging** (the MRA was intracranial 3D TOF only). The **14-day rhythm patch** is no longer an optional extra here — see 0.3, where it is elevated to a Section 0 priority.
+
+### 0.7 Two benzodiazepines in the house — ask the same-day question this week
+
+She has **two benzodiazepines**:
+- **Clobazam 10 mg** in the compounded racikan — *long-acting* (t½ 36–42 h; active metabolite N-desmethylclobazam 71–82 h), accumulates over roughly a week, produces the morning "puyeng."
+- **Bromazepam 3 mg** ½ PRN — taken at moments of anxiety, i.e. exactly when a BP reading alarms her.
+
+Assessed separately, each is defensible. Assessed together, in a 55-year-old with white-matter disease **on dual antiplatelet therapy**, they are the classic setup for a fall with head impact — the one event §4.3 calls non-negotiable to prevent.
+
+- **Ask her directly this week:** *Do you ever take the racikan and the Akamon on the same day?* Nothing in the record establishes that she doesn't. If the racikan is a morning dose and the bromazepam an afternoon anxiety response, she has **continuous benzodiazepine coverage** — a groggy window that starts in the morning and extends through the evening.
+- **Reframe the morning puyeng.** It is benign as to *cause* (clobazam accumulation, not hypotension) but **not benign as to consequence** — a groggy patient walking to the bathroom on tile is a fall-risk window regardless of why she's groggy. On a puyeng morning: sit on the edge of the bed for a full minute before standing, no stairs unaccompanied, no driving. Do one orthostatic check on such a morning to confirm it isn't BP.
+- **The racikan's format is the deeper problem.** The correct regimen for anxiety is an SSRI daily long-term, with a benzodiazepine as a **2–4 week bridge that is then tapered off *while the SSRI continues***. A compounded capsule fusing the two makes that impossible — she cannot stop the benzo without stopping the antidepressant, or continue the antidepressant without continuing the benzo. Whatever the prescriber intended, the delivery format forecloses the only sensible trajectory. Say this plainly to the prescriber.
+- **Establish who prescribed the racikan.** If it wasn't Dr. Budi Gunawan, no single physician currently holds her whole list — which is the actual point of 0.2.
 
 ---
 

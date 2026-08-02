@@ -58,19 +58,6 @@ Saya tidak mengatakan beliau mengidap AF. Saya mengatakan ini satu-satunya hipot
 
 Yang juga layak ditanyakan: apakah tiga malam nyeri perut dan muntah itu efek obat (cilostazol dan klopidogrel sama-sama menyebabkan gangguan lambung) atau **kolik bilier**? Perbedaan ini mengubah klasifikasi beliau dari "batu empedu asimtomatik" menjadi "batu empedu simtomatik", yang sepenuhnya mengubah rekomendasi bedah.
 
-### 0.7 Dua benzodiazepin di rumah — tanyakan pertanyaan hari yang sama minggu ini
-
-Beliau memiliki **dua benzodiazepin**:
-- **Clobazam 10 mg** dalam racikan — *kerja panjang* (t½ 36–42 jam; metabolit aktif N-desmethylclobazam 71–82 jam), terakumulasi selama kira-kira seminggu, menghasilkan "puyeng" pagi.
-- **Bromazepam 3 mg** ½ PRN — diminum pada momen cemas, yaitu tepat saat angka tekanan darah membuat beliau khawatir.
-
-Dinilai terpisah, masing-masing dapat dipertahankan. Dinilai bersama, pada perempuan 55 tahun dengan penyakit substansia alba **dengan terapi antiplatelet ganda**, keduanya adalah susunan klasik untuk jatuh dengan benturan kepala — satu-satunya peristiwa yang oleh §4.3 disebut tidak bisa ditawar untuk dicegah.
-
-- **Tanyakan langsung minggu ini:** *Pernahkah Mama meminum racikan dan Akamon pada hari yang sama?* Tidak ada apa pun dalam catatan yang memastikan beliau tidak melakukannya. Jika racikan adalah dosis pagi dan bromazepam adalah respons cemas sore hari, beliau memiliki **cakupan benzodiazepin berkelanjutan** — jendela puyeng yang dimulai pagi dan meluas hingga malam.
-- **Bingkai ulang puyeng pagi.** Puyeng itu jinak dari sisi *penyebab* (akumulasi clobazam, bukan hipotensi) tetapi **tidak jinak dari sisi konsekuensi** — pasien puyeng yang berjalan ke kamar mandi di lantai keramik adalah jendela risiko jatuh apa pun alasannya. Pada pagi puyeng: duduk di tepi tempat tidur selama satu menit penuh sebelum berdiri, tidak naik tangga tanpa pendamping, tidak menyetir. Lakukan satu pemeriksaan ortostatik pada pagi seperti itu untuk memastikan itu bukan tekanan darah.
-- **Format racikan adalah masalah yang lebih dalam.** Regimen yang benar untuk kecemasan adalah SSRI harian jangka panjang, dengan benzodiazepin sebagai **jembatan 2–4 minggu yang kemudian diturunkan (taper) *sementara SSRI tetap dilanjutkan***. Kapsul racikan yang menggabungkan keduanya membuat itu mustahil — beliau tidak bisa menghentikan benzo tanpa menghentikan antidepresan, atau melanjutkan antidepresan tanpa melanjutkan benzo. Apa pun niat peresepnya, format pemberian menutup satu-satunya lintasan yang masuk akal. Sampaikan ini secara gamblang ke peresep.
-- **Tetapkan siapa yang meresepkan racikan.** Jika bukan Dr. Budi Gunawan, tidak ada satu dokter pun yang saat ini memegang seluruh daftar obat beliau — yang justru merupakan inti dari 0.2.
-
 ### 0.4 Tanyakan apakah MRI menunjukkan mikroperdarahan serebral (cerebral microbleeds)
 
 Sekuens T2*/SWI sudah dilakukan. Laporannya hanya menyebutkan tidak adanya artefak suseptibilitas pada lakuna — tidak melaporkan **jumlah mikroperdarahan**. Ini esensial: mikroperdarahan lobar multipel secara substansial meningkatkan risiko perdarahan intraserebral pada terapi antiplatelet ganda. Mintalah radiolog secara eksplisit melaporkan jumlah dan distribusi mikroperdarahan dari citra yang sudah ada. Tidak perlu scan baru.
@@ -95,6 +82,19 @@ Panel Kuching, meski luas, melewatkan beberapa hal yang lebih penting daripada p
 - **Skrining sleep apnea.** OSA adalah penyebab utama hipertensi resisten, status non-dipping, dan penyakit pembuluh darah kecil. Mulailah dengan kuesioner STOP-BANG; jika positif, lakukan tes tidur di rumah. Ini sering kali merupakan potongan yang hilang pada orang yang tekanan darahnya sulit dikendalikan.
 
 Juga layak diminta: **ekokardiogram** (hipertrofi ventrikel kiri adalah kerusakan organ target dan mengubah prognosis) dan **pencitraan karotis ekstrakranial** (MRA yang dilakukan hanya 3D TOF intrakranial). **Patch irama 14 hari** bukan lagi tambahan opsional di sini — lihat 0.3, tempat ia dinaikkan menjadi prioritas Bagian 0.
+
+### 0.7 Dua benzodiazepin di rumah — tanyakan pertanyaan hari yang sama minggu ini
+
+Beliau memiliki **dua benzodiazepin**:
+- **Clobazam 10 mg** dalam racikan — *kerja panjang* (t½ 36–42 jam; metabolit aktif N-desmethylclobazam 71–82 jam), terakumulasi selama kira-kira seminggu, menghasilkan "puyeng" pagi.
+- **Bromazepam 3 mg** ½ PRN — diminum pada momen cemas, yaitu tepat saat angka tekanan darah membuat beliau khawatir.
+
+Dinilai terpisah, masing-masing dapat dipertahankan. Dinilai bersama, pada perempuan 55 tahun dengan penyakit substansia alba **dengan terapi antiplatelet ganda**, keduanya adalah susunan klasik untuk jatuh dengan benturan kepala — satu-satunya peristiwa yang oleh §4.3 disebut tidak bisa ditawar untuk dicegah.
+
+- **Tanyakan langsung minggu ini:** *Pernahkah Mama meminum racikan dan Akamon pada hari yang sama?* Tidak ada apa pun dalam catatan yang memastikan beliau tidak melakukannya. Jika racikan adalah dosis pagi dan bromazepam adalah respons cemas sore hari, beliau memiliki **cakupan benzodiazepin berkelanjutan** — jendela puyeng yang dimulai pagi dan meluas hingga malam.
+- **Bingkai ulang puyeng pagi.** Puyeng itu jinak dari sisi *penyebab* (akumulasi clobazam, bukan hipotensi) tetapi **tidak jinak dari sisi konsekuensi** — pasien puyeng yang berjalan ke kamar mandi di lantai keramik adalah jendela risiko jatuh apa pun alasannya. Pada pagi puyeng: duduk di tepi tempat tidur selama satu menit penuh sebelum berdiri, tidak naik tangga tanpa pendamping, tidak menyetir. Lakukan satu pemeriksaan ortostatik pada pagi seperti itu untuk memastikan itu bukan tekanan darah.
+- **Format racikan adalah masalah yang lebih dalam.** Regimen yang benar untuk kecemasan adalah SSRI harian jangka panjang, dengan benzodiazepin sebagai **jembatan 2–4 minggu yang kemudian diturunkan (taper) *sementara SSRI tetap dilanjutkan***. Kapsul racikan yang menggabungkan keduanya membuat itu mustahil — beliau tidak bisa menghentikan benzo tanpa menghentikan antidepresan, atau melanjutkan antidepresan tanpa melanjutkan benzo. Apa pun niat peresepnya, format pemberian menutup satu-satunya lintasan yang masuk akal. Sampaikan ini secara gamblang ke peresep.
+- **Tetapkan siapa yang meresepkan racikan.** Jika bukan Dr. Budi Gunawan, tidak ada satu dokter pun yang saat ini memegang seluruh daftar obat beliau — yang justru merupakan inti dari 0.2.
 
 ---
 
