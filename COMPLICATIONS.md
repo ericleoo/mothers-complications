@@ -166,7 +166,7 @@ No active lung lesions, pleural effusions, or hilar masses. Cardiac size normal 
 - **Pletaal 100 mg** (cilostazol), twice daily.
 - At night: **Rosucor 20 mg** (rosuvastatin) for cholesterol.
 
-*Pharmacy labels (from a photo of the packaging) list the same four items as the narrative: Amlotel 10 mg (amlodipine, once daily morning), Rosucor 20 mg (rosuvastatin calcium, once daily night), Pletaal 100 mg (cilostazol, twice daily), and Apo-Clopidogrel 75 mg (once daily, matching the narrative). One label detail still looks odd: its remark reads "blood circulation / antiarrhythmic" (*Melancarkan darah*) — an unusual description for an antiplatelet, worth clarifying with the pharmacist.*
+*Pharmacy labels (from a photo of the packaging) list the same four items as the narrative: Amlotel 10 mg (amlodipine, once daily morning), Rosucor 20 mg (rosuvastatin calcium, once daily night), Pletaal 100 mg (cilostazol, twice daily), and Apo-Clopidogrel 75 mg (once daily, matching the narrative; label remark *Melancarkan darah*, "smooth blood flow").*
 
 **The Amlotel experiment (adverse effect)**
 
@@ -240,14 +240,13 @@ No active lung lesions, pleural effusions, or hilar masses. Cardiac size normal 
 - **Dr. Budi Gunawan's changes**: stop amlodipine (dose too high, swelling risk); telmisartan 80 mg only + Nevodio 5 mg (gentler than atenolol); Urdafalk ×1 month; repeat ultrasound at 1 month.
 - **Titration data points**: 100/58 (HR 80, dizzy) on ½ Nevodio + telmisartan 80; then 115/70 (HR 72) and 120/73 (HR 70) on ½ Nevodio ×2 alone.
 - **July 31 readings**: 140/80 (HR 75) after housework → 137/78 (HR 74) with deep breathing → 160/90 → telmisartan 80 + bromazepam 3 mg (½ tab), slept 2 h, final reading unrecorded.
-- **Clopidogrel label oddity**: the narrative and the pharmacy label agree on Apo-Clopidogrel 75 mg once daily, but the label's remark describes it as "blood circulation / antiarrhythmic" (*Melancarkan darah*), which does not match its antiplatelet role.
 
 ---
 
 ## Insights & Implications
 
 - **The acute event reads as a transient ischemic attack (TIA) until proven otherwise, and the workup largely supports a vascular explanation.** The spreading, cold-palm, migratory left-arm numbness in the setting of 175/95 is a textbook presentation. The MRI's old lacunar infarct and white-matter disease are exactly what chronic uncontrolled hypertension produces. That the infarct is *old* and the vessels are patent means the acute event did not leave a visible acute lesion — but the risk of future events is precisely what the current antiplatelet and blood-pressure strategy targets.
-- **The amlodipine tachycardia episode illustrates a classic pharmacology trap.** A high-dose dihydropyridine calcium-channel blocker (10 mg amlodipine) causes reflex sympathetic activation; a resting heart rate of 185 is an extreme manifestation and would warrant ECG documentation of the rhythm if it recurs. It is also clearly why Dr. Budi Gunawan moved to a beta-blocker-based approach. No antiarrhythmic drug appears anywhere in the medication lists; the label's "antiarrhythmic" remark sits on Apo-Clopidogrel, an antiplatelet (the class the Kuching report recommended), so the lists are pharmacologically coherent apart from that odd remark.
+- **The amlodipine tachycardia episode illustrates a classic pharmacology trap.** A high-dose dihydropyridine calcium-channel blocker (10 mg amlodipine) causes reflex sympathetic activation; a resting heart rate of 185 is an extreme manifestation and would warrant ECG documentation of the rhythm if it recurs. It is also clearly why Dr. Budi Gunawan moved to a beta-blocker-based approach.
 - **The current regimen is now internally consistent with the Kuching report's recommendations.** The report called for a decision on secondary antiplatelet prophylaxis — effectively answered by starting clopidogrel plus cilostazol. The beta-blocker (nebivolol) controls both rate and pressure. The remaining gap versus the report is the suggested **neurology consultation** and **glucose/HbA1c monitoring**, which are not documented as done.
 - **The one-month Urdafalk course plus repeat ultrasound is the plan to watch.** If the repeat ultrasound still shows the 2.3 cm stone, or if right-upper-quadrant symptoms (fatty-meal pain, nausea, fever, jaundice) appear, the surgical consultation recommended in the report becomes the relevant next step. As general clinical context (not a claim from the source): a 2.3 cm stone is larger than the size range where dissolution therapy is most reliable, so conservative monitoring with a low threshold for elective cholecystectomy is a reasonable frame.
 - **Day-to-day BP variance is normal and should not drive panic dosing.** The 137/78 → 160/90 swing on the same afternoon, influenced by housework and anxiety, is the kind of variability that leads to over-medication (as the 100/58 episode showed). The stable resting baseline of ~115–120/70 is excellent. The family's use of a short-acting anxiolytic plus rescue telmisartan is a pragmatic bridge while the underlying regimen is settled.
@@ -258,12 +257,11 @@ No active lung lesions, pleural effusions, or hilar masses. Cardiac size normal 
 ## Open Questions / Limitations
 
 - **Final blood-pressure reading missing.** The narrative ends after the two-hour nap ("woke and measured again") without recording the value.
-- **Why does the clopidogrel label say "antiarrhythmic"?** The narrative and the label agree clopidogrel 75 mg is taken once daily, but the label's remark describes it as "blood circulation / antiarrhythmic" — an odd description for an antiplatelet, worth clarifying with the pharmacist (mislabel or misunderstanding).
 - **Is rosuvastatin 20 mg still taken nightly?** Present in the initial post-Kuching prescription list (the narrative and the label both say Rosucor 20 mg at night) but absent from the final regimen list.
 - **Was Heptal 500 mg BD (from the Kuching report) discontinued in favor of Urdafalk?** The report's instructions to continue Heptal and recheck LFTs in 4–8 weeks are not documented as followed; no repeat LFT result is in the source.
 - **Was the recommended neurology consultation performed?** The report recommended it to formalize the antiplatelet decision; the antiplatelets appear to have been started empirically.
 - **Glucose/HbA1c not tested.** The report explicitly flagged glucose dysregulation as a small-vessel risk factor; no result is present.
-- **No rhythm documentation for the HR 185 episode.** Whether it was sinus tachycardia or a paroxysmal tachyarrhythmia is unknown without an ECG/Holter; no antiarrhythmic appears in any medication list, so this is a documentation question rather than a treatment question.
+- **No rhythm documentation for the HR 185 episode.** Whether it was sinus tachycardia or a paroxysmal tachyarrhythmia is unknown without an ECG/Holter.
 - **Exact date of the acute event** is not stated; it is bracketed as "before July 15, 2026."
 - **The stress test (July 16) predates the amlodipine tachycardia episode** (which occurred after returning from Kuching), so it does not inform that event.
 - **Completeness of the medication list**: the report's written prescriptions (Heptal) and the photo labels (Amlotel, Rosucor, Pletaal, Apo-Clopidogrel) were compiled from different artifacts; a single reconciled medication list from the treating physician is the safest source of truth.
@@ -280,7 +278,7 @@ No active lung lesions, pleural effusions, or hilar masses. Cardiac size normal 
 - Current regimen: nebivolol ½ ×2, clopidogrel 1×, cilostazol 2×, Urdafalk 1×, folic acid, Neuro Forte, occasional zinc/vitamin E.
 - Urdafalk is a 1-month gallstone-dissolution course with a repeat ultrasound at the one-month mark; surgical consult (recommended by the report) if symptoms or persistence.
 - Recent BP swings (137–160 systolic) track activity and anxiety; rescue telmisartan 80 mg + half bromazepam was used once.
-- Open items for the doctor: whether rosuvastatin is still active, the odd "antiarrhythmic" remark on the clopidogrel label, repeat LFTs at 4–8 weeks, HbA1c, neurology consult, and rhythm documentation of the HR 185 episode.
+- Open items for the doctor: whether rosuvastatin is still active, repeat LFTs at 4–8 weeks, HbA1c, neurology consult, and rhythm documentation of the HR 185 episode.
 
 ---
 
