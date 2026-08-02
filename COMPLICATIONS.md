@@ -188,16 +188,18 @@ No active lung lesions, pleural effusions, or hilar masses. Cardiac size normal 
 
 - Day 2 onward: **half a tablet of Nevodio morning and night, without telmisartan** → **115/70, heart rate 72**; sometimes **120/73, heart rate 70**.
 
-### Part 4 — Current Regimen and Most Recent Readings (July 31, 2026)
+### Part 4 — Current Regimen and Most Recent Readings (July 31 – August 2, 2026)
 
-**Current regimen** (per the narrative):
+**Current regimen** (per the July 31 narrative, **confirmed directly by Mama on August 2, 2026** — see Part 5):
 
-- Nevodio (nebivolol) **½ tablet twice daily**
+- Nevodio (nebivolol) **½ tablet twice daily** — morning and **before sleep** (confirmed Aug 2)
 - Clopidogrel **75 mg once daily**
 - Pletaal (cilostazol) **100 mg twice daily**
+- **Rosucor (rosuvastatin) 20 mg at night** — confirmed still taken nightly on Aug 2 ("minum dong sebelum tidur"); closes the previously open statin question
 - Urdafalk (ursodeoxycholic acid) **once daily**
 - Folic acid (long-standing)
 - Vitamin B (Neuro Forte)
+- Other vitamins ("vit lain", per Mama Aug 2)
 - Occasionally zinc and vitamin E
 
 **Readings on the day of the narrative (afternoon)**:
@@ -207,6 +209,18 @@ No active lung lesions, pleural effusions, or hilar masses. Cardiac size normal 
 3. Tried to ignore it, but measured again: **160/90**.
 4. Decided to take **telmisartan 80 mg** plus **half a tablet of Akamon 3 (bromazepam 3 mg)** — the anxiety medication from the Kuching doctor.
 5. Slept for two hours, woke, and measured again — **the final reading is not recorded in the source**.
+
+### Part 5 — Medication Confirmation (August 2, 2026)
+
+On August 2, 2026, Eric asked Mama directly which medications she takes every day. Her answers (verbatim WhatsApp exchange, source file `sources/transcripts/mama-2026-08-02-whatsapp.md`):
+
+- Eric's list: **Nebivolol ½ tablet ×2 per day; Clopidogrel 75 mg; Cilostazol 100 mg ×2 per day** → Mama: *"Ya itu"* — yes, these three are the ones she always takes daily.
+- **Urdafalk** — *"Ama urdafalk"* — yes, daily.
+- Other vitamins — *"Ama vit lain"* — yes.
+- **Rosucor / rosuvastatin** — *"Minum dong sblom tidur"* — yes, taken before sleep.
+- **Nevodio (nebivolol)** — *"Ama novodio sblom tidur"* — the second half-tablet is taken before sleep.
+
+**Resolution:** the only open medication question in the file — whether rosuvastatin (Rosucor) 20 mg was still being taken — is now **closed**. The daily regimen is fully reconciled: nebivolol ½ ×2 (morning + bedtime), clopidogrel 75 mg, cilostazol 100 mg ×2, rosuvastatin 20 mg nightly, Urdafalk daily, plus vitamins. Still-live items for the neurologist: the **LDL-target discussion** (LDL 2.1 vs secondary-prevention <1.8 / very-high-risk <1.4 mmol/L) and the **cerebral microbleed count** — see TODO.md.
 
 ---
 
@@ -257,7 +271,7 @@ No active lung lesions, pleural effusions, or hilar masses. Cardiac size normal 
 ## Open Questions / Limitations
 
 - **Final blood-pressure reading missing.** The narrative ends after the two-hour nap ("woke and measured again") without recording the value.
-- **Is rosuvastatin 20 mg still taken nightly?** Present in the initial post-Kuching prescription list (the narrative and the label both say Rosucor 20 mg at night) but absent from the final regimen list.
+- ~~**Is rosuvastatin 20 mg still taken nightly?**~~ **Resolved August 2, 2026** — Mama confirmed she takes Rosucor (rosuvastatin) 20 mg before sleep every night (Part 5).
 - **Was Heptal 500 mg BD (from the Kuching report) discontinued in favor of Urdafalk?** The report's instructions to continue Heptal and recheck LFTs in 4–8 weeks are not documented as followed; no repeat LFT result is in the source.
 - **Was the recommended neurology consultation performed?** The report recommended it to formalize the antiplatelet decision; the antiplatelets appear to have been started empirically.
 - **Glucose/HbA1c not tested.** The report explicitly flagged glucose dysregulation as a small-vessel risk factor; no result is present.
@@ -275,11 +289,11 @@ No active lung lesions, pleural effusions, or hilar masses. Cardiac size normal 
 - Old regimen (atenolol + irbesartan) was replaced by the Kuching team: amlodipine/telmisartan combo, clopidogrel, cilostazol, rosuvastatin.
 - Amlodipine 10 mg caused heart rate 185 — the dose was stopped; telmisartan 80 mg + nebivolol 5 mg became the backbone.
 - First titration overshot low (100/58, dizzy); the stable regimen is **nebivolol ½ tablet twice daily** → 115/70, HR 70–75.
-- Current regimen: nebivolol ½ ×2, clopidogrel 1×, cilostazol 2×, Urdafalk 1×, folic acid, Neuro Forte, occasional zinc/vitamin E.
+- Current regimen (confirmed by Mama, Aug 2, 2026): nebivolol ½ ×2 (morning + bedtime), clopidogrel 1×, cilostazol 2×, rosuvastatin 20 mg nightly, Urdafalk 1×, folic acid, Neuro Forte, other vitamins, occasional zinc/vitamin E.
 - Urdafalk is a 1-month gallstone-dissolution course with a repeat ultrasound at the one-month mark; surgical consult (recommended by the report) if symptoms or persistence.
 - Recent BP swings (137–160 systolic) track activity and anxiety; rescue telmisartan 80 mg + half bromazepam was used once.
-- Open items for the doctor: whether rosuvastatin is still active, repeat LFTs at 4–8 weeks, HbA1c, neurology consult, and rhythm documentation of the HR 185 episode.
+- Open items for the doctor: repeat LFTs at 4–8 weeks, HbA1c, neurology consult, microbleed count + LDL target, and rhythm documentation of the HR 185 episode. (Rosuvastatin question — resolved Aug 2, 2026.)
 
 ---
 
-*Compiled July 31, 2026 from a family narrative and diagnostic reports. This document is a synthesis of provided records — not medical advice. All findings and management decisions should be reviewed with the treating physicians (Dr. Diana Ting Mei Rong; Dr. Budi Gunawan) and relevant specialists. Contains personal health information; handle confidentially.*
+*Compiled July 31, 2026 from a family narrative and diagnostic reports; updated August 2, 2026 with the direct medication confirmation (Part 5). This document is a synthesis of provided records — not medical advice. All findings and management decisions should be reviewed with the treating physicians (Dr. Diana Ting Mei Rong; Dr. Budi Gunawan) and relevant specialists. Contains personal health information; handle confidentially.*

@@ -2,7 +2,9 @@ Below is a structured longevity program built specifically around your mother's 
 
 **Important framing:** I'm not her physician and this isn't medical advice. Everything in Section 0 and anything involving medication should be decided by Dr. Budi Gunawan, a neurologist, and a cardiologist. Treat this document as a *briefing pack and operating protocol* to bring to those appointments.
 
-> **Revision — 2026-07-31 (medication list verified).** All four pharmacy labels — Amlotel, Rosucor, Pletaal, and Apo-Clopidogrel — have been read against the narrative and agree with it. The clopidogrel box carries the remark *Melancarkan darah* — "smooth blood flow," a fair everyday description of an antiplatelet. Her medication list is pharmacologically coherent, and **rosuvastatin status is the only open medication question**.
+> **Revision — 2026-08-02 (rosuvastatin resolved).** Direct WhatsApp check with Mama on August 2, 2026 confirmed her daily regimen — nebivolol ½ tablet morning **and before sleep**, clopidogrel 75 mg, cilostazol 100 mg twice daily, Urdafalk daily, other vitamins, and **Rosucor (rosuvastatin) 20 mg before sleep** (*"Minum dong sblom tidur"*). **The only open medication question in the file — rosuvastatin status — is now closed.** The LDL-target and microbleed discussions in 2.3 remain live.
+>
+> **Revision — 2026-07-31 (medication list verified).** All four pharmacy labels — Amlotel, Rosucor, Pletaal, and Apo-Clopidogrel — have been read against the narrative and agree with it. The clopidogrel box carries the remark *Melancarkan darah* — "smooth blood flow," a fair everyday description of an antiplatelet. Her medication list is pharmacologically coherent.
 
 ---
 
@@ -21,7 +23,7 @@ Her genuine assets: **11.1 METs on the treadmill is excellent** for a 55-year-ol
 
 ## Section 0 — Six things to resolve before anything else
 
-These are the items I'd want settled within two weeks. Suggested order: **0.1** (laterality) → **0.4** (microbleeds) → **0.6** (ABPM + sleep apnoea) → **0.5** (missing labs) → **0.3** (tachycardia mechanism), with **2.3** (rosuvastatin) alongside as the one live drug question; 0.2 (reconciliation) is routine housekeeping.
+These are the items I'd want settled within two weeks. Suggested order: **0.1** (laterality) → **0.4** (microbleeds) → **0.6** (ABPM + sleep apnoea) → **0.5** (missing labs) → **0.3** (tachycardia mechanism); 0.2 (reconciliation) is routine housekeeping. *(The one live drug question — 2.3, rosuvastatin — was resolved 2026-08-02: Mama confirmed taking Rosucor 20 mg nightly.)*
 
 ### 0.1 The laterality problem — ask the neurologist directly
 
@@ -39,7 +41,7 @@ That means the old infarct does **not** explain the July event. Three possibilit
 
 All four pharmacy labels — Amlotel, Rosucor, Pletaal, and Apo-Clopidogrel — agree with the narrative. The clopidogrel box carries the remark *Melancarkan darah* — "smooth blood flow," a fair everyday description of an antiplatelet. Nothing further to chase there.
 
-The one live medication question is **rosuvastatin** — see 2.3.
+The one live medication question was **rosuvastatin** — resolved 2026-08-02: Mama confirmed taking Rosucor 20 mg before sleep nightly. The LDL-target discussion in 2.3 remains live.
 
 Still do the housekeeping: produce **one reconciled medication list**, signed off by the treating physician, covering the Kuching prescription, the pharmacy labels, and what she is actually swallowing today. Photograph every box and blister and read them aloud against the doctor's list — the physical boxes are the source of truth.
 
@@ -155,7 +157,7 @@ Working from the Lancet Commission framework, here's what's actually actionable 
 The Kuching report grades her lipids against **primary prevention** reference ranges. She is a **secondary prevention** patient (established cerebrovascular disease). Under that framing:
 
 - Her **LDL of 2.1 mmol/L is above the secondary-prevention target of <1.8 mmol/L**, and many guidelines now use <1.4 mmol/L for very high-risk patients.
-- **Confirm she is still taking rosuvastatin — this is the only open medication question left in the file.** It appears in the Kuching prescription *and* on the pharmacy label (Rosucor 20 mg at night, brand naming settled), but is absent from the current regimen list. A secondary-prevention patient silently off her statin is, by some distance, the most probable real-world harm remaining in this record. Ask her tonight and look in the box; don't wait for the next appointment.
+- ✅ **Rosuvastatin status — CONFIRMED 2026-08-02.** Direct WhatsApp check with Mama: she takes Rosucor (rosuvastatin) 20 mg before sleep every night (*"Minum dong sblom tidur"*), and the second nebivolol half-tablet is also taken before sleep. The only open medication question in the file is now closed — the **LDL-target conversation with the neurologist remains live** (LDL 2.1 vs <1.8/<1.4 mmol/L, informed by the microbleed count).
 
 **Counterpoint to raise with the neurologist:** in patients with extensive small-vessel disease and cerebral microbleeds, aggressive LDL lowering has a theoretical association with intracerebral hemorrhage. This is exactly why the microbleed count from 0.4 matters. The decision should be made with that information in hand, not without it.
 
@@ -385,7 +387,7 @@ Don't attempt everything at once. Sequenced:
 
 **Weeks 1–2 — Safety and data**
 - Produce one physician-signed reconciled medication list, built from the physical boxes
-- **Confirm rosuvastatin status — highest-priority item this fortnight, and the only live drug question;** clarify Heptal vs. Urdafalk
+- ~~Confirm rosuvastatin status~~ — **DONE 2026-08-02** (Mama confirmed Rosucor 20 mg nightly before sleep); clarify Heptal vs. Urdafalk
 - Book neurology, cardiology, and surgical/GI consultations
 - Order missing labs (HbA1c, renal, urine ACR, FBC, B12, Lp(a), vitamin D)
 - Request microbleed reporting from the existing MRI
@@ -432,7 +434,7 @@ Don't attempt everything at once. Sequenced:
 8. Baseline MoCA, please.
 
 **Cardiologist:**
-1. Her regimen is nebivolol, clopidogrel, cilostazol, UDCA (± rosuvastatin). Has an arrhythmia ever been suspected or documented at any point?
+1. Her regimen is nebivolol, clopidogrel, cilostazol, UDCA, and rosuvastatin 20 mg nightly (all confirmed 2026-08-02). Has an arrhythmia ever been suspected or documented at any point?
 2. Can we still get a Holter or 14-day patch to characterize the HR 185 episode? Non-urgent, but the mechanism is unresolved.
 3. Echocardiogram to assess for left ventricular hypertrophy?
 4. Could cilostazol be contributing to her tachycardia and palpitations? Is it worth reconsidering?

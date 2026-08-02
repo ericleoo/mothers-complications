@@ -4,7 +4,9 @@ Berikut adalah program longevitas terstruktur yang disusun khusus berdasarkan te
 
 **Kerangka penting:** Saya bukan dokter beliau dan ini bukan nasihat medis. Semua yang ada di Bagian 0 dan segala hal yang menyangkut obat harus diputuskan oleh Dr. Budi Gunawan, seorang neurolog, dan seorang kardiolog. Perlakukan dokumen ini sebagai *paket ringkasan (briefing pack) dan protokol operasional* untuk dibawa ke janji temu tersebut.
 
-> **Revisi — 31-07-2026 (daftar obat terverifikasi).** Keempat label apotek — Amlotel, Rosucor, Pletaal, dan Apo-Clopidogrel — telah dibaca terhadap narasi dan semuanya cocok dengan narasi. Kotak klopidogrel memuat keterangan *Melancarkan darah* — "melancarkan aliran darah," deskripsi sehari-hari yang wajar untuk antiplatelet. Daftar obat beliau koheren secara farmakologis, dan **status rosuvastatin adalah satu-satunya pertanyaan obat yang masih terbuka**.
+> **Revisi — 02-08-2026 (rosuvastatin terjawab).** Pengecekan obat langsung dengan Mama pada 2 Agustus 2026 (WhatsApp) mengonfirmasi regimen harian — nebivolol ½ tablet pagi **dan sebelum tidur**, klopidogrel 75 mg, cilostazol 100 mg dua kali sehari, Urdafalk setiap hari, vitamin lain, dan **Rosucor (rosuvastatin) 20 mg sebelum tidur** (*"Minum dong sblom tidur"*). **Satu-satunya pertanyaan obat yang masih terbuka dalam berkas ini — status rosuvastatin — kini tertutup.** Diskusi target LDL dan mikroperdarahan di 2.3 tetap berlanjut.
+>
+> **Revisi — 31-07-2026 (daftar obat terverifikasi).** Keempat label apotek — Amlotel, Rosucor, Pletaal, dan Apo-Clopidogrel — telah dibaca terhadap narasi dan semuanya cocok dengan narasi. Kotak klopidogrel memuat keterangan *Melancarkan darah* — "melancarkan aliran darah," deskripsi sehari-hari yang wajar untuk antiplatelet. Daftar obat beliau koheren secara farmakologis.
 
 ---
 
@@ -23,7 +25,7 @@ Aset nyata beliau: **11,1 METs pada uji treadmill adalah hasil yang sangat baik*
 
 ## Bagian 0 — Enam hal yang harus diselesaikan sebelum yang lain
 
-Ini adalah hal-hal yang saya ingin tuntas dalam dua minggu. Urutan yang disarankan: **0.1** (lateralitas) → **0.4** (mikroperdarahan) → **0.6** (ABPM + sleep apnea) → **0.5** (lab yang belum ada) → **0.3** (mekanisme takikardia), dengan **2.3** (rosuvastatin) dijalankan bersamaan sebagai satu-satunya pertanyaan obat yang masih aktif; 0.2 (rekonsiliasi) adalah pemberesan rutin.
+Ini adalah hal-hal yang saya ingin tuntas dalam dua minggu. Urutan yang disarankan: **0.1** (lateralitas) → **0.4** (mikroperdarahan) → **0.6** (ABPM + sleep apnea) → **0.5** (lab yang belum ada) → **0.3** (mekanisme takikardia); 0.2 (rekonsiliasi) adalah pemberesan rutin. *(Satu-satunya pertanyaan obat yang masih aktif — 2.3, rosuvastatin — telah terjawab 02-08-2026: Mama mengonfirmasi minum Rosucor 20 mg setiap malam.)*
 
 ### 0.1 Masalah lateralitas — tanyakan langsung ke neurolog
 
@@ -41,7 +43,7 @@ Artinya, infark lama itu **tidak** menjelaskan kejadian bulan Juli. Ada tiga kem
 
 Keempat label apotek — Amlotel, Rosucor, Pletaal, dan Apo-Clopidogrel — cocok dengan narasi. Kotak klopidogrel memuat keterangan *Melancarkan darah* — "melancarkan aliran darah," deskripsi sehari-hari yang wajar untuk antiplatelet. Tidak ada lagi yang perlu dikejar di sana.
 
-Satu-satunya pertanyaan obat yang masih tersisa adalah **rosuvastatin** — lihat 2.3.
+Satu-satunya pertanyaan obat yang masih tersisa adalah **rosuvastatin** — telah terjawab 02-08-2026: Mama mengonfirmasi minum Rosucor 20 mg sebelum tidur setiap malam. Diskusi target LDL di 2.3 tetap berlanjut.
 
 Tetap lakukan pemberesannya: buat **satu daftar obat yang sudah direkonsiliasi**, ditandatangani oleh dokter yang merawat, yang mencakup resep Kuching, label-label apotek, dan apa yang benar-benar beliau telan hari ini. Foto setiap kotak dan blister lalu bacakan dengan lantang dan cocokkan dengan daftar dokter — kotak fisik obat adalah sumber kebenarannya.
 
@@ -157,7 +159,7 @@ Berdasarkan kerangka Lancet Commission, berikut yang benar-benar dapat ditindakl
 Laporan Kuching menilai lipid beliau dengan rentang rujukan **pencegahan primer**. Beliau adalah pasien **pencegahan sekunder** (penyakit serebrovaskular yang sudah ada). Dengan kerangka itu:
 
 - **LDL 2,1 mmol/L berada di atas target pencegahan sekunder <1,8 mmol/L**, dan banyak panduan kini menggunakan <1,4 mmol/L untuk pasien risiko sangat tinggi.
-- **Pastikan beliau masih mengonsumsi rosuvastatin — ini satu-satunya pertanyaan obat yang masih terbuka dalam berkas ini.** Obat ini muncul di resep Kuching *dan* di label apotek (Rosucor 20 mg di malam hari — penamaan merek sudah pasti), tetapi tidak ada dalam daftar regimen saat ini. Pasien pencegahan sekunder yang tanpa disadari tidak lagi mengonsumsi statinnya adalah, dengan jarak yang signifikan, bahaya nyata yang paling mungkin tersisa dalam catatan ini. Tanyakan kepada beliau malam ini dan periksa kotaknya; jangan menunggu janji temu berikutnya.
+- ✅ **Status rosuvastatin — TERKONFIRMASI 02-08-2026.** Pengecekan langsung (WhatsApp) dengan Mama: beliau minum Rosucor (rosuvastatin) 20 mg sebelum tidur setiap malam (*"Minum dong sblom tidur"*), dan setengah tablet nebivolol yang kedua juga diminum sebelum tidur. Satu-satunya pertanyaan obat yang terbuka dalam berkas ini kini tertutup — **percakapan target LDL dengan neurolog tetap berlanjut** (LDL 2,1 vs <1,8/<1,4 mmol/L, dengan mempertimbangkan jumlah mikroperdarahan).
 
 **Argumen tandingan yang perlu diangkat ke neurolog:** pada pasien dengan penyakit pembuluh darah kecil yang luas dan mikroperdarahan serebral, penurunan LDL yang agresif secara teoretis dikaitkan dengan perdarahan intraserebral. Inilah tepatnya mengapa jumlah mikroperdarahan dari poin 0.4 penting. Keputusan harus diambil dengan informasi itu di tangan, bukan tanpanya.
 
@@ -387,7 +389,7 @@ Jangan lakukan semuanya sekaligus. Bertahap:
 
 **Minggu 1–2 — Keamanan dan data**
 - Buat satu daftar obat yang sudah direkonsiliasi dan ditandatangani dokter, disusun dari kotak fisik obatnya
-- **Konfirmasi status rosuvastatin — item prioritas tertinggi dalam dua minggu ini, dan satu-satunya pertanyaan obat yang masih aktif;** perjelas Heptal vs. Urdafalk
+- ~~Konfirmasi status rosuvastatin~~ — **SELESAI 02-08-2026** (Mama mengonfirmasi Rosucor 20 mg setiap malam sebelum tidur); perjelas Heptal vs. Urdafalk
 - Buat janji konsultasi neurologi, kardiologi, dan bedah/GI
 - Pesan lab yang belum ada (HbA1c, fungsi ginjal, ACR urin, darah lengkap, B12, Lp(a), vitamin D)
 - Minta pelaporan mikroperdarahan dari MRI yang sudah ada
@@ -434,7 +436,7 @@ Jangan lakukan semuanya sekaligus. Bertahap:
 8. Mohon dilakukan MoCA dasar.
 
 **Kardiolog:**
-1. Regimen beliau adalah nebivolol, klopidogrel, cilostazol, UDCA (± rosuvastatin). Pernahkah aritmia dicurigai atau didokumentasikan selama ini?
+1. Regimen beliau adalah nebivolol, klopidogrel, cilostazol, UDCA, dan rosuvastatin 20 mg setiap malam (semuanya terkonfirmasi 02-08-2026). Pernahkah aritmia dicurigai atau didokumentasikan selama ini?
 2. Masih bisakah dilakukan Holter atau patch 14 hari untuk mengkarakterisasi episode denyut jantung 185? Tidak mendesak, tetapi mekanismenya belum tuntas.
 3. Ekokardiogram untuk menilai hipertrofi ventrikel kiri?
 4. Mungkinkah cilostazol berkontribusi pada takikardia dan palpitasinya? Layakkah dipertimbangkan ulang?
