@@ -33,8 +33,9 @@ Derived from the longevity program (PROGRAM_OPUS.md) built around Mama's (Ratna 
 - [ ] Build it from the **physical boxes** — photograph every box and blister and read them aloud against the doctor's list; the physical boxes are the source of truth
 
 ### 0.3 The HR 185 episode — two suspected causes
-- [ ] Note the **two-drug mechanism (amlodipine reflex tachycardia + cilostazol) is the leading hypothesis** — nothing in the record references a rhythm problem or an arrhythmia diagnosis, so benign reflex sinus tachycardia is more likely, but a paroxysmal tachyarrhythmia has never been *excluded* — only never suspected
-- [ ] Ask the cardiologist whether **cilostazol** (PDE3 inhibitor, raises HR) contributed alongside amlodipine
+- [x] **Amlodipine confirmed as the cause by Mama (2026-08-03)**: she identifies Amlotel ("obat ... dari kucing") as the medicine that made her heart race, confirms she no longer takes it, and reports heart rate is now slower on Nevodio (nebivolol). She also states cilostazol does **not** cause dizziness. The two-drug hypothesis narrows: amlodipine was the principal cause; the cilostazol contribution is now a minor residual question.
+- [ ] Note the remaining mechanism: amlodipine reflex tachycardia is patient-confirmed, but nothing in the record references a rhythm problem or an arrhythmia diagnosis — a paroxysmal tachyarrhythmia has never been *excluded*, only never suspected
+- [ ] Ask the cardiologist whether **cilostazol** (PDE3 inhibitor, raises HR) contributed alongside amlodipine — now a minor question: Mama attributes the racing heart to the discontinued amlodipine and reports no current palpitation problem (2026-08-03)
 - [ ] **Rhythm documentation stays on the list** — Holter/14-day patch at the next available cardiology appointment; if palpitations recur, capturing the rhythm at that moment is the single most informative thing available
 - [ ] Ask whether the **three nights of stomach pain and vomiting** were drug side effects (cilostazol/clopidogrel GI upset) or **biliary colic** — this changes the surgical recommendation (symptomatic vs asymptomatic gallstones)
 
@@ -73,13 +74,13 @@ Derived from the longevity program (PROGRAM_OPUS.md) built around Mama's (Ratna 
 
 ### 1.2 Targets (set with the neurologist)
 - [ ] Agree a home BP average target: evidence supports **<130/80**, many neurologists target **systolic 120–130**
-- [ ] She became symptomatic at 100/58 — avoid systolic **below ~110**
+- [ ] She became symptomatic at 100/58 — avoid systolic **below ~110** (**patient-confirmed 2026-08-03**: telmisartan is what makes her dizzy — BP drops too low; cilostazol is not a dizziness source)
 - [ ] **Orthostatic check** (lying → standing at 1 and 3 min) at every dose change
 - [ ] Prioritize **smoothness over aggressiveness** (variability independently damages small vessels)
 
 ### 1.3 Regimen questions for the physician (questions, not recommendations)
 - [ ] Ask: why is the backbone a **beta-blocker** rather than an ARB/CCB/thiazide (ASCOT, LIFE outcome data)?
-- [ ] Resolve **telmisartan as "rescue"** — ARBs take hours to act; it should be daily or not at all; stopping/starting creates the variability that damages vessels
+- [ ] Resolve **telmisartan as "rescue"** — ARBs take hours to act; it should be daily or not at all; stopping/starting creates the variability that damages vessels. **Patient-confirmed harm (2026-08-03)**: Mama says telmisartan makes her dizzy from too-low BP — the rescue pattern is actively causing symptomatic hypotension
 - [ ] Ask about **low-dose amlodipine (2.5 mg)** on top of a beta-blocker (the 10 mg dose was the likely problem, not the class)
 - [ ] Ask about **indapamide** (PROGRESS trial — most directly relevant to her: recurrent stroke + white-matter progression)
 - [ ] **Nothing constrains rate-affecting titration** — nebivolol can be titrated on its own merits; adding low-dose amlodipine or indapamide raises no conduction concern (the only rate-active drugs are nebivolol — slows — and cilostazol — speeds)
@@ -148,10 +149,12 @@ Derived from the longevity program (PROGRAM_OPUS.md) built around Mama's (Ratna 
 - [ ] **Balance & fall prevention daily (5–10 min)** — single-leg stands, heel-to-toe walking, tai chi — *non-negotiable* given small-vessel disease + dual antiplatelets
 - [ ] **Steps: build to 7,000–8,000/day**
 - [ ] **Mobility/stretching 3×/week** (10 min)
+- [ ] **Mama's preferred exercises — plank and wall sit (2026-08-03)** — she volunteers that she likes both; keep them in the program (adherence win), 2–3×/week as part of core/leg isometric work with the 4.2 isometric rules
 
 ### 4.2 Caveats specific to her
 - [ ] **Do NOT use heart-rate zones** — nebivolol blunts HR response; use talk test and perceived exertion
 - [ ] **Avoid heavy Valsalva** — no maximal lifting, no breath-holding under load; exhale on exertion
+- [ ] **Isometrics (plank, wall sit — her favorites) are fine with rules** — they raise BP while held; breathe continuously (never hold breath), 20–30 s holds × 2–3 sets, stop if dizzy or short of breath, no BP measurement within 30 min
 - [ ] **Never measure BP within 30 min of exercise** (post-exercise readings cause panic)
 - [ ] Stop and rest on: chest pain, unusual breathlessness, palpitations, dizziness, any neurological symptom
 - [ ] If **palpitations recur** during exertion → get an ECG during the event (rhythm is the diagnostic gold)
@@ -216,6 +219,8 @@ The July 31 sequence (140/80 → panic → 137/78 → 160/90 → medicate) is a 
 - [ ] **Measurement discipline** (1.1): twice daily, no re-measuring, weekly averages only — often breaks the loop by itself
 - [ ] **Slow breathing practice**: 10–15 min daily at 6 breaths/min (≈4 s in, 6 s out), as a *scheduled daily practice*, not a reaction to a high reading
 - [ ] **Treat the anxiety properly**: if persistent, CBT is first-line; discuss **SSRI** with GP as a far better long-term option than bromazepam
+- [x] **Anxiety-racikan contents documented (2026-08-03)**: the compounded "obat cemas racik" is clobazam (CLOFRITIS) 10 mg + sertraline (FAHRENHEIT) 50 mg, 5 tablets each. Its morning "puyeng" is the classic long-acting-benzo (clobazam) hangover, resolving by afternoon. Note: **5 tablets of sertraline is not a therapeutic SSRI course** (SSRIs need 2–6 weeks) — if anxiety persists, the real fix is a proper daily SSRI + CBT, not more benzos
+- [x] **Bromazepam (Akamon 3) ½ PRN — tolerated, no dizziness (2026-08-03)**: keep it occasional and time-limited only (falls, cognition in small-vessel disease); never daily
 - [ ] **Taper/limit bromazepam** — poor long-term trade in small-vessel disease
 - [ ] **Sleep:** 7–8 hrs, consistent schedule, dark cool room, no screens last hour, no caffeine after midday
 - [ ] **Sleep apnea screening** (also 0.6) — both a sleep issue and a vascular one
@@ -308,7 +313,7 @@ The July 31 sequence (140/80 → panic → 137/78 → 160/90 → medicate) is a 
 ## Section 12 — 12-week rollout (sequencing map)
 
 **Weeks 1–2 — Safety and data**
-- [ ] Produce **one physician-signed reconciled medication list, built from the physical boxes**
+- [ ] Produce **one physician-signed reconciled medication list, built from the physical boxes** — include the **compounded anxiety racikan (clobazam 10 mg + sertraline 50 mg) and the bromazepam PRN**; clarify whether the racikan course is finished or ongoing
 - [x] Clarify Heptal vs Urdafalk — resolved 2026-08-02: Urdafalk daily, Heptal not taken (intentional; UDCA covers the indication)
 - [ ] Book neurology, cardiology, surgical/GI consultations
 - [ ] Order missing labs (HbA1c, renal, urine ACR, FBC, B12, Lp(a), vitamin D)
@@ -337,7 +342,7 @@ The July 31 sequence (140/80 → panic → 137/78 → 160/90 → medicate) is a 
 **Weeks 9–12 — Consolidate**
 - [ ] Aerobic to 150+ min/week; add daily balance work
 - [ ] Switch half the rice to *beras merah*
-- [ ] Address anxiety management properly (CBT referral or SSRI discussion); taper bromazepam if it's become regular
+- [ ] Address anxiety management properly (CBT referral or SSRI discussion); taper bromazepam if it's become regular — note the racikan already contains sertraline: clarify with the doctor whether a proper daily SSRI course is intended (5 tablets is not enough)
 - [ ] Schedule mammogram, cervical screening, colonoscopy/FIT, DEXA
 - [ ] Vaccines including Shingrix
 - [ ] Three-month review: BP average, labs, waist, functional status
@@ -358,9 +363,9 @@ The July 31 sequence (140/80 → panic → 137/78 → 160/90 → medicate) is a 
 
 **Cardiologist:**
 - [ ] Her regimen is nebivolol, clopidogrel, cilostazol, UDCA + rosuvastatin 20 mg nightly (all confirmed 2026-08-02) — has an arrhythmia ever been suspected or documented at any point?
-- [ ] Can we still get a Holter or 14-day patch to characterize the HR 185 episode? Non-urgent, but the mechanism is unresolved
+- [ ] Can we still get a Holter or 14-day patch to characterize the HR 185 episode? Non-urgent — Mama attributes the racing heart to the discontinued amlodipine (2026-08-03), so the mechanism is largely resolved; this is a completeness check
 - [ ] Echocardiogram for left ventricular hypertrophy?
-- [ ] Could cilostazol be contributing to tachycardia/palpitations? Reconsider it?
+- [ ] Could cilostazol be contributing to tachycardia/palpitations? Is it worth reconsidering? (Mama reports cilostazol causes no dizziness and attributes the racing heart to amlodipine — 2026-08-03)
 - [ ] Is low-dose amlodipine (2.5 mg) with a beta-blocker reasonable, or is indapamide preferable?
 - [ ] Extracranial carotid imaging?
 - [ ] Both-arm BP check for subclavian disease
@@ -374,6 +379,7 @@ The July 31 sequence (140/80 → panic → 137/78 → 160/90 → medicate) is a 
 
 **GP:**
 - [ ] Full medication reconciliation into one printed list — built from the physical boxes and the doctor's prescription, verifying every line
+- [ ] **Anxiety-medication reconciliation**: the compounded racikan (clobazam 10 mg + sertraline 50 mg, 5 tablets each) and bromazepam PRN — how is she actually using them, is the clobazam course finished, and is a proper daily SSRI intended?
 - [ ] HbA1c, renal function, urine ACR, FBC, B12, Lp(a), vitamin D
 - [ ] ABPM and sleep apnea screening
 - [ ] Anxiety management plan that isn't long-term bromazepam

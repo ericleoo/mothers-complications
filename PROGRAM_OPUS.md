@@ -2,7 +2,7 @@ Below is a structured longevity program built specifically around your mother's 
 
 **Important framing:** I'm not her physician and this isn't medical advice. Everything in Section 0 and anything involving medication should be decided by Dr. Budi Gunawan, a neurologist, and a cardiologist. Treat this document as a *briefing pack and operating protocol* to bring to those appointments.
 
-> **Revisions.** **2026-07-31** — all four pharmacy labels (Amlotel, Rosucor, Pletaal, Apo-Clopidogrel) verified against the narrative; the clopidogrel box remark *Melancarkan darah* ("smooth blood flow") is a fair everyday description of an antiplatelet; the medication list is pharmacologically coherent. **2026-08-02** — direct check with Mama confirmed her daily regimen: nebivolol ½ tablet morning **and before sleep**, clopidogrel 75 mg, cilostazol 100 mg twice daily, Urdafalk daily, other vitamins, and **Rosucor (rosuvastatin) 20 mg before sleep**. The only open medication question is now closed; the LDL-target and microbleed discussions in 2.3 remain live. Same-day follow-up: **Heptal vs. Urdafalk clarified** — Mama takes Urdafalk daily and does not take Heptal (intentionally superseded by the UDCA plan); the Heptal clarification item is removed from Sections 3.2 and 12.
+> **Revisions.** **2026-07-31** — all four pharmacy labels (Amlotel, Rosucor, Pletaal, Apo-Clopidogrel) verified against the narrative; the clopidogrel box remark *Melancarkan darah* ("smooth blood flow") is a fair everyday description of an antiplatelet; the medication list is pharmacologically coherent. **2026-08-02** — direct check with Mama confirmed her daily regimen: nebivolol ½ tablet morning **and before sleep**, clopidogrel 75 mg, cilostazol 100 mg twice daily, Urdafalk daily, other vitamins, and **Rosucor (rosuvastatin) 20 mg before sleep**. The only open medication question is now closed; the LDL-target and microbleed discussions in 2.3 remain live. Same-day follow-up: **Heptal vs. Urdafalk clarified** — Mama takes Urdafalk daily and does not take Heptal (intentionally superseded by the UDCA plan); the Heptal clarification item is removed from Sections 3.2 and 12. **2026-08-03** — Mama's follow-up WhatsApp: **cilostazol is not the dizziness culprit — telmisartan is** (drops her BP too low, confirming the rescue-telmisartan concern); **amlodipine (Amlotel) confirmed by Mama as the cause of the racing heart**, heart rate now slower on nebivolol; the compounded anxiety medication is documented as **clobazam (CLOFRITIS) 10 mg + sertraline (FAHRENHEIT) 50 mg (5 tablets each)** — its morning "puyeng" is the classic long-acting-benzo (clobazam) hangover, and a 5-tablet SSRI course is not therapeutic; **bromazepam ½ PRN causes no dizziness**; Mama likes **plank and wall sit** (incorporated into Section 4).
 
 ---
 
@@ -39,13 +39,13 @@ That means the old infarct does **not** explain the July event. Three possibilit
 
 Produce **one reconciled medication list**, signed off by the treating physician, covering the Kuching prescription, the pharmacy labels, and what she is actually swallowing today. Photograph every box and blister and read them aloud against the doctor's list — the physical boxes are the source of truth.
 
-### 0.3 The HR 185 episode probably had two causes, not one
+### 0.3 The HR 185 episode — the cause is now patient-confirmed
 
-The narrative attributes it to amlodipine. But **cilostazol is a phosphodiesterase-3 inhibitor that independently raises heart rate and causes palpitations** — it's one of its most common side effects. Amlodipine 10 mg reflex tachycardia *plus* cilostazol is a plausible additive explanation.
+The narrative attributed the episode to amlodipine, and Dr. Budi Gunawan's change (stop the 10 mg amlodipine) followed that. **Mama has now confirmed it directly (2026-08-03):** the racing heart was the Amlotel ("obat ... dari kucing" — her way of identifying the box); she no longer takes it; and since the switch to Nevodio (nebivolol) the heart rate is slower. She also states cilostazol does **not** cause her dizziness. The two-drug hypothesis therefore narrows: **amlodipine reflex tachycardia was the principal cause**; the theoretical cilostazol contribution is now a minor residual question (cilostazol is still in her regimen, and PDE3 inhibitors do raise heart rate — but she reports no current palpitation problem).
 
-This two-drug mechanism is the **leading** hypothesis. Nothing anywhere in the record — prescriptions, labels, or narrative — references a rhythm problem or an arrhythmia diagnosis. That cuts both ways: benign reflex sinus tachycardia becomes more likely, but a paroxysmal tachyarrhythmia has never been *excluded* — only never suspected. Rhythm documentation stays on the list, scheduled for the next available cardiology appointment. If the palpitations recur, capturing the rhythm at that moment remains the single most informative thing available.
+Nothing anywhere in the record — prescriptions, labels, or narrative — references a rhythm problem or an arrhythmia diagnosis. That cuts both ways: benign reflex sinus tachycardia becomes more likely, but a paroxysmal tachyarrhythmia has never been *excluded* — only never suspected. Rhythm documentation (Holter/14-day patch) stays a low-priority completeness check for the next cardiology appointment; if the palpitations recur, capturing the rhythm at that moment remains the single most informative thing available.
 
-This matters because cilostazol is still in her regimen. Also worth asking: were the three nights of stomach pain and vomiting a drug effect (cilostazol and clopidogrel both cause GI upset) or **biliary colic**? That distinction reclassifies her from "asymptomatic gallstones" to "symptomatic gallstones," which changes the surgical recommendation entirely.
+Still worth asking: were the three nights of stomach pain and vomiting a drug effect (cilostazol and clopidogrel both cause GI upset) or **biliary colic**? That distinction reclassifies her from "asymptomatic gallstones" to "symptomatic gallstones," which changes the surgical recommendation entirely.
 
 ### 0.4 Ask whether the MRI showed cerebral microbleeds
 
@@ -97,7 +97,7 @@ Her readings are being distorted by anxiety and technique, and that is causing d
 For lacunar stroke with small-vessel disease, the evidence (SPS3, PROGRESS, SPRINT-MIND) supports a **home BP average below 130/80**, with many neurologists targeting **systolic 120–130**. Lower systolic in this population is associated with fewer recurrent strokes and slower white-matter progression.
 
 But two caveats specific to her:
-- She became symptomatic at 100/58. Avoid systolic below ~110 and check for **orthostatic drop** (BP lying, then standing at 1 and 3 minutes) at every dose change.
+- She became symptomatic at 100/58. Avoid systolic below ~110 and check for **orthostatic drop** (BP lying, then standing at 1 and 3 minutes) at every dose change. **Mama confirms (2026-08-03): telmisartan is what makes her dizzy — her BP drops too low.**
 - **Smoothness beats aggressiveness.** BP variability is independently associated with dementia and white-matter progression. A steady 128/78 all day is better than an average of 120 achieved by swinging between 95 and 155.
 
 ### 1.3 Questions to raise about the regimen
@@ -105,11 +105,11 @@ But two caveats specific to her:
 I want to be careful here — these are questions, not recommendations. But several things in the current setup are worth a physician's second look:
 
 - **She is currently on beta-blocker monotherapy for stroke prevention.** Beta-blockers are generally not first-line for hypertension in stroke prevention; ARBs, calcium channel blockers, and thiazide-like diuretics have better outcome data (ASCOT, LIFE). Nebivolol is a better beta-blocker than atenolol, but the question "why is the backbone a beta-blocker rather than the ARB?" is fair.
-- **Telmisartan is being used as a rescue medication, and it cannot work that way.** ARBs take hours to begin acting and 2–4 weeks for full effect. Taking telmisartan 80 mg in response to a 160/90 reading is pharmacologically incoherent — it does nothing acutely, and stopping/starting it creates exactly the variability that damages small vessels. It should be either taken daily or not at all.
+- **Telmisartan is being used as a rescue medication, and it cannot work that way.** ARBs take hours to begin acting and 2–4 weeks for full effect. Taking telmisartan 80 mg in response to a 160/90 reading is pharmacologically incoherent — it does nothing acutely, and stopping/starting it creates exactly the variability that damages small vessels. It should be either taken daily or not at all. **Mama has confirmed the harm herself (2026-08-03): telmisartan is what makes her dizzy, because it drops her BP too low.** That is first-person evidence of symptomatic hypotension from the rescue pattern — on top of the pharmacologic argument, she is telling you the drug makes her feel unwell. This should be settled with the doctor soon: either a daily low-dose ARB (with the beta-blocker) or none at all.
 - **The amlodipine conclusion may have been too broad.** The problem was likely the *dose* (10 mg is the maximum) and its combination with cilostazol — not the drug class. Low-dose amlodipine (2.5 mg) added *on top of* a beta-blocker typically produces no reflex tachycardia, and dihydropyridine CCBs are notable for *reducing* BP variability.
 - **Indapamide is worth asking about.** The PROGRESS trial (ACE-inhibitor + indapamide) reduced recurrent stroke and slowed white-matter hyperintensity progression specifically — the most directly relevant trial to her situation.
 - **Nothing constrains rate-affecting titration.** Nebivolol can be titrated on its own merits, and adding low-dose amlodipine or indapamide raises no conduction concern — the only rate-active drugs in the regimen are nebivolol (slows) and cilostazol (speeds).
-- **Bromazepam should be strictly time-limited.** Long-term benzodiazepine use in someone with small-vessel disease is a poor trade: falls, cognitive impairment, and an association with dementia. If anxiety is driving BP, the anxiety should be treated properly (see Section 6), not with an indefinite PRN benzodiazepine.
+- **Bromazepam should be strictly time-limited.** Long-term benzodiazepine use in someone with small-vessel disease is a poor trade: falls, cognitive impairment, and an association with dementia. If anxiety is driving BP, the anxiety should be treated properly (see Section 6), not with an indefinite PRN benzodiazepine. Current status (2026-08-03): half a tablet of Akamon 3 (bromazepam 3 mg) PRN only when needed causes her no dizziness and is tolerable; the compounded anxiety medication is clobazam 10 mg + sertraline 50 mg (5 tablets each) — see Section 6.
 
 ### 1.4 Non-pharmacological BP levers, in order of effect size
 
@@ -198,10 +198,13 @@ Her 11.1 METs is a real asset. The goal is to preserve and slightly build on it,
 | **Daily steps** | Daily | Build to 7,000–8,000/day. Mortality benefit largely plateaus around this level in women her age. |
 | **Mobility/stretching** | 3×/week | 10 min. |
 
+**Her favorites: plank and wall sit (2026-08-03).** Mama volunteers that she likes both — keep them in the program, because adherence is the whole game. Use them 2–3×/week as core/leg isometric work (see 4.2 for the isometric rules).
+
 ### 4.2 Important caveats for her specifically
 
 - **Do not use heart rate zones as an intensity guide.** Nebivolol blunts heart rate response; her numbers will be misleading. Use the talk test and perceived exertion.
 - **Avoid heavy Valsalva** — no maximal lifting, no breath-holding under load. Exhale on exertion. Heavy straining spikes systolic pressure sharply.
+- **Isometrics (plank, wall sit — her favorites) are fine with rules.** They raise BP while held, so: breathe continuously (never hold your breath), 20–30 second holds × 2–3 sets, stop if dizzy or short of breath, and never measure BP within 30 minutes of them.
 - **Never measure BP within 30 minutes of exercise.** Post-exercise readings are meaningless and will cause panic.
 - **Stop and rest** if she experiences chest pain, unusual breathlessness, palpitations, dizziness, or any neurological symptom. If palpitations recur, that's the moment to get an ECG — the rhythm during the event is the diagnostic gold.
 - **Cilostazol** can cause headache and palpitations during exertion; if this is limiting her, it's a reason to revisit the drug with her doctor, not to stop exercising.
@@ -267,6 +270,8 @@ The July 31 sequence — 140/80, panic, 137/78, ignore, 160/90, medicate — is 
 - **Measurement discipline** as in 1.1 — twice daily, no re-measuring, weekly averages only. This alone often breaks the loop.
 - **Slow breathing practice**, 10–15 minutes daily at 6 breaths/minute (roughly 4 seconds in, 6 seconds out). Do this as a *scheduled daily practice*, not as a reaction to a high reading. Evidence-supported BP reduction and it gives her a sense of agency.
 - **Treat the anxiety properly.** If it's persistent, CBT is first-line, and an SSRI is a far better long-term option than indefinite bromazepam. Raise this with her GP explicitly. Benzodiazepines in someone with small-vessel disease are a poor long-term trade.
+- **Know what the anxiety medications actually are (documented 2026-08-03).** The compounded "obat cemas racik" contains **clobazam (CLOFRITIS) 10 mg + sertraline (FAHRENHEIT) 50 mg, 5 tablets each**. The morning "puyeng" it causes is the classic **clobazam hangover** — clobazam is a long-acting benzodiazepine (t½ ~36–42 h, active metabolite ~71–82 h) that accumulates; the grogginess clears by afternoon. Two implications: (1) any morning dizziness after taking it is expected pharmacology, not a medical emergency — though an orthostatic BP check on a puyeng morning would confirm it isn't hypotension; (2) **5 tablets of sertraline is not a therapeutic SSRI course** — SSRIs take 2–6 weeks to work, so if anxiety is chronic the real fix is a proper daily SSRI prescribed as a course, plus CBT, not more benzodiazepines. Confirm with the prescriber how long the clobazam course is and when it stops.
+- **Bromazepam (Akamon 3) ½ PRN — current pattern is fine (2026-08-03).** Half a tablet only when needed causes her no dizziness and matches the July 31 use. Keep it occasional and time-limited — never daily.
 - **Sleep:** 7–8 hours, consistent schedule, dark and cool room, no screens for the last hour, no caffeine after midday. **Screen for sleep apnea** (0.6) — this is both a sleep issue and a vascular one.
 - **Reframe the goal for her:** the target is a *good weekly average*, not a perfect reading. Nobody's BP is stable; hers reacting to housework and stress is normal physiology, not failure.
 - **Social and purpose infrastructure:** regular contact with friends/family, a hobby, community or religious involvement. This is not soft — social connection has effect sizes on mortality comparable to smoking cessation.
@@ -425,9 +430,9 @@ Don't attempt everything at once. Sequenced:
 
 **Cardiologist:**
 1. Her regimen is nebivolol, clopidogrel, cilostazol, UDCA, and rosuvastatin 20 mg nightly (all confirmed 2026-08-02). Has an arrhythmia ever been suspected or documented at any point?
-2. Can we still get a Holter or 14-day patch to characterize the HR 185 episode? Non-urgent, but the mechanism is unresolved.
+2. Can we still get a Holter or 14-day patch to characterize the HR 185 episode? Non-urgent — Mama attributes the racing heart to the discontinued amlodipine (2026-08-03), so the mechanism is largely resolved; this is a completeness check.
 3. Echocardiogram to assess for left ventricular hypertrophy?
-4. Could cilostazol be contributing to her tachycardia and palpitations? Is it worth reconsidering?
+4. Could cilostazol be contributing to her tachycardia and palpitations? Is it worth reconsidering? (Mama reports cilostazol causes no dizziness and attributes the racing heart to amlodipine — 2026-08-03.)
 5. Is low-dose amlodipine (2.5 mg) with a beta-blocker onboard a reasonable option, or is indapamide preferable?
 6. Extracranial carotid imaging?
 7. Both-arm BP check for subclavian disease.
@@ -441,14 +446,15 @@ Don't attempt everything at once. Sequenced:
 
 **GP:**
 1. Full medication reconciliation into one printed list — built from the physical boxes and the doctor's prescription, verifying every line.
-2. HbA1c, renal function, urine ACR, FBC, B12, Lp(a), vitamin D.
-3. ABPM and sleep apnea screening.
-4. Anxiety management plan that isn't long-term bromazepam.
-5. Screening and vaccination catch-up.
-6. Menopause and bone health assessment.
+2. **Anxiety-medication reconciliation**: the compounded racikan (clobazam 10 mg + sertraline 50 mg, 5 tablets each) and the bromazepam PRN — how is she actually using them, is the clobazam course finished, and is a proper daily SSRI intended?
+3. HbA1c, renal function, urine ACR, FBC, B12, Lp(a), vitamin D.
+4. ABPM and sleep apnea screening.
+5. Anxiety management plan that isn't long-term bromazepam.
+6. Screening and vaccination catch-up.
+7. Menopause and bone health assessment.
 
 ---
 
-**One closing thought.** Her regimen is clean and coherent — beta-blocker, dual antiplatelet, statin, UDCA. What's left is entirely mundane, which is the point: the measurement protocol in 1.1, confirming the statin is actually being swallowed, and knowing which hospital to drive to. Her 11.1 METs and clean coronaries mean she has real biological runway. The job is protecting the brain: steady blood pressure, a settled medication list, and not letting anxiety drive clinical decisions.
+**One closing thought.** Her regimen is clean and coherent — beta-blocker, dual antiplatelet, statin, UDCA. What's left is entirely mundane, which is the point: the measurement protocol in 1.1, confirming the statin is actually being swallowed, and knowing which hospital to drive to. Her 11.1 METs and clean coronaries mean she has real biological runway. The job is protecting the brain: steady blood pressure, a settled medication list, and not letting anxiety drive clinical decisions. And the good news is she's telling you what works for her — cilostazol doesn't bother her, telmisartan makes her dizzy, the racing heart is gone since amlodipine stopped, and she likes plank and wall sit. Meet her there.
 
 Please have every medication-related item above reviewed by her physicians before acting on it.

@@ -4,7 +4,7 @@ Berikut adalah program longevitas terstruktur yang disusun khusus berdasarkan te
 
 **Kerangka penting:** Saya bukan dokter beliau dan ini bukan nasihat medis. Semua yang ada di Bagian 0 dan segala hal yang menyangkut obat harus diputuskan oleh Dr. Budi Gunawan, seorang neurolog, dan seorang kardiolog. Perlakukan dokumen ini sebagai *paket ringkasan (briefing pack) dan protokol operasional* untuk dibawa ke janji temu tersebut.
 
-> **Revisi.** **31-07-2026** — keempat label apotek (Amlotel, Rosucor, Pletaal, Apo-Clopidogrel) terverifikasi cocok dengan narasi; keterangan pada kotak klopidogrel *Melancarkan darah* ("melancarkan aliran darah") adalah deskripsi sehari-hari yang wajar untuk antiplatelet; daftar obat koheren secara farmakologis. **02-08-2026** — pengecekan langsung dengan Mama mengonfirmasi regimen harian: nebivolol ½ tablet pagi **dan sebelum tidur**, klopidogrel 75 mg, cilostazol 100 mg dua kali sehari, Urdafalk setiap hari, vitamin lain, dan **Rosucor (rosuvastatin) 20 mg sebelum tidur**. Satu-satunya pertanyaan obat yang masih terbuka kini tertutup; diskusi target LDL dan mikroperdarahan di 2.3 tetap berlanjut. Tindak lanjut hari yang sama: **Heptal vs. Urdafalk diklarifikasi** — Mama mengonfirmasi Urdafalk diminum setiap hari dan Heptal tidak diminum (sengaja digantikan oleh rencana UDCA); item klarifikasi Heptal dihapus dari Bagian 3.2 dan 12.
+> **Revisi.** **31-07-2026** — keempat label apotek (Amlotel, Rosucor, Pletaal, Apo-Clopidogrel) terverifikasi cocok dengan narasi; keterangan pada kotak klopidogrel *Melancarkan darah* ("melancarkan aliran darah") adalah deskripsi sehari-hari yang wajar untuk antiplatelet; daftar obat koheren secara farmakologis. **02-08-2026** — pengecekan langsung dengan Mama mengonfirmasi regimen harian: nebivolol ½ tablet pagi **dan sebelum tidur**, klopidogrel 75 mg, cilostazol 100 mg dua kali sehari, Urdafalk setiap hari, vitamin lain, dan **Rosucor (rosuvastatin) 20 mg sebelum tidur**. Satu-satunya pertanyaan obat yang masih terbuka kini tertutup; diskusi target LDL dan mikroperdarahan di 2.3 tetap berlanjut. Tindak lanjut hari yang sama: **Heptal vs. Urdafalk diklarifikasi** — Mama mengonfirmasi Urdafalk diminum setiap hari dan Heptal tidak diminum (sengaja digantikan oleh rencana UDCA); item klarifikasi Heptal dihapus dari Bagian 3.2 dan 12. **03-08-2026** — WhatsApp lanjutan dari Mama: **cilostazol bukan penyebab pusing — telmisartan-lah penyebabnya** (menurunkan TD terlalu rendah, mengonfirmasi kekhawatiran telmisartan-rescue); **amlodipin (Amlotel) dikonfirmasi Mama sebagai penyebab jantung berdebar**, detak jantung kini lebih pelan dengan nebivolol; obat cemas racikan terdokumentasi sebagai **clobazam (CLOFRITIS) 10 mg + sertraline (FAHRENHEIT) 50 mg (masing-masing 5 tablet)** — "puyeng" paginya adalah efek gantung klasik benzodiazepin kerja panjang (clobazam), dan kursus SSRI 5 tablet bukan terapi yang cukup; **bromazepam ½ PRN tidak menyebabkan puyeng**; Mama suka **plank dan wall sit** (dimasukkan ke Bagian 4).
 
 ---
 
@@ -41,13 +41,13 @@ Artinya, infark lama itu **tidak** menjelaskan kejadian bulan Juli. Ada tiga kem
 
 Buat **satu daftar obat yang sudah direkonsiliasi**, ditandatangani oleh dokter yang merawat, yang mencakup resep Kuching, label-label apotek, dan apa yang benar-benar beliau telan hari ini. Foto setiap kotak dan blister lalu bacakan dengan lantang dan cocokkan dengan daftar dokter — kotak fisik obat adalah sumber kebenarannya.
 
-### 0.3 Episode denyut jantung 185 kemungkinan punya dua penyebab, bukan satu
+### 0.3 Episode denyut jantung 185 — penyebabnya kini terkonfirmasi oleh pasien
 
-Narasi yang ada menyalahkan amlodipin. Namun **cilostazol adalah inhibitor fosfodiesterase-3 yang secara independen meningkatkan denyut jantung dan menyebabkan palpitasi** — ini salah satu efek sampingnya yang paling umum. Takikardia refleks akibat amlodipin 10 mg *ditambah* cilostazol adalah penjelasan aditif yang masuk akal.
+Narasi yang ada menyalahkan amlodipin, dan perubahan oleh Dr. Budi Gunawan (menghentikan amlodipin 10 mg) mengikuti hal itu. **Mama kini mengonfirmasinya langsung (03-08-2026):** jantung berdebar kencang itu berasal dari Amlotel ("obat ... dari kucing" — cara beliau mengenali kotaknya); beliau sudah tidak meminumnya lagi; dan sejak beralih ke Nevodio (nebivolol) detak jantung lebih pelan. Beliau juga menyatakan cilostazol **tidak** menyebabkan pusing. Hipotesis dua-obat karenanya menyempit: **takikardia refleks amlodipin adalah penyebab utama**; kontribusi teoritis cilostazol kini menjadi pertanyaan sisa yang kecil (cilostazol masih ada dalam regimen, dan inhibitor PDE3 memang menaikkan denyut jantung — tetapi beliau melaporkan tidak ada masalah palpitasi saat ini).
 
-Mekanisme dua-obat ini adalah hipotesis **utama**. Tidak ada apa pun di mana pun dalam catatan — resep, label, atau narasi — yang merujuk pada masalah irama atau diagnosis aritmia. Ini bisa berarti dua hal: takikardia sinus refleks yang jinak menjadi lebih mungkin, tetapi takiaritmia paroksismal tidak pernah *disingkirkan* — hanya tidak pernah dicurigai. Dokumentasi irama tetap ada dalam daftar, dijadwalkan pada janji kardiologi berikutnya yang tersedia. Jika palpitasi kambuh, menangkap irama pada saat itu tetap merupakan hal paling informatif yang bisa dilakukan.
+Tidak ada apa pun di mana pun dalam catatan — resep, label, atau narasi — yang merujuk pada masalah irama atau diagnosis aritmia. Ini bisa berarti dua hal: takikardia sinus refleks yang jinak menjadi lebih mungkin, tetapi takiaritmia paroksismal tidak pernah *disingkirkan* — hanya tidak pernah dicurigai. Dokumentasi irama (Holter/patch 14 hari) tetap menjadi pemeriksaan kelengkapan berprioritas rendah pada janji kardiologi berikutnya; jika palpitasi kambuh, menangkap irama pada saat itu tetap merupakan hal paling informatif yang bisa dilakukan.
 
-Ini penting karena cilostazol masih ada dalam regimen beliau. Yang juga layak ditanyakan: apakah tiga malam nyeri perut dan muntah itu efek obat (cilostazol dan klopidogrel sama-sama menyebabkan gangguan lambung) atau **kolik bilier**? Perbedaan ini mengubah klasifikasi beliau dari "batu empedu asimtomatik" menjadi "batu empedu simtomatik", yang sepenuhnya mengubah rekomendasi bedah.
+Yang juga layak ditanyakan: apakah tiga malam nyeri perut dan muntah itu efek obat (cilostazol dan klopidogrel sama-sama menyebabkan gangguan lambung) atau **kolik bilier**? Perbedaan ini mengubah klasifikasi beliau dari "batu empedu asimtomatik" menjadi "batu empedu simtomatik", yang sepenuhnya mengubah rekomendasi bedah.
 
 ### 0.4 Tanyakan apakah MRI menunjukkan mikroperdarahan serebral (cerebral microbleeds)
 
@@ -99,7 +99,7 @@ Angka-angka beliau terdistorsi oleh kecemasan dan teknik pengukuran, dan itu men
 Untuk stroke lakunar dengan penyakit pembuluh darah kecil, bukti ilmiah (SPS3, PROGRESS, SPRINT-MIND) mendukung **rata-rata tekanan darah rumah di bawah 130/80**, dengan banyak neurolog menargetkan **sistolik 120–130**. Sistolik yang lebih rendah pada populasi ini berkaitan dengan lebih sedikit stroke berulang dan progresivitas substansia alba yang lebih lambat.
 
 Namun ada dua catatan khusus untuk beliau:
-- Beliau menjadi simtomatik pada 100/58. Hindari sistolik di bawah ~110 dan periksa **penurunan ortostatik** (TD berbaring, lalu berdiri pada menit ke-1 dan ke-3) setiap kali ada perubahan dosis.
+- Beliau menjadi simtomatik pada 100/58. Hindari sistolik di bawah ~110 dan periksa **penurunan ortostatik** (TD berbaring, lalu berdiri pada menit ke-1 dan ke-3) setiap kali ada perubahan dosis. **Mama mengonfirmasi (03-08-2026): telmisartan-lah yang membuat beliau pusing — tekanan darahnya turun terlalu rendah.**
 - **Kestabilan mengalahkan keagresifan.** Variabilitas tekanan darah secara independen berkaitan dengan demensia dan progresivitas substansia alba. Angka stabil 128/78 sepanjang hari lebih baik daripada rata-rata 120 yang dicapai dengan ayunan antara 95 dan 155.
 
 ### 1.3 Pertanyaan yang perlu diajukan tentang regimen
@@ -107,11 +107,11 @@ Namun ada dua catatan khusus untuk beliau:
 Saya ingin berhati-hati di sini — ini adalah pertanyaan, bukan rekomendasi. Namun beberapa hal dalam pengaturan saat ini layak ditinjau ulang oleh dokter:
 
 - **Saat ini beliau menggunakan monoterapi beta-blocker untuk pencegahan stroke.** Beta-blocker umumnya bukan lini pertama untuk hipertensi dalam konteks pencegahan stroke; ARB, penghambat kanal kalsium, dan diuretik mirip-tiazid memiliki data luaran yang lebih baik (ASCOT, LIFE). Nebivolol adalah beta-blocker yang lebih baik daripada atenolol, tetapi pertanyaan "mengapa tulang punggung terapinya beta-blocker dan bukan ARB?" adalah pertanyaan yang wajar.
-- **Telmisartan digunakan sebagai obat penyelamat (rescue), dan itu tidak bisa bekerja seperti itu.** ARB butuh berjam-jam untuk mulai bekerja dan 2–4 minggu untuk efek penuh. Meminum telmisartan 80 mg sebagai respons terhadap angka 160/90 secara farmakologis tidak masuk akal — tidak memberi efek akut, dan pola berhenti-mulai justru menciptakan variabilitas yang merusak pembuluh darah kecil. Obat ini seharusnya diminum setiap hari, atau tidak sama sekali.
+- **Telmisartan digunakan sebagai obat penyelamat (rescue), dan itu tidak bisa bekerja seperti itu.** ARB butuh berjam-jam untuk mulai bekerja dan 2–4 minggu untuk efek penuh. Meminum telmisartan 80 mg sebagai respons terhadap angka 160/90 secara farmakologis tidak masuk akal — tidak memberi efek akut, dan pola berhenti-mulai justru menciptakan variabilitas yang merusak pembuluh darah kecil. Obat ini seharusnya diminum setiap hari, atau tidak sama sekali. **Mama sendiri telah mengonfirmasi dampaknya (03-08-2026): telmisartan-lah yang membuat beliau pusing, karena menurunkan tekanan darahnya terlalu rendah.** Itu bukti langsung dari hipotensi simtomatik akibat pola rescue — di samping argumen farmakologis, beliau memberi tahu Anda bahwa obat itu membuatnya merasa tidak enak badan. Ini sebaiknya diselesaikan segera dengan dokter: entah ARB dosis rendah harian (dengan beta-blocker) atau tidak sama sekali.
 - **Kesimpulan tentang amlodipin mungkin terlalu luas.** Masalahnya kemungkinan adalah *dosisnya* (10 mg adalah dosis maksimum) dan kombinasinya dengan cilostazol — bukan golongan obatnya. Amlodipin dosis rendah (2,5 mg) yang ditambahkan *di atas* beta-blocker biasanya tidak menimbulkan takikardia refleks, dan CCB dihidropiridin justru dikenal *mengurangi* variabilitas tekanan darah.
 - **Indapamid layak ditanyakan.** Uji klinis PROGRESS (ACE-inhibitor + indapamid) menurunkan stroke berulang dan memperlambat progresivitas hiperintensitas substansia alba secara spesifik — uji klinis yang paling langsung relevan dengan situasi beliau.
 - **Tidak ada yang membatasi titrasi yang memengaruhi laju denyut jantung.** Nebivolol dapat dititrasi atas dasar manfaatnya sendiri, dan menambahkan amlodipin dosis rendah atau indapamid tidak menimbulkan kekhawatiran konduksi — satu-satunya obat yang aktif memengaruhi laju denyut jantung dalam regimen ini adalah nebivolol (memperlambat) dan cilostazol (mempercepat).
-- **Bromazepam harus dibatasi waktunya secara ketat.** Penggunaan benzodiazepin jangka panjang pada orang dengan penyakit pembuluh darah kecil adalah pertukaran yang buruk: jatuh, gangguan kognitif, dan kaitan dengan demensia. Jika kecemasan yang memicu tekanan darah, maka kecemasannya yang harus ditangani dengan benar (lihat Bagian 6), bukan dengan benzodiazepin PRN tanpa batas waktu.
+- **Bromazepam harus dibatasi waktunya secara ketat.** Penggunaan benzodiazepin jangka panjang pada orang dengan penyakit pembuluh darah kecil adalah pertukaran yang buruk: jatuh, gangguan kognitif, dan kaitan dengan demensia. Jika kecemasan yang memicu tekanan darah, maka kecemasannya yang harus ditangani dengan benar (lihat Bagian 6), bukan dengan benzodiazepin PRN tanpa batas waktu. Status terkini (03-08-2026): setengah tablet Akamon 3 (bromazepam 3 mg) PRN hanya saat diperlukan tidak menyebabkan pusing dan bisa ditoleransi; obat cemas racikan berisi clobazam 10 mg + sertraline 50 mg (masing-masing 5 tablet) — lihat Bagian 6.
 
 ### 1.4 Pengungkit tekanan darah non-farmakologis, berdasarkan besar efeknya
 
@@ -200,10 +200,13 @@ Angka 11,1 METs adalah aset nyata. Tujuannya adalah mempertahankan dan sedikit m
 | **Langkah harian** | Harian | Bangun hingga 7.000–8.000/hari. Manfaat mortalitas sebagian besar mendatar di sekitar level ini pada perempuan seusianya. |
 | **Mobilitas/peregangan** | 3×/minggu | 10 menit. |
 
+**Kesukaan beliau: plank dan wall sit (03-08-2026).** Mama mengaku suka keduanya — pertahankan dalam program, karena kepatuhan adalah segalanya. Gunakan 2–3×/minggu sebagai latihan isometrik inti/tungkai (lihat 4.2 untuk aturan isometrik).
+
 ### 4.2 Catatan penting khusus untuk beliau
 
 - **Jangan gunakan zona denyut jantung sebagai panduan intensitas.** Nebivolol menumpulkan respons denyut jantung; angkanya akan menyesatkan. Gunakan talk test dan persepsi upaya.
 - **Hindari manuver Valsalva berat** — tidak ada angkatan maksimal, tidak menahan napas saat menahan beban. Buang napas saat mengerahkan tenaga. Mengejan berat melonjakkan tekanan sistolik secara tajam.
+- **Isometrik (plank, wall sit — kesukaan beliau) boleh dengan aturan.** Keduanya menaikkan tekanan darah selama ditahan, jadi: bernapas terus-menerus (jangan pernah menahan napas), tahan 20–30 detik × 2–3 set, berhenti bila pusing atau sesak, dan jangan pernah mengukur tekanan darah dalam 30 menit setelahnya.
 - **Jangan pernah mengukur tekanan darah dalam 30 menit setelah olahraga.** Angka pasca-olahraga tidak bermakna dan hanya akan memicu panik.
 - **Berhenti dan istirahat** jika beliau mengalami nyeri dada, sesak napas yang tidak biasa, palpitasi, pusing, atau gejala neurologis apa pun. Jika palpitasi kambuh, itulah saatnya melakukan EKG — irama saat kejadian adalah kunci diagnostik emas.
 - **Cilostazol** dapat menyebabkan sakit kepala dan palpitasi saat aktivitas; jika hal ini membatasi beliau, itu alasan untuk meninjau ulang obatnya bersama dokter, bukan alasan berhenti berolahraga.
@@ -269,6 +272,8 @@ Urutan kejadian 31 Juli — 140/80, panik, 137/78, diabaikan, 160/90, minum obat
 - **Disiplin pengukuran** seperti pada 1.1 — dua kali sehari, tidak mengukur ulang, hanya rata-rata mingguan. Ini saja sering kali memutus lingkaran tersebut.
 - **Latihan napas lambat**, 10–15 menit setiap hari pada 6 napas/menit (kira-kira 4 detik masuk, 6 detik keluar). Lakukan sebagai *praktik harian terjadwal*, bukan sebagai reaksi terhadap angka tinggi. Terbukti menurunkan tekanan darah dan memberi beliau rasa kendali.
 - **Tangani kecemasannya dengan benar.** Jika menetap, CBT adalah lini pertama, dan SSRI adalah pilihan jangka panjang yang jauh lebih baik daripada bromazepam tanpa batas waktu. Angkat ini secara eksplisit ke dokter umum beliau. Benzodiazepin pada orang dengan penyakit pembuluh darah kecil adalah pertukaran jangka panjang yang buruk.
+- **Ketahui isi obat kecemasan yang sebenarnya (terdokumentasi 03-08-2026).** Obat cemas racikan berisi **clobazam (CLOFRITIS) 10 mg + sertraline (FAHRENHEIT) 50 mg, masing-masing 5 tablet**. "Puyeng" pagi yang ditimbulkannya adalah **efek gantung clobazam** yang klasik — clobazam adalah benzodiazepin kerja panjang (t½ ~36–42 jam, metabolit aktif ~71–82 jam) yang terakumulasi; rasa puyengnya hilang menjelang sore. Dua implikasinya: (1) pusing pagi setelah meminumnya adalah farmakologi yang wajar, bukan keadaan darurat medis — meskipun cek tekanan darah ortostatik pada pagi yang puyeng dapat memastikan itu bukan hipotensi; (2) **5 tablet sertraline bukan kursus SSRI yang terapeutik** — SSRI butuh 2–6 minggu untuk bekerja, jadi jika kecemasannya menetap, solusi nyatanya adalah SSRI harian yang diresepkan sebagai kursus yang benar, plus CBT, bukan benzodiazepin tambahan. Konfirmasikan ke peresep berapa lama kursus clobazam dan kapan berhentinya.
+- **Bromazepam (Akamon 3) ½ PRN — pola saat ini baik-baik saja (03-08-2026).** Setengah tablet hanya saat diperlukan tidak menyebabkan pusing dan sesuai penggunaan 31 Juli. Pertahankan sesekali dan terbatas waktu — jangan pernah harian.
 - **Tidur:** 7–8 jam, jadwal konsisten, kamar gelap dan sejuk, tanpa layar satu jam terakhir, tanpa kafein setelah tengah hari. **Skrining sleep apnea** (0.6) — ini sekaligus isu tidur dan isu vaskular.
 - **Bingkai ulang tujuannya bagi beliau:** targetnya adalah *rata-rata mingguan yang baik*, bukan satu angka yang sempurna. Tekanan darah siapa pun tidak stabil; tekanan darahnya yang bereaksi terhadap pekerjaan rumah dan stres adalah fisiologi normal, bukan kegagalan.
 - **Infrastruktur sosial dan tujuan hidup:** kontak rutin dengan teman/keluarga, sebuah hobi, keterlibatan komunitas atau keagamaan. Ini bukan hal remeh — koneksi sosial memiliki besar efek terhadap mortalitas yang sebanding dengan berhenti merokok.
@@ -379,7 +384,7 @@ Palpitasi menetap, denyut jantung istirahat terus-menerus di atas 120, pingsan a
 Jangan lakukan semuanya sekaligus. Bertahap:
 
 **Minggu 1–2 — Keamanan dan data**
-- Buat satu daftar obat yang sudah direkonsiliasi dan ditandatangani dokter, disusun dari kotak fisik obatnya
+- Buat satu daftar obat yang sudah direkonsiliasi dan ditandatangani dokter, disusun dari kotak fisik obatnya — sertakan **racikan obat cemas (clobazam 10 mg + sertraline 50 mg) dan bromazepam PRN**; perjelas apakah kursus racikan sudah selesai atau masih berjalan
 - Buat janji konsultasi neurologi, kardiologi, dan bedah/GI
 - Pesan lab yang belum ada (HbA1c, fungsi ginjal, ACR urin, darah lengkap, B12, Lp(a), vitamin D)
 - Minta pelaporan mikroperdarahan dari MRI yang sudah ada
@@ -406,7 +411,7 @@ Jangan lakukan semuanya sekaligus. Bertahap:
 **Minggu 9–12 — Konsolidasi**
 - Aerobik hingga 150+ menit/minggu; tambahkan latihan keseimbangan harian
 - Ganti separuh nasi dengan *beras merah*
-- Tangani manajemen kecemasan dengan benar (rujukan CBT atau diskusi SSRI); tapering bromazepam bila sudah menjadi rutin
+- Tangani manajemen kecemasan dengan benar (rujukan CBT atau diskusi SSRI); tapering bromazepam bila sudah menjadi rutin — catatan: racikan sudah mengandung sertraline: klarifikasi ke dokter apakah kursus SSRI harian yang benar memang dimaksudkan (5 tablet tidak cukup)
 - Jadwalkan mamografi, skrining serviks, kolonoskopi/FIT, DEXA
 - Vaksin termasuk Shingrix
 - Tinjauan tiga bulan: rata-rata TD, lab, lingkar pinggang, status fungsional
@@ -427,9 +432,9 @@ Jangan lakukan semuanya sekaligus. Bertahap:
 
 **Kardiolog:**
 1. Regimen beliau adalah nebivolol, klopidogrel, cilostazol, UDCA, dan rosuvastatin 20 mg setiap malam (semuanya terkonfirmasi 02-08-2026). Pernahkah aritmia dicurigai atau didokumentasikan selama ini?
-2. Masih bisakah dilakukan Holter atau patch 14 hari untuk mengkarakterisasi episode denyut jantung 185? Tidak mendesak, tetapi mekanismenya belum tuntas.
+2. Masih bisakah dilakukan Holter atau patch 14 hari untuk mengkarakterisasi episode denyut jantung 185? Tidak mendesak — Mama mengaitkan jantung berdebar itu dengan amlodipin yang sudah dihentikan (03-08-2026), jadi mekanismenya sebagian besar tuntas; ini pemeriksaan kelengkapan.
 3. Ekokardiogram untuk menilai hipertrofi ventrikel kiri?
-4. Mungkinkah cilostazol berkontribusi pada takikardia dan palpitasinya? Layakkah dipertimbangkan ulang?
+4. Mungkinkah cilostazol berkontribusi pada takikardia dan palpitasinya? Layakkah dipertimbangkan ulang? (Mama melaporkan cilostazol tidak menyebabkan pusing dan mengaitkan jantung berdebar dengan amlodipin — 03-08-2026.)
 5. Apakah amlodipin dosis rendah (2,5 mg) bersama beta-blocker merupakan pilihan wajar, atau indapamid lebih baik?
 6. Pencitraan karotis ekstrakranial?
 7. Pemeriksaan tekanan darah kedua lengan untuk penyakit subklavia.
@@ -443,14 +448,15 @@ Jangan lakukan semuanya sekaligus. Bertahap:
 
 **Dokter Umum:**
 1. Rekonsiliasi obat lengkap menjadi satu daftar tercetak — disusun dari kotak fisik obat dan resep dokter, dengan memverifikasi setiap baris.
-2. HbA1c, fungsi ginjal, ACR urin, darah lengkap, B12, Lp(a), vitamin D.
-3. ABPM dan skrining sleep apnea.
-4. Rencana penanganan kecemasan yang bukan bromazepam jangka panjang.
-5. Pengejaran skrining dan vaksinasi yang tertinggal.
-6. Penilaian menopause dan kesehatan tulang.
+2. **Rekonsiliasi obat kecemasan**: racikan (clobazam 10 mg + sertraline 50 mg, masing-masing 5 tablet) dan bromazepam PRN — bagaimana beliau benar-benar menggunakannya, apakah kursus clobazam sudah selesai, dan apakah SSRI harian yang benar memang dimaksudkan?
+3. HbA1c, fungsi ginjal, ACR urin, darah lengkap, B12, Lp(a), vitamin D.
+4. ABPM dan skrining sleep apnea.
+5. Rencana penanganan kecemasan yang bukan bromazepam jangka panjang.
+6. Pengejaran skrining dan vaksinasi yang tertinggal.
+7. Penilaian menopause dan kesehatan tulang.
 
 ---
 
-**Satu pemikiran penutup.** Regimen beliau bersih dan koheren — beta-blocker, antiplatelet ganda, statin, UDCA. Yang tersisa seluruhnya hal-hal biasa, dan justru itulah intinya: protokol pengukuran di 1.1, memastikan statin benar-benar ditelan, dan mengetahui rumah sakit mana yang harus dituju. Angka 11,1 METs dan koroner yang bersih berarti beliau punya cadangan biologis yang nyata. Tugasnya adalah melindungi otak: tekanan darah yang stabil, daftar obat yang tertata, dan tidak membiarkan kecemasan mengendalikan keputusan klinis.
+**Satu pemikiran penutup.** Regimen beliau bersih dan koheren — beta-blocker, antiplatelet ganda, statin, UDCA. Yang tersisa seluruhnya hal-hal biasa, dan justru itulah intinya: protokol pengukuran di 1.1, memastikan statin benar-benar ditelan, dan mengetahui rumah sakit mana yang harus dituju. Angka 11,1 METs dan koroner yang bersih berarti beliau punya cadangan biologis yang nyata. Tugasnya adalah melindungi otak: tekanan darah yang stabil, daftar obat yang tertata, dan tidak membiarkan kecemasan mengendalikan keputusan klinis. Dan kabar baiknya, beliau memberi tahu apa yang berhasil untuknya — cilostazol tidak mengganggu, telmisartan membuatnya pusing, jantung berdebar sudah hilang sejak amlodipin dihentikan, dan beliau suka plank dan wall sit. Sambut beliau di sana.
 
 Mohon setiap hal yang berkaitan dengan obat di atas ditinjau oleh dokter beliau sebelum ditindaklanjuti.
