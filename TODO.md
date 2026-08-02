@@ -11,7 +11,6 @@ Derived from the longevity program (PROGRAM_OPUS.md) built around Mama's (Ratna 
 ## ⚡ Top Priorities — this week (from Section 0: "resolve within two weeks")
 
 - [ ] Produce **one physician-signed reconciled medication list** — build it from the physical boxes/blisters (photograph every box), cross-checked against the Kuching prescription and pharmacy labels
-- [x] **Confirm rosuvastatin (Rosucor) 20 mg nightly is still being taken** — **RESOLVED 2026-08-02**: Mama confirmed by WhatsApp that she takes Rosucor before sleep every night ("Minum dong sblom tidur"). The only open medication question in the file is now closed.
 - [ ] Run the **both-arm BP check** (0.1): measure BP in both arms, 3× each, same sitting; >15 mmHg systolic difference → subclavian stenosis concern; adopt the **higher arm** for all future readings
 - [ ] Ask the doctor to request **microbleed count/distribution** reporting from the existing MRI (T2*/SWI sequence) — no new scan needed
 - [ ] **Book neurology, cardiology, and surgical/GI consultations**
@@ -32,8 +31,6 @@ Derived from the longevity program (PROGRAM_OPUS.md) built around Mama's (Ratna 
 ### 0.2 Medication reconciliation — routine housekeeping
 - [ ] Produce **one physician-signed reconciled medication list** covering the Kuching prescription, the pharmacy labels, and what she is actually swallowing today
 - [ ] Build it from the **physical boxes** — photograph every box and blister and read them aloud against the doctor's list; the physical boxes are the source of truth
-- Note: all four pharmacy labels (Amlotel, Rosucor, Pletaal, Apo-Clopidogrel) agree with the narrative; the clopidogrel box remark *Melancarkan darah* ("smooth blood flow") is a fair everyday description of an antiplatelet — nothing to chase there
-- [x] Settle **rosuvastatin status** — **RESOLVED 2026-08-02** (Mama confirmed nightly Rosucor 20 mg before sleep; see Top Priorities / 2.3)
 
 ### 0.3 The HR 185 episode — two suspected causes
 - [ ] Note the **two-drug mechanism (amlodipine reflex tachycardia + cilostazol) is the leading hypothesis** — nothing in the record references a rhythm problem or an arrhythmia diagnosis, so benign reflex sinus tachycardia is more likely, but a paroxysmal tachyarrhythmia has never been *excluded* — only never suspected
@@ -115,8 +112,7 @@ Derived from the longevity program (PROGRAM_OPUS.md) built around Mama's (Ratna 
 - [ ] **Fall prevention** matters more now (see 4.3) — especially on dual antiplatelets
 
 ### 2.3 Statin question — lipids are *not* optimal for a secondary-prevention patient
-- [x] Confirm **rosuvastatin (Rosucor) 20 mg nightly** is still being taken — **CONFIRMED 2026-08-02** via WhatsApp: Mama takes Rosucor before sleep every night ("Minum dong sblom tidur"); the second nebivolol half-tablet is also taken before sleep. The only open medication question in the file is now closed — **the LDL-target discussion below remains live** (LDL 2.1 vs <1.8/<1.4 mmol/L, informed by the microbleed count)
-- [ ] Discuss LDL target with neurologist: secondary-prevention target **<1.8 mmol/L**, many guidelines **<1.4 mmol/L** (hers is 2.1)
+- [ ] Discuss LDL target with neurologist: secondary-prevention target **<1.8 mmol/L**, many guidelines **<1.4 mmol/L** (hers is 2.1; rosuvastatin 20 mg nightly confirmed 2026-08-02)
 - [ ] Note the counterpoint: with microbleeds, aggressive LDL lowering has a theoretical ICH association — decide **with** the microbleed count in hand
 
 ---
@@ -313,7 +309,7 @@ The July 31 sequence (140/80 → panic → 137/78 → 160/90 → medicate) is a 
 
 **Weeks 1–2 — Safety and data**
 - [ ] Produce **one physician-signed reconciled medication list, built from the physical boxes**
-- [x] **Confirm rosuvastatin status — DONE 2026-08-02** (Mama confirmed nightly Rosucor 20 mg before sleep); clarify Heptal vs Urdafalk
+- [ ] Clarify Heptal vs Urdafalk
 - [ ] Book neurology, cardiology, surgical/GI consultations
 - [ ] Order missing labs (HbA1c, renal, urine ACR, FBC, B12, Lp(a), vitamin D)
 - [ ] Request microbleed reporting from the existing MRI
@@ -395,8 +391,8 @@ The July 31 sequence (140/80 → panic → 137/78 → 160/90 → medicate) is a 
 - [x] Urdafalk (ursodeoxycholic acid) 1-month course started
 - [x] Repeat abdominal ultrasound at 1-month mark **scheduled** (not yet done)
 - [x] Emergency treatment of the July acute event (sublingual captopril, ED) — resolved
-- [x] Medication list verified against pharmacy labels (2026-07-31): all four labels (Amlotel, Rosucor, Pletaal, Apo-Clopidogrel) agree with the narrative; the clopidogrel box remark *Melancarkan darah* ("smooth blood flow") is a fair everyday description of an antiplatelet — **Rosucor 20 mg at night** (rosuvastatin brand) confirmed — regimen pharmacologically coherent: beta-blocker, dual antiplatelet, statin, UDCA
-- [x] **Rosuvastatin confirmed as actually being swallowed (2026-08-02)**: direct WhatsApp check with Mama — Rosucor 20 mg before sleep nightly; nebivolol ½ tablet morning and before sleep; clopidogrel 75 mg daily; cilostazol 100 mg ×2 daily; Urdafalk daily; plus vitamins. **The only open medication question in the file is now closed.**
+- [x] Medication list verified against pharmacy labels (2026-07-31): all four labels (Amlotel, Rosucor, Pletaal, Apo-Clopidogrel) agree with the narrative; the clopidogrel box remark *Melancarkan darah* ("smooth blood flow") is a fair everyday description of an antiplatelet — regimen pharmacologically coherent: beta-blocker, dual antiplatelet, statin, UDCA
+- [x] **Full daily regimen confirmed directly by Mama (2026-08-02, WhatsApp)**: nebivolol ½ tablet morning and before sleep, clopidogrel 75 mg, cilostazol 100 mg ×2, **rosuvastatin (Rosucor) 20 mg before sleep nightly** (the file's only open medication question — now closed), Urdafalk daily, plus vitamins
 
 ---
 
