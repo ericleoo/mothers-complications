@@ -2,7 +2,7 @@ Below is a structured longevity program built specifically around your mother's 
 
 **Important framing:** I'm not her physician and this isn't medical advice. Everything in Section 0 and anything involving medication should be decided by Dr. Budi Gunawan, a neurologist, and a cardiologist. Treat this document as a *briefing pack and operating protocol* to bring to those appointments.
 
-> **Revisions.** **2026-07-31** — all four pharmacy labels (Amlotel, Rosucor, Pletaal, Apo-Clopidogrel) verified against the narrative; the clopidogrel box remark *Melancarkan darah* ("smooth blood flow") is a fair everyday description of an antiplatelet; the medication list is pharmacologically coherent. **2026-08-02** — direct check with Mama confirmed her daily regimen: nebivolol ½ tablet morning **and before sleep**, clopidogrel 75 mg, cilostazol 100 mg twice daily, Urdafalk daily, other vitamins, and **Rosucor (rosuvastatin) 20 mg before sleep**. The only open medication question is now closed; the LDL-target and microbleed discussions in 2.3 remain live.
+> **Revisions.** **2026-07-31** — all four pharmacy labels (Amlotel, Rosucor, Pletaal, Apo-Clopidogrel) verified against the narrative; the clopidogrel box remark *Melancarkan darah* ("smooth blood flow") is a fair everyday description of an antiplatelet; the medication list is pharmacologically coherent. **2026-08-02** — direct check with Mama confirmed her daily regimen: nebivolol ½ tablet morning **and before sleep**, clopidogrel 75 mg, cilostazol 100 mg twice daily, Urdafalk daily, other vitamins, and **Rosucor (rosuvastatin) 20 mg before sleep**. The only open medication question is now closed; the LDL-target and microbleed discussions in 2.3 remain live. Same-day follow-up: **Heptal vs. Urdafalk clarified** — Mama takes Urdafalk daily and does not take Heptal (intentionally superseded by the UDCA plan); the Heptal clarification item is removed from Sections 3.2 and 12.
 
 ---
 
@@ -177,7 +177,6 @@ Actions:
 - Calculate **FIB-4** once you have the platelet count — it's free and stratifies fibrosis risk.
 - If FIB-4 is indeterminate or high, request **FibroScan** or ELF testing.
 - Honest accounting of **alcohol intake**.
-- Clarify **Heptal vs. Urdafalk** — was Heptal (a hepatoprotective) intentionally discontinued, or did it just fall off the list?
 
 ### 3.3 Weight and waist
 
@@ -379,7 +378,6 @@ Don't attempt everything at once. Sequenced:
 
 **Weeks 1–2 — Safety and data**
 - Produce one physician-signed reconciled medication list, built from the physical boxes
-- Clarify Heptal vs. Urdafalk
 - Book neurology, cardiology, and surgical/GI consultations
 - Order missing labs (HbA1c, renal, urine ACR, FBC, B12, Lp(a), vitamin D)
 - Request microbleed reporting from the existing MRI

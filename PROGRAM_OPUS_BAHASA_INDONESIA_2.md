@@ -4,7 +4,7 @@ Berikut adalah program longevitas terstruktur yang disusun khusus berdasarkan te
 
 **Kerangka penting:** Saya bukan dokter beliau dan ini bukan nasihat medis. Semua yang ada di Bagian 0 dan segala hal yang menyangkut obat harus diputuskan oleh Dr. Budi Gunawan, seorang neurolog, dan seorang kardiolog. Perlakukan dokumen ini sebagai *paket ringkasan (briefing pack) dan protokol operasional* untuk dibawa ke janji temu tersebut.
 
-> **Revisi.** **31-07-2026** — keempat label apotek (Amlotel, Rosucor, Pletaal, Apo-Clopidogrel) terverifikasi cocok dengan narasi; keterangan pada kotak klopidogrel *Melancarkan darah* ("melancarkan aliran darah") adalah deskripsi sehari-hari yang wajar untuk antiplatelet; daftar obat koheren secara farmakologis. **02-08-2026** — pengecekan langsung dengan Mama mengonfirmasi regimen harian: nebivolol ½ tablet pagi **dan sebelum tidur**, klopidogrel 75 mg, cilostazol 100 mg dua kali sehari, Urdafalk setiap hari, vitamin lain, dan **Rosucor (rosuvastatin) 20 mg sebelum tidur**. Satu-satunya pertanyaan obat yang masih terbuka kini tertutup; diskusi target LDL dan mikroperdarahan di 2.3 tetap berlanjut.
+> **Revisi.** **31-07-2026** — keempat label apotek (Amlotel, Rosucor, Pletaal, Apo-Clopidogrel) terverifikasi cocok dengan narasi; keterangan pada kotak klopidogrel *Melancarkan darah* ("melancarkan aliran darah") adalah deskripsi sehari-hari yang wajar untuk antiplatelet; daftar obat koheren secara farmakologis. **02-08-2026** — pengecekan langsung dengan Mama mengonfirmasi regimen harian: nebivolol ½ tablet pagi **dan sebelum tidur**, klopidogrel 75 mg, cilostazol 100 mg dua kali sehari, Urdafalk setiap hari, vitamin lain, dan **Rosucor (rosuvastatin) 20 mg sebelum tidur**. Satu-satunya pertanyaan obat yang masih terbuka kini tertutup; diskusi target LDL dan mikroperdarahan di 2.3 tetap berlanjut. Tindak lanjut hari yang sama: **Heptal vs. Urdafalk diklarifikasi** — Mama mengonfirmasi Urdafalk diminum setiap hari dan Heptal tidak diminum (sengaja digantikan oleh rencana UDCA); item klarifikasi Heptal dihapus dari Bagian 3.2 dan 12.
 
 ---
 
@@ -179,7 +179,6 @@ Tindakan:
 - Hitung **FIB-4** setelah ada jumlah trombosit — gratis dan menstratifikasi risiko fibrosis.
 - Jika FIB-4 indeterminate atau tinggi, mintalah **FibroScan** atau tes ELF.
 - Pencatatan jujur atas **asupan alkohol**.
-- Perjelas **Heptal vs. Urdafalk** — apakah Heptal (hepatoprotektor) sengaja dihentikan, atau hanya terlewat dari daftar?
 
 ### 3.3 Berat badan dan lingkar pinggang
 
@@ -381,7 +380,6 @@ Jangan lakukan semuanya sekaligus. Bertahap:
 
 **Minggu 1–2 — Keamanan dan data**
 - Buat satu daftar obat yang sudah direkonsiliasi dan ditandatangani dokter, disusun dari kotak fisik obatnya
-- Perjelas Heptal vs. Urdafalk
 - Buat janji konsultasi neurologi, kardiologi, dan bedah/GI
 - Pesan lab yang belum ada (HbA1c, fungsi ginjal, ACR urin, darah lengkap, B12, Lp(a), vitamin D)
 - Minta pelaporan mikroperdarahan dari MRI yang sudah ada
