@@ -4,6 +4,8 @@ Berikut adalah program longevitas terstruktur yang disusun khusus berdasarkan te
 
 **Kerangka penting:** Saya bukan dokter beliau dan ini bukan nasihat medis. Semua yang ada di Bagian 0 dan segala hal yang menyangkut obat harus diputuskan oleh Dr. Budi Gunawan, seorang neurolog, dan seorang kardiolog. Perlakukan dokumen ini sebagai *paket ringkasan (briefing pack) dan protokol operasional* untuk dibawa ke janji temu tersebut.
 
+> **Revisi — 31-07-2026 (daftar obat terverifikasi).** Label apotek berbunyi **Apo-Clopidogrel 75 mg sekali sehari** — antiplatelet yang diresepkan untuk beliau. Keterangan "melancarkan darah / antiaritmia" pada kotak klopidogrel adalah keanehan pelabelan, bukan obat kedua. Merek statinnya adalah **Rosucor 20 mg di malam hari**. Efek bersihnya: daftar obat beliau koheren secara farmakologis, dan **status rosuvastatin adalah pertanyaan terbuka terpenting**.
+
 ---
 
 ## Gambaran strategis
@@ -21,7 +23,7 @@ Aset nyata beliau: **11,1 METs pada uji treadmill adalah hasil yang sangat baik*
 
 ## Bagian 0 — Enam hal yang harus diselesaikan sebelum yang lain
 
-Ini adalah hal-hal yang saya ingin tuntas dalam dua minggu.
+Ini adalah hal-hal yang saya ingin tuntas dalam dua minggu. Urutan yang disarankan: **0.1** (lateralitas) → **0.4** (mikroperdarahan) → **0.6** (ABPM + sleep apnea) → **0.5** (lab yang belum ada) → **0.3** (mekanisme takikardia) → **0.2** (pemberesan rekonsiliasi).
 
 ### 0.1 Masalah lateralitas — tanyakan langsung ke neurolog
 
@@ -35,19 +37,20 @@ Artinya, infark lama itu **tidak** menjelaskan kejadian bulan Juli. Ada tiga kem
 
 **Tes murah yang bisa dilakukan di rumah minggu ini:** ukur tekanan darah di **kedua lengan**, tiga kali masing-masing, dalam satu sesi duduk yang sama. Selisih sistolik yang konsisten >15 mmHg mengarah ke stenosis subklavia — yang sekaligus menjelaskan tangan dingin dan merupakan penanda risiko kardiovaskular. Selain itu: gunakan lengan dengan angka **lebih tinggi** untuk semua pengukuran ke depan.
 
-### 0.2 Rekonsiliasi obat — pertanyaan soal propafenon
+### 0.2 Rekonsiliasi obat — satu daftar yang terverifikasi
 
-**Apo-Propafenone 150 mg tiga kali sehari pada label apotek adalah item paling mendesak dalam berkas ini.** Propafenon adalah antiaritmia Kelas 1C. Obat ini:
+Buat **satu daftar obat yang sudah direkonsiliasi**, ditandatangani oleh dokter yang merawat, yang mencakup resep Kuching, label-label apotek, dan apa yang benar-benar beliau telan hari ini. Foto setiap kotak dan blister lalu cocokkan dengan daftar dokter — susun daftar ini dari kotak fisik obatnya sendiri, bukan dari catatan-catatan sebelumnya.
 
-- Tidak boleh digunakan tanpa aritmia yang terdokumentasi dan ekokardiogram yang menyingkirkan penyakit jantung struktural.
-- Berkombinasi buruk dengan beta-blocker (bradikardia dan perlambatan konduksi yang bersifat aditif).
-- Membawa risiko proaritmia.
+Dua hal yang perlu diselesaikan sambil melakukannya:
 
-Pastikan dalam beberapa hari apakah beliau benar-benar meminumnya. Jika ya, perlu tinjauan dokter segera. Jika tidak, singkirkan obat itu dari rumah.
+- **Keterangan pada label.** Kotak klopidogrel bertuliskan "melancarkan darah / antiaritmia". "Melancarkan darah" adalah penjelasan awam yang wajar untuk antiplatelet; kata "antiaritmia" adalah keanehan pelabelan, bukan obat kedua. Minta konfirmasi apoteker agar tidak ada anggota keluarga yang salah membaca kotak itu.
+- **Rosuvastatin.** Pertanyaan obat yang benar-benar masih terbuka (lihat 2.3).
 
 ### 0.3 Episode denyut jantung 185 kemungkinan punya dua penyebab, bukan satu
 
 Narasi yang ada menyalahkan amlodipin. Namun **cilostazol adalah inhibitor fosfodiesterase-3 yang secara independen meningkatkan denyut jantung dan menyebabkan palpitasi** — ini salah satu efek sampingnya yang paling umum. Takikardia refleks akibat amlodipin 10 mg *ditambah* cilostazol adalah penjelasan aditif yang masuk akal.
+
+Mekanisme dua-obat ini adalah hipotesis **utama**, dan tidak ada apa pun dalam catatan yang menunjukkan seorang klinisi pernah menegakkan diagnosis aritmia. Ini bisa berarti dua hal: takikardia sinus refleks yang jinak menjadi lebih mungkin, tetapi takiaritmia paroksismal tidak pernah *disingkirkan* — hanya tidak pernah dicurigai. Dokumentasi irama tetap ada dalam daftar, dijadwalkan pada janji kardiologi berikutnya yang tersedia. Jika palpitasi kambuh, menangkap irama pada saat itu tetap merupakan hal paling informatif yang bisa dilakukan.
 
 Ini penting karena cilostazol masih ada dalam regimen beliau. Yang juga layak ditanyakan: apakah tiga malam nyeri perut dan muntah itu efek obat (cilostazol dan klopidogrel sama-sama menyebabkan gangguan lambung) atau **kolik bilier**? Perbedaan ini mengubah klasifikasi beliau dari "batu empedu asimtomatik" menjadi "batu empedu simtomatik", yang sepenuhnya mengubah rekomendasi bedah.
 
@@ -112,6 +115,7 @@ Saya ingin berhati-hati di sini — ini adalah pertanyaan, bukan rekomendasi. Na
 - **Telmisartan digunakan sebagai obat penyelamat (rescue), dan itu tidak bisa bekerja seperti itu.** ARB butuh berjam-jam untuk mulai bekerja dan 2–4 minggu untuk efek penuh. Meminum telmisartan 80 mg sebagai respons terhadap angka 160/90 secara farmakologis tidak masuk akal — tidak memberi efek akut, dan pola berhenti-mulai justru menciptakan variabilitas yang merusak pembuluh darah kecil. Obat ini seharusnya diminum setiap hari, atau tidak sama sekali.
 - **Kesimpulan tentang amlodipin mungkin terlalu luas.** Masalahnya kemungkinan adalah *dosisnya* (10 mg adalah dosis maksimum) dan kombinasinya dengan cilostazol — bukan golongan obatnya. Amlodipin dosis rendah (2,5 mg) yang ditambahkan *di atas* beta-blocker biasanya tidak menimbulkan takikardia refleks, dan CCB dihidropiridin justru dikenal *mengurangi* variabilitas tekanan darah.
 - **Indapamid layak ditanyakan.** Uji klinis PROGRESS (ACE-inhibitor + indapamid) menurunkan stroke berulang dan memperlambat progresivitas hiperintensitas substansia alba secara spesifik — uji klinis yang paling langsung relevan dengan situasi beliau.
+- **Tidak ada yang membatasi titrasi yang memengaruhi laju denyut jantung.** Nebivolol dapat dititrasi atas dasar manfaatnya sendiri, dan menambahkan amlodipin dosis rendah atau indapamid tidak menimbulkan kekhawatiran konduksi — satu-satunya obat yang aktif memengaruhi laju denyut jantung dalam regimen ini adalah nebivolol (memperlambat) dan cilostazol (mempercepat).
 - **Bromazepam harus dibatasi waktunya secara ketat.** Penggunaan benzodiazepin jangka panjang pada orang dengan penyakit pembuluh darah kecil adalah pertukaran yang buruk: jatuh, gangguan kognitif, dan kaitan dengan demensia. Jika kecemasan yang memicu tekanan darah, maka kecemasannya yang harus ditangani dengan benar (lihat Bagian 6), bukan dengan benzodiazepin PRN tanpa batas waktu.
 
 ### 1.4 Pengungkit tekanan darah non-farmakologis, berdasarkan besar efeknya
@@ -154,7 +158,7 @@ Berdasarkan kerangka Lancet Commission, berikut yang benar-benar dapat ditindakl
 Laporan Kuching menilai lipid beliau dengan rentang rujukan **pencegahan primer**. Beliau adalah pasien **pencegahan sekunder** (penyakit serebrovaskular yang sudah ada). Dengan kerangka itu:
 
 - **LDL 2,1 mmol/L berada di atas target pencegahan sekunder <1,8 mmol/L**, dan banyak panduan kini menggunakan <1,4 mmol/L untuk pasien risiko sangat tinggi.
-- **Pastikan beliau masih mengonsumsi rosuvastatin.** Obat ini tidak ada dalam daftar regimen saat ini. Jika terlanjur dihentikan, itu adalah celah yang signifikan dan tidak disengaja.
+- **Pastikan beliau masih mengonsumsi rosuvastatin — ini pertanyaan obat terbuka terpenting dalam berkas ini.** Obat ini muncul di resep Kuching *dan* di label apotek (Rosucor 20 mg di malam hari — penamaan merek kini sudah pasti), tetapi tidak ada dalam daftar regimen saat ini. Pasien pencegahan sekunder yang tanpa disadari tidak lagi mengonsumsi statinnya sejauh ini adalah bahaya dunia nyata yang paling mungkin tersisa dalam catatan ini. Tanyakan kepada beliau malam ini dan periksa kotaknya; jangan menunggu janji temu berikutnya.
 
 **Argumen tandingan yang perlu diangkat ke neurolog:** pada pasien dengan penyakit pembuluh darah kecil yang luas dan mikroperdarahan serebral, penurunan LDL yang agresif secara teoretis dikaitkan dengan perdarahan intraserebral. Inilah tepatnya mengapa jumlah mikroperdarahan dari poin 0.4 penting. Keputusan harus diambil dengan informasi itu di tangan, bukan tanpanya.
 
@@ -383,8 +387,8 @@ Palpitasi menetap, denyut jantung istirahat terus-menerus di atas 120, pingsan a
 Jangan lakukan semuanya sekaligus. Bertahap:
 
 **Minggu 1–2 — Keamanan dan data**
-- Selesaikan pertanyaan propafenon; hasilkan satu daftar obat yang sudah direkonsiliasi
-- Konfirmasi status rosuvastatin; perjelas Heptal vs. Urdafalk
+- Buat satu daftar obat yang sudah direkonsiliasi dan ditandatangani dokter
+- **Konfirmasi status rosuvastatin — item prioritas tertinggi dalam dua minggu ini;** perjelas Heptal vs. Urdafalk; tanyakan ke apoteker tentang keterangan "antiaritmia" pada label klopidogrel
 - Buat janji konsultasi neurologi, kardiologi, dan bedah/GI
 - Pesan lab yang belum ada (HbA1c, fungsi ginjal, ACR urin, darah lengkap, B12, Lp(a), vitamin D)
 - Minta pelaporan mikroperdarahan dari MRI yang sudah ada
@@ -431,8 +435,8 @@ Jangan lakukan semuanya sekaligus. Bertahap:
 8. Mohon dilakukan MoCA dasar.
 
 **Kardiolog:**
-1. Apakah beliau mengonsumsi propafenon, dan jika ya, mengapa? Apakah perlu ekokardiogram sebelum melanjutkannya?
-2. Bisakah dilakukan Holter atau patch 14 hari untuk mengarakterisasi takikardianya?
+1. Pernahkah aritmia dicurigai atau didokumentasikan selama ini?
+2. Masih bisakah dilakukan Holter atau patch 14 hari untuk mengkarakterisasi episode denyut jantung 185? Tidak mendesak, tetapi mekanismenya belum tuntas.
 3. Ekokardiogram untuk menilai hipertrofi ventrikel kiri?
 4. Mungkinkah cilostazol berkontribusi pada takikardia dan palpitasinya? Layakkah dipertimbangkan ulang?
 5. Apakah amlodipin dosis rendah (2,5 mg) bersama beta-blocker merupakan pilihan wajar, atau indapamid lebih baik?
@@ -447,7 +451,7 @@ Jangan lakukan semuanya sekaligus. Bertahap:
 5. Tes H. pylori dan PPI pada pengguna antiplatelet ganda?
 
 **Dokter Umum:**
-1. Rekonsiliasi obat lengkap menjadi satu daftar tercetak.
+1. Rekonsiliasi obat lengkap menjadi satu daftar tercetak — verifikasi setiap baris terhadap kotak fisik obat dan resep dokter, bukan terhadap catatan-catatan sebelumnya.
 2. HbA1c, fungsi ginjal, ACR urin, darah lengkap, B12, Lp(a), vitamin D.
 3. ABPM dan skrining sleep apnea.
 4. Rencana penanganan kecemasan yang bukan bromazepam jangka panjang.
@@ -456,6 +460,6 @@ Jangan lakukan semuanya sekaligus. Bertahap:
 
 ---
 
-**Satu pemikiran penutup.** Hal paling berharga dalam seluruh dokumen ini kemungkinan justru yang paling sederhana: protokol pengukuran di 1.1, menyelesaikan pertanyaan propafenon, dan mengetahui rumah sakit mana yang harus dituju. Angka 11,1 METs dan koroner yang bersih berarti beliau punya cadangan biologis yang nyata. Tugas sekarang adalah melindungi otak — dan itu berujung pada tekanan darah yang stabil, daftar obat yang tertata, serta tidak membiarkan kecemasan mengendalikan keputusan klinis.
+**Satu pemikiran penutup.** Regimen beliau koheren — beta-blocker, antiplatelet ganda, statin, UDCA. Hal-hal paling berharga dalam rencana ini justru yang paling biasa: protokol pengukuran di 1.1, memastikan statin benar-benar ditelan, dan mengetahui rumah sakit mana yang harus dituju. Angka 11,1 METs dan koroner yang bersih berarti beliau punya cadangan biologis yang nyata. Tugasnya adalah melindungi otak: tekanan darah yang stabil, daftar obat yang tertata, dan tidak membiarkan kecemasan mengendalikan keputusan klinis.
 
 Mohon setiap hal yang berkaitan dengan obat di atas ditinjau oleh dokter beliau sebelum ditindaklanjuti.

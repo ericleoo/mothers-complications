@@ -10,8 +10,8 @@ Derived from the longevity program (PROGRAM_OPUS.md) built around Mama's (Ratna 
 
 ## ⚡ Top Priorities — this week (from Section 0: "resolve within two weeks")
 
-- [ ] **Confirm whether propafenone 150 mg ×3 daily is actually being taken** (appears only on a pharmacy label; if yes → immediate physician review; if no → remove it from the house)
-- [ ] Confirm whether **rosuvastatin 20 mg nightly is still being taken** (absent from the current regimen list — potential significant gap)
+- [ ] Produce **one physician-signed reconciled medication list** — build it from the physical boxes/blisters (photograph every box), cross-checked against the Kuching prescription and pharmacy labels; include asking the pharmacist about the **"blood circulation / antiarrhythmic" (*Melancarkan darah*) remark** on the clopidogrel label (a labelling oddity, not a second drug)
+- [ ] **Confirm rosuvastatin (Rosucor) 20 mg nightly is still being taken — the top open medication question in the file** (present in the Kuching prescription *and* on the pharmacy label, but absent from the current regimen list; ask tonight and look in the box — don't wait for the next appointment)
 - [ ] Run the **both-arm BP check** (0.1): measure BP in both arms, 3× each, same sitting; >15 mmHg systolic difference → subclavian stenosis concern; adopt the **higher arm** for all future readings
 - [ ] Ask the doctor to request **microbleed count/distribution** reporting from the existing MRI (T2*/SWI sequence) — no new scan needed
 - [ ] **Book neurology, cardiology, and surgical/GI consultations**
@@ -29,13 +29,16 @@ Derived from the longevity program (PROGRAM_OPUS.md) built around Mama's (Ratna 
 - [ ] Both-arm BP home test (see Top Priorities)
 - [ ] Use the higher-arm reading for all future measurements
 
-### 0.2 Medication reconciliation — the propafenone question
-- [ ] Confirm propafenone status (see Top Priorities)
-- [ ] If taking: needs immediate review (Class 1C antiarrhythmic; proarrhythmic risk; additive bradycardia with nebivolol; needs documented arrhythmia + echo)
-- [ ] If not taking: dispose of it / remove from the house
+### 0.2 Medication reconciliation — one verified list
+- [ ] Produce **one physician-signed reconciled medication list** covering the Kuching prescription, the pharmacy labels, and what she is actually swallowing today
+- [ ] Build it from the **physical boxes** — photograph every box and blister and read them against the doctor's list; not from earlier notes
+- [ ] Ask the pharmacist to confirm the **"blood circulation / antiarrhythmic" (*Melancarkan darah*) remark** on the clopidogrel box — a fair lay gloss for an antiplatelet; the "antiarrhythmic" wording is a labelling oddity, not a second drug
+- [ ] Settle **rosuvastatin status** (see Top Priorities / 2.3)
 
 ### 0.3 The HR 185 episode — two suspected causes
+- [ ] Note the **two-drug mechanism (amlodipine reflex tachycardia + cilostazol) is the leading hypothesis** — no arrhythmia has ever been documented, so benign reflex sinus tachycardia is more likely, but a paroxysmal tachyarrhythmia has never been *excluded* — only never suspected
 - [ ] Ask the cardiologist whether **cilostazol** (PDE3 inhibitor, raises HR) contributed alongside amlodipine
+- [ ] **Rhythm documentation stays on the list** — Holter/14-day patch at the next available cardiology appointment; if palpitations recur, capturing the rhythm at that moment is the single most informative thing available
 - [ ] Ask whether the **three nights of stomach pain and vomiting** were drug side effects (cilostazol/clopidogrel GI upset) or **biliary colic** — this changes the surgical recommendation (symptomatic vs asymptomatic gallstones)
 
 ### 0.4 Microbleed reporting
@@ -82,6 +85,7 @@ Derived from the longevity program (PROGRAM_OPUS.md) built around Mama's (Ratna 
 - [ ] Resolve **telmisartan as "rescue"** — ARBs take hours to act; it should be daily or not at all; stopping/starting creates the variability that damages vessels
 - [ ] Ask about **low-dose amlodipine (2.5 mg)** on top of a beta-blocker (the 10 mg dose was the likely problem, not the class)
 - [ ] Ask about **indapamide** (PROGRESS trial — most directly relevant to her: recurrent stroke + white-matter progression)
+- [ ] **Nothing constrains rate-affecting titration** — nebivolol can be titrated on its own merits; adding low-dose amlodipine or indapamide raises no conduction concern (the only rate-active drugs are nebivolol — slows — and cilostazol — speeds)
 - [ ] **Bromazepam strictly time-limited** — long-term benzo in small-vessel disease = falls, cognitive impairment; if anxiety persists, treat properly (CBT/SSRI)
 
 ### 1.4 Non-pharmacological BP levers
@@ -111,7 +115,7 @@ Derived from the longevity program (PROGRAM_OPUS.md) built around Mama's (Ratna 
 - [ ] **Fall prevention** matters more now (see 4.3) — especially on dual antiplatelets
 
 ### 2.3 Statin question — lipids are *not* optimal for a secondary-prevention patient
-- [ ] Confirm **rosuvastatin 20 mg nightly** is still being taken
+- [ ] Confirm **rosuvastatin (Rosucor) 20 mg nightly** is still being taken — **the top open medication question in the file**; in the Kuching prescription *and* on the pharmacy label (brand naming now settled) but absent from the current regimen list; a secondary-prevention patient silently off her statin is the most probable real-world harm remaining in this record — ask tonight and look in the box, don't wait for the next appointment
 - [ ] Discuss LDL target with neurologist: secondary-prevention target **<1.8 mmol/L**, many guidelines **<1.4 mmol/L** (hers is 2.1)
 - [ ] Note the counterpoint: with microbleeds, aggressive LDL lowering has a theoretical ICH association — decide **with** the microbleed count in hand
 
@@ -308,8 +312,8 @@ The July 31 sequence (140/80 → panic → 137/78 → 160/90 → medicate) is a 
 ## Section 12 — 12-week rollout (sequencing map)
 
 **Weeks 1–2 — Safety and data**
-- [ ] Resolve the propafenone question; produce **one reconciled medication list**
-- [ ] Confirm rosuvastatin status; clarify Heptal vs Urdafalk
+- [ ] Produce **one physician-signed reconciled medication list**
+- [ ] **Confirm rosuvastatin status — highest-priority item this fortnight;** clarify Heptal vs Urdafalk; ask the pharmacist about the "antiarrhythmic" remark on the clopidogrel label
 - [ ] Book neurology, cardiology, surgical/GI consultations
 - [ ] Order missing labs (HbA1c, renal, urine ACR, FBC, B12, Lp(a), vitamin D)
 - [ ] Request microbleed reporting from the existing MRI
@@ -357,8 +361,8 @@ The July 31 sequence (140/80 → panic → 137/78 → 160/90 → medicate) is a 
 - [ ] Baseline MoCA, please
 
 **Cardiologist:**
-- [ ] Is she taking propafenone, and if so, why? Echo needed before continuing it?
-- [ ] Holter or 14-day patch to characterize the tachycardia?
+- [ ] Has an arrhythmia ever been suspected or documented at any point?
+- [ ] Can we still get a Holter or 14-day patch to characterize the HR 185 episode? Non-urgent, but the mechanism is unresolved
 - [ ] Echocardiogram for left ventricular hypertrophy?
 - [ ] Could cilostazol be contributing to tachycardia/palpitations? Reconsider it?
 - [ ] Is low-dose amlodipine (2.5 mg) with a beta-blocker reasonable, or is indapamide preferable?
@@ -373,7 +377,7 @@ The July 31 sequence (140/80 → panic → 137/78 → 160/90 → medicate) is a 
 - [ ] H. pylori testing and PPI on dual antiplatelets?
 
 **GP:**
-- [ ] Full medication reconciliation into one printed list
+- [ ] Full medication reconciliation into one printed list — verify every line against the physical boxes and the doctor's prescription, not against earlier notes
 - [ ] HbA1c, renal function, urine ACR, FBC, B12, Lp(a), vitamin D
 - [ ] ABPM and sleep apnea screening
 - [ ] Anxiety management plan that isn't long-term bromazepam
@@ -391,6 +395,7 @@ The July 31 sequence (140/80 → panic → 137/78 → 160/90 → medicate) is a 
 - [x] Urdafalk (ursodeoxycholic acid) 1-month course started
 - [x] Repeat abdominal ultrasound at 1-month mark **scheduled** (not yet done)
 - [x] Emergency treatment of the July acute event (sublingual captopril, ED) — resolved
+- [x] Medication list verified against pharmacy labels (2026-07-31): **Apo-Clopidogrel 75 mg once daily** (the "blood circulation / antiarrhythmic" — *Melancarkan darah* — remark on the box is a labelling oddity, not a second drug; the earlier "propafenone" reading is resolved as a misreading of the clopidogrel label) and **Rosucor 20 mg at night** (rosuvastatin brand) — regimen now pharmacologically coherent: beta-blocker, dual antiplatelet, statin, UDCA; **whether rosuvastatin is actually being swallowed is the top open question**
 
 ---
 

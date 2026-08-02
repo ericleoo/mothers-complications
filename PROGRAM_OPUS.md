@@ -2,6 +2,8 @@ Below is a structured longevity program built specifically around your mother's 
 
 **Important framing:** I'm not her physician and this isn't medical advice. Everything in Section 0 and anything involving medication should be decided by Dr. Budi Gunawan, a neurologist, and a cardiologist. Treat this document as a *briefing pack and operating protocol* to bring to those appointments.
 
+> **Revision — 2026-07-31 (medication list verified).** The pharmacy label reads **Apo-Clopidogrel 75 mg once daily** — her prescribed antiplatelet. The "blood circulation / antiarrhythmic" (*Melancarkan darah*) remark on the clopidogrel box is a labelling oddity, not a second drug. The statin brand is **Rosucor 20 mg at night**. Net effect: her medication list is pharmacologically coherent, and **rosuvastatin status is the top open question**.
+
 ---
 
 ## The strategic picture
@@ -19,7 +21,7 @@ Her genuine assets: **11.1 METs on the treadmill is excellent** for a 55-year-ol
 
 ## Section 0 — Six things to resolve before anything else
 
-These are the items I'd want settled within two weeks.
+These are the items I'd want settled within two weeks. Suggested order: **0.1** (laterality) → **0.4** (microbleeds) → **0.6** (ABPM + sleep apnoea) → **0.5** (missing labs) → **0.3** (tachycardia mechanism) → **0.2** (reconciliation housekeeping).
 
 ### 0.1 The laterality problem — ask the neurologist directly
 
@@ -33,19 +35,20 @@ That means the old infarct does **not** explain the July event. Three possibilit
 
 **Cheap test to run at home this week:** measure BP in **both arms**, three times each, same sitting. A consistent systolic difference of >15 mmHg suggests subclavian stenosis — which would both explain the cold hand and is itself a cardiovascular risk marker. Also: use the **higher** arm for all future readings.
 
-### 0.2 Medication reconciliation — the propafenone question
+### 0.2 Medication reconciliation — one verified list
 
-**Apo-Propafenone 150 mg three times daily on the pharmacy label is the single most urgent item in this file.** Propafenone is a Class 1C antiarrhythmic. It:
+Produce **one reconciled medication list**, signed off by the treating physician, covering the Kuching prescription, the pharmacy labels, and what she is actually swallowing today. Photograph every box and blister and read them against the doctor's list — build this list from the physical boxes themselves, not from any earlier notes.
 
-- Should not be used without a documented arrhythmia and an echocardiogram excluding structural heart disease.
-- Combines badly with beta-blockers (additive bradycardia and conduction slowing).
-- Carries proarrhythmic risk.
+Two items to settle while doing it:
 
-Confirm within days whether she is taking it. If she is, it needs immediate physician review. If she isn't, remove it from the house.
+- **The label remark.** The clopidogrel box reads "blood circulation / antiarrhythmic" (*Melancarkan darah*). "Melancarkan darah" is a fair lay gloss for an antiplatelet; the "antiarrhythmic" wording is a labelling oddity, not a second drug. Ask the pharmacist to confirm, so nobody in the family misreads the box.
+- **Rosuvastatin.** The genuinely open medication question (see 2.3).
 
 ### 0.3 The HR 185 episode probably had two causes, not one
 
 The narrative attributes it to amlodipine. But **cilostazol is a phosphodiesterase-3 inhibitor that independently raises heart rate and causes palpitations** — it's one of its most common side effects. Amlodipine 10 mg reflex tachycardia *plus* cilostazol is a plausible additive explanation.
+
+This two-drug mechanism is the **leading** hypothesis, and there is nothing in the record suggesting a clinician ever diagnosed an arrhythmia. That cuts both ways: benign reflex sinus tachycardia becomes more likely, but a paroxysmal tachyarrhythmia has never been *excluded* — only never suspected. Rhythm documentation stays on the list, scheduled for the next available cardiology appointment. If the palpitations recur, capturing the rhythm at that moment remains the single most informative thing available.
 
 This matters because cilostazol is still in her regimen. Also worth asking: were the three nights of stomach pain and vomiting a drug effect (cilostazol and clopidogrel both cause GI upset) or **biliary colic**? That distinction reclassifies her from "asymptomatic gallstones" to "symptomatic gallstones," which changes the surgical recommendation entirely.
 
@@ -110,6 +113,7 @@ I want to be careful here — these are questions, not recommendations. But seve
 - **Telmisartan is being used as a rescue medication, and it cannot work that way.** ARBs take hours to begin acting and 2–4 weeks for full effect. Taking telmisartan 80 mg in response to a 160/90 reading is pharmacologically incoherent — it does nothing acutely, and stopping/starting it creates exactly the variability that damages small vessels. It should be either taken daily or not at all.
 - **The amlodipine conclusion may have been too broad.** The problem was likely the *dose* (10 mg is the maximum) and its combination with cilostazol — not the drug class. Low-dose amlodipine (2.5 mg) added *on top of* a beta-blocker typically produces no reflex tachycardia, and dihydropyridine CCBs are notable for *reducing* BP variability.
 - **Indapamide is worth asking about.** The PROGRESS trial (ACE-inhibitor + indapamide) reduced recurrent stroke and slowed white-matter hyperintensity progression specifically — the most directly relevant trial to her situation.
+- **Nothing constrains rate-affecting titration.** Nebivolol can be titrated on its own merits, and adding low-dose amlodipine or indapamide raises no conduction concern — the only rate-active drugs in the regimen are nebivolol (slows) and cilostazol (speeds).
 - **Bromazepam should be strictly time-limited.** Long-term benzodiazepine use in someone with small-vessel disease is a poor trade: falls, cognitive impairment, and an association with dementia. If anxiety is driving BP, the anxiety should be treated properly (see Section 6), not with an indefinite PRN benzodiazepine.
 
 ### 1.4 Non-pharmacological BP levers, in order of effect size
@@ -152,7 +156,7 @@ Working from the Lancet Commission framework, here's what's actually actionable 
 The Kuching report grades her lipids against **primary prevention** reference ranges. She is a **secondary prevention** patient (established cerebrovascular disease). Under that framing:
 
 - Her **LDL of 2.1 mmol/L is above the secondary-prevention target of <1.8 mmol/L**, and many guidelines now use <1.4 mmol/L for very high-risk patients.
-- **Confirm she is still taking rosuvastatin.** It's absent from the current regimen list. If it was dropped, that's a significant unintentional gap.
+- **Confirm she is still taking rosuvastatin — this is the top open medication question in the file.** It appears in the Kuching prescription *and* on the pharmacy label (Rosucor 20 mg at night, brand naming now settled), but is absent from the current regimen list. A secondary-prevention patient silently off her statin is by far the most probable real-world harm remaining in this record. Ask her tonight and look in the box; don't wait for the next appointment.
 
 **Counterpoint to raise with the neurologist:** in patients with extensive small-vessel disease and cerebral microbleeds, aggressive LDL lowering has a theoretical association with intracerebral hemorrhage. This is exactly why the microbleed count from 0.4 matters. The decision should be made with that information in hand, not without it.
 
@@ -381,8 +385,8 @@ Sustained palpitations, heart rate persistently above 120 at rest, fainting or n
 Don't attempt everything at once. Sequenced:
 
 **Weeks 1–2 — Safety and data**
-- Resolve the propafenone question; produce one reconciled medication list
-- Confirm rosuvastatin status; clarify Heptal vs. Urdafalk
+- Produce one physician-signed reconciled medication list
+- **Confirm rosuvastatin status — highest-priority item this fortnight;** clarify Heptal vs. Urdafalk; ask the pharmacist about the "antiarrhythmic" remark on the clopidogrel label
 - Book neurology, cardiology, and surgical/GI consultations
 - Order missing labs (HbA1c, renal, urine ACR, FBC, B12, Lp(a), vitamin D)
 - Request microbleed reporting from the existing MRI
@@ -429,8 +433,8 @@ Don't attempt everything at once. Sequenced:
 8. Baseline MoCA, please.
 
 **Cardiologist:**
-1. Is she taking propafenone, and if so, why? Is an echocardiogram needed before continuing it?
-2. Can we get a Holter or 14-day patch to characterize the tachycardia?
+1. Has an arrhythmia ever been suspected or documented at any point?
+2. Can we still get a Holter or 14-day patch to characterize the HR 185 episode? Non-urgent, but the mechanism is unresolved.
 3. Echocardiogram to assess for left ventricular hypertrophy?
 4. Could cilostazol be contributing to her tachycardia and palpitations? Is it worth reconsidering?
 5. Is low-dose amlodipine (2.5 mg) with a beta-blocker onboard a reasonable option, or is indapamide preferable?
@@ -445,7 +449,7 @@ Don't attempt everything at once. Sequenced:
 5. H. pylori testing and PPI on dual antiplatelets?
 
 **GP:**
-1. Full medication reconciliation into one printed list.
+1. Full medication reconciliation into one printed list — verify every line against the physical boxes and the doctor's prescription, not against earlier notes.
 2. HbA1c, renal function, urine ACR, FBC, B12, Lp(a), vitamin D.
 3. ABPM and sleep apnea screening.
 4. Anxiety management plan that isn't long-term bromazepam.
@@ -454,6 +458,6 @@ Don't attempt everything at once. Sequenced:
 
 ---
 
-**One closing thought.** The most valuable things in this entire document are probably the simplest: the measurement protocol in 1.1, resolving the propafenone question, and knowing which hospital to drive to. Her 11.1 METs and clean coronaries mean she has real biological runway. The job now is protecting the brain — and that comes down to a steady blood pressure, a settled medication list, and not letting anxiety drive clinical decisions.
+**One closing thought.** Her regimen is coherent — beta-blocker, dual antiplatelet, statin, UDCA. The most valuable items in this plan are the most mundane: the measurement protocol in 1.1, confirming the statin is actually being swallowed, and knowing which hospital to drive to. Her 11.1 METs and clean coronaries mean she has real biological runway. The job is protecting the brain: steady blood pressure, a settled medication list, and not letting anxiety drive clinical decisions.
 
 Please have every medication-related item above reviewed by her physicians before acting on it.
