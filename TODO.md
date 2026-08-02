@@ -131,7 +131,7 @@ Derived from the longevity program (PROGRAM_OPUS.md) built around Mama's (Ratna 
 - [ ] Calculate **FIB-4** once platelet count is available (free)
 - [ ] If FIB-4 indeterminate/high → request **FibroScan or ELF**
 - [ ] Honest accounting of **alcohol intake**
-- [ ] Clarify **Heptal vs Urdafalk**: was Heptal intentionally discontinued or did it fall off the list?
+- [x] **Heptal vs Urdafalk clarified (2026-08-02)**: Mama confirmed Urdafalk daily, Heptal **not** taken — Heptal intentionally superseded by Dr. Budi Gunawan's UDCA plan (UDCA covers the cholestatic-enzyme/hepatoprotective indication). Outstanding: repeat LFTs at 4–8 weeks still not done
 - [ ] Consider **MASLD** as co-diagnosis (itself an independent cardiovascular/small-vessel risk factor)
 
 ### 3.3 Weight and waist
@@ -309,7 +309,7 @@ The July 31 sequence (140/80 → panic → 137/78 → 160/90 → medicate) is a 
 
 **Weeks 1–2 — Safety and data**
 - [ ] Produce **one physician-signed reconciled medication list, built from the physical boxes**
-- [ ] Clarify Heptal vs Urdafalk
+- [x] Clarify Heptal vs Urdafalk — resolved 2026-08-02: Urdafalk daily, Heptal not taken (intentional; UDCA covers the indication)
 - [ ] Book neurology, cardiology, surgical/GI consultations
 - [ ] Order missing labs (HbA1c, renal, urine ACR, FBC, B12, Lp(a), vitamin D)
 - [ ] Request microbleed reporting from the existing MRI
@@ -393,6 +393,7 @@ The July 31 sequence (140/80 → panic → 137/78 → 160/90 → medicate) is a 
 - [x] Emergency treatment of the July acute event (sublingual captopril, ED) — resolved
 - [x] Medication list verified against pharmacy labels (2026-07-31): all four labels (Amlotel, Rosucor, Pletaal, Apo-Clopidogrel) agree with the narrative; the clopidogrel box remark *Melancarkan darah* ("smooth blood flow") is a fair everyday description of an antiplatelet — regimen pharmacologically coherent: beta-blocker, dual antiplatelet, statin, UDCA
 - [x] **Full daily regimen confirmed directly by Mama (2026-08-02, WhatsApp)**: nebivolol ½ tablet morning and before sleep, clopidogrel 75 mg, cilostazol 100 mg ×2, **rosuvastatin (Rosucor) 20 mg before sleep nightly** (the file's only open medication question — now closed), Urdafalk daily, plus vitamins
+- [x] **Heptal vs Urdafalk clarified (2026-08-02, evening)**: Mama confirmed **Urdafalk daily** and **Heptal not taken** (her understanding: Heptal is more for fatty liver). Heptal (ademetionine/SAMe — the Kuching report's handwritten Rx) intentionally superseded by Dr. Budi Gunawan's UDCA plan; UDCA covers the hepatoprotective/cholestatic-enzyme indication (stronger evidence base for the GGT/ALP + likely-MASLD picture). Remaining: repeat LFTs at 4–8 weeks, 1-month ultrasound, and whether UDCA continues beyond the course
 
 ---
 

@@ -222,6 +222,16 @@ On August 2, 2026, Eric asked Mama directly which medications she takes every da
 
 **Resolution:** the only open medication question in the file — whether rosuvastatin (Rosucor) 20 mg was still being taken — is now **closed**. The daily regimen is fully reconciled: nebivolol ½ ×2 (morning + bedtime), clopidogrel 75 mg, cilostazol 100 mg ×2, rosuvastatin 20 mg nightly, Urdafalk daily, plus vitamins. Still-live items for the neurologist: the **LDL-target discussion** (LDL 2.1 vs secondary-prevention <1.8 / very-high-risk <1.4 mmol/L) and the **cerebral microbleed count** — see TODO.md.
 
+### Part 6 — Heptal vs. Urdafalk Clarification (August 2, 2026, evening)
+
+Following the Part 5 check, Eric asked Mama directly about the liver medications — specifically whether she takes Heptal (the Kuching report's handwritten hepatoprotective prescription, 500 mg BD) and/or Urdafalk.
+
+- **Urdafalk (ursodeoxycholic acid): taken daily** — reconfirmed, consistent with Part 5.
+- **Heptal 500 mg: not taken.** Mama does not consume Heptal; her understanding is that Heptal is more for fatty liver, so it has not been part of her routine.
+- **Resolution: Heptal was intentionally not continued; Urdafalk supersedes it.** UDCA is itself a hepatoprotective/cholestasis agent — it lowers exactly the mildly elevated enzymes (GGT 89, ALP 127, ALT 35) in addition to its gallstone role, so the switch covers the Kuching report's Heptal indication. Heptal (Heptral) is ademetionine (SAMe); UDCA carries the stronger evidence base for this picture (cholestatic enzymes + likely co-present MASLD), and Dr. Budi Gunawan's Urdafalk plan postdates the report's handwritten note. No action needed on Heptal unless the treating physician says otherwise.
+
+**Still-live follow-ups (unchanged by this clarification):** the report's **repeat LFTs at 4–8 weeks** (no result in the source), the **1-month repeat abdominal ultrasound** (scheduled, not yet done), and whether **UDCA should continue beyond the 1-month course** — a question for Dr. Budi Gunawan.
+
 ---
 
 ## Key Findings
@@ -272,7 +282,7 @@ On August 2, 2026, Eric asked Mama directly which medications she takes every da
 
 - **Final blood-pressure reading missing.** The narrative ends after the two-hour nap ("woke and measured again") without recording the value.
 - ~~**Is rosuvastatin 20 mg still taken nightly?**~~ **Resolved August 2, 2026** — Mama confirmed she takes Rosucor (rosuvastatin) 20 mg before sleep every night (Part 5).
-- **Was Heptal 500 mg BD (from the Kuching report) discontinued in favor of Urdafalk?** The report's instructions to continue Heptal and recheck LFTs in 4–8 weeks are not documented as followed; no repeat LFT result is in the source.
+- ~~**Was Heptal 500 mg BD (from the Kuching report) discontinued in favor of Urdafalk?**~~ **Resolved August 2, 2026** — Mama confirmed she takes Urdafalk daily and does **not** take Heptal (Part 6). Heptal (ademetionine/SAMe) was intentionally superseded by Dr. Budi Gunawan's UDCA plan; UDCA covers the hepatoprotective/cholestatic-enzyme indication. The related outstanding item stands: **repeat LFTs at 4–8 weeks are still not documented** — no repeat LFT result is in the source.
 - **Was the recommended neurology consultation performed?** The report recommended it to formalize the antiplatelet decision; the antiplatelets appear to have been started empirically.
 - **Glucose/HbA1c not tested.** The report explicitly flagged glucose dysregulation as a small-vessel risk factor; no result is present.
 - **No rhythm documentation for the HR 185 episode.** Whether it was sinus tachycardia or a paroxysmal tachyarrhythmia is unknown without an ECG/Holter.
@@ -296,4 +306,4 @@ On August 2, 2026, Eric asked Mama directly which medications she takes every da
 
 ---
 
-*Compiled July 31, 2026 from a family narrative and diagnostic reports; updated August 2, 2026 with the direct medication confirmation (Part 5). This document is a synthesis of provided records — not medical advice. All findings and management decisions should be reviewed with the treating physicians (Dr. Diana Ting Mei Rong; Dr. Budi Gunawan) and relevant specialists. Contains personal health information; handle confidentially.*
+*Compiled July 31, 2026 from a family narrative and diagnostic reports; updated August 2, 2026 with the direct medication confirmations (Parts 5–6). This document is a synthesis of provided records — not medical advice. All findings and management decisions should be reviewed with the treating physicians (Dr. Diana Ting Mei Rong; Dr. Budi Gunawan) and relevant specialists. Contains personal health information; handle confidentially.*
