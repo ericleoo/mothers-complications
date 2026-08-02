@@ -11,6 +11,8 @@ Derived from the longevity program (PROGRAM_OPUS.md) built around Mama's (Ratna 
 ## ⚡ Top Priorities — this week (from Section 0: "resolve within two weeks")
 
 - [ ] Produce **one physician-signed reconciled medication list** — build it from the physical boxes/blisters (photograph every box), cross-checked against the Kuching prescription and pharmacy labels
+- [ ] **Ask Mama the same-day benzodiazepine question (0.7):** does she ever take the racikan and the Akamon (bromazepam) on the same day? If yes → continuous benzo coverage → fall/hemorrhage risk on dual antiplatelets
+- [ ] **Pull the peak heart rate from the July 16 treadmill report — already in COMPLICATIONS §2.5: 148 bpm.** Resting HR 185 is above her age-predicted max (~165) → sinus tachycardia effectively excluded → **book the 14-day rhythm patch (0.3, now Section 0 priority)**
 - [ ] Run the **both-arm BP check** (0.1): measure BP in both arms, 3× each, same sitting; >15 mmHg systolic difference → subclavian stenosis concern; adopt the **higher arm** for all future readings
 - [ ] Ask the doctor to request **microbleed count/distribution** reporting from the existing MRI (T2*/SWI sequence) — no new scan needed
 - [ ] **Book neurology, cardiology, and surgical/GI consultations**
@@ -20,7 +22,7 @@ Derived from the longevity program (PROGRAM_OPUS.md) built around Mama's (Ratna 
 
 ---
 
-## Section 0 — The six things to resolve first (target: within 2 weeks)
+## Section 0 — The seven things to resolve first (target: within 2 weeks)
 
 ### 0.1 Laterality problem — ask the neurologist directly
 - [ ] Ask: old infarct is **left** basal ganglia/internal capsule, but symptoms were **left-arm** — what actually caused the July event?
@@ -32,11 +34,14 @@ Derived from the longevity program (PROGRAM_OPUS.md) built around Mama's (Ratna 
 - [ ] Produce **one physician-signed reconciled medication list** covering the Kuching prescription, the pharmacy labels, and what she is actually swallowing today
 - [ ] Build it from the **physical boxes** — photograph every box and blister and read them aloud against the doctor's list; the physical boxes are the source of truth
 
-### 0.3 The HR 185 episode — two suspected causes
-- [x] **Amlodipine confirmed as the cause by Mama (2026-08-03)**: she identifies Amlotel ("obat ... dari kucing") as the medicine that made her heart race, confirms she no longer takes it, and reports heart rate is now slower on Nevodio (nebivolol). She also states cilostazol does **not** cause dizziness. The two-drug hypothesis narrows: amlodipine was the principal cause; the cilostazol contribution is now a minor residual question.
-- [ ] Note the remaining mechanism: amlodipine reflex tachycardia is patient-confirmed, but nothing in the record references a rhythm problem or an arrhythmia diagnosis — a paroxysmal tachyarrhythmia has never been *excluded*, only never suspected
-- [ ] Ask the cardiologist whether **cilostazol** (PDE3 inhibitor, raises HR) contributed alongside amlodipine — now a minor question: Mama attributes the racing heart to the discontinued amlodipine and reports no current palpitation problem (2026-08-03)
-- [ ] **Rhythm documentation stays on the list** — Holter/14-day patch at the next available cardiology appointment; if palpitations recur, capturing the rhythm at that moment is the single most informative thing available
+### 0.3 The HR 185 episode — patient attribution is not rhythm documentation
+- [x] **Mama's attribution (2026-08-03) recorded**: she identifies Amlotel ("obat ... dari kucing") as the medicine that made her heart race, confirms she no longer takes it, and reports heart rate is now slower on Nevodio (nebivolol). She also states cilostazol does **not** cause dizziness.
+- [ ] **Treat the attribution as a temporal association, not rhythm documentation** — a patient cannot distinguish sinus tachycardia from SVT/AF; this is the same attribution Dr. Budi Gunawan made in July, restated. The earlier "largely resolved" status is **reversed**: the mechanism is unverified.
+- [ ] **The magnitudes don't fit amlodipine (free, in-file):** HR 185 at rest alongside "even minor exertion pushed it to 110" — dihydropyridine reflex tachycardia adds 10–25 bpm (matches the 110 figure), not a resting 185. 185 sits in the AVNRT/AVRT / flutter / AF-with-rapid-VR range.
+- [ ] **The peak-HR cross-check is already answered by COMPLICATIONS §2.5: 148 bpm** on the July 16 treadmill (age-predicted max ~165). Resting 185 above both → **sinus tachycardia effectively excluded; undocumented arrhythmia on existing data.** (Caveat noted: treadmill was likely on atenolol, which blunts peak HR — the exclusion still holds via the age-predicted ceiling.)
+- [ ] **Paroxysmal AF hypothesis (0.1 + 0.3 combined):** could paroxysmal AF explain both the wrong-hemisphere July event (left-arm symptoms, left-sided old infarct) and the HR 185? If yes → clopidogrel + cilostazol → anticoagulation; stroke etiology reframes from small-vessel to cardioembolic. **Ask the cardiologist.**
+- [ ] **Book a 14-day ambulatory rhythm patch (not a 24-hour Holter) — now Section 0 priority**, not a completeness check
+- [ ] **Cilostazol and heart rate: still fully open.** "No dizziness from cilostazol" says nothing about heart rate; and nebivolol now masks any chronotropic effect — the current absence of palpitations is confounded
 - [ ] Ask whether the **three nights of stomach pain and vomiting** were drug side effects (cilostazol/clopidogrel GI upset) or **biliary colic** — this changes the surgical recommendation (symptomatic vs asymptomatic gallstones)
 
 ### 0.4 Microbleed reporting
@@ -57,7 +62,7 @@ Derived from the longevity program (PROGRAM_OPUS.md) built around Mama's (Ratna 
 - [ ] **Sleep apnea screening** — STOP-BANG questionnaire first; home sleep test if positive
 - [ ] **Echocardiogram** — assess for left ventricular hypertrophy
 - [ ] **Extracranial carotid imaging** (MRA was intracranial 3D TOF only)
-- [ ] **14-day rhythm patch or 48-hour Holter** — to characterize the tachycardia episode
+- [ ] **14-day rhythm patch** — to characterize the HR 185 episode (elevated to Section 0 priority — see 0.3; NOT a 24-hour Holter)
 
 ---
 
@@ -80,7 +85,7 @@ Derived from the longevity program (PROGRAM_OPUS.md) built around Mama's (Ratna 
 
 ### 1.3 Regimen questions for the physician (questions, not recommendations)
 - [ ] Ask: why is the backbone a **beta-blocker** rather than an ARB/CCB/thiazide (ASCOT, LIFE outcome data)?
-- [ ] Resolve **telmisartan as "rescue"** — ARBs take hours to act; it should be daily or not at all; stopping/starting creates the variability that damages vessels. **Patient-confirmed harm (2026-08-03)**: Mama says telmisartan makes her dizzy from too-low BP — the rescue pattern is actively causing symptomatic hypotension
+- [ ] Resolve **telmisartan as "rescue"** — ARBs take hours to act; it should be daily or not at all; stopping/starting creates the variability that damages vessels. **Patient-confirmed harm (2026-08-03)**: Mama says telmisartan makes her dizzy from too-low BP. **Read precisely: a dose/pattern finding (80 mg max dose, erratic, on a beta-blocker), NOT a class verdict** — telmisartan 20–40 mg **daily** remains the leading backbone candidate. If "telmisartan → dizzy" + "amlodipine → racing heart" become class verdicts, she is locked into beta-blocker monotherapy by elimination. **Ask about low-dose daily telmisartan, not about abandoning the ARB.** Confounder: clobazam (long-acting benzo) was on board during this period — some "puyeng" may be clobazam; the 100/58 reading is objective and stands
 - [ ] Ask about **low-dose amlodipine (2.5 mg)** on top of a beta-blocker (the 10 mg dose was the likely problem, not the class)
 - [ ] Ask about **indapamide** (PROGRESS trial — most directly relevant to her: recurrent stroke + white-matter progression)
 - [ ] **Nothing constrains rate-affecting titration** — nebivolol can be titrated on its own merits; adding low-dose amlodipine or indapamide raises no conduction concern (the only rate-active drugs are nebivolol — slows — and cilostazol — speeds)
@@ -88,6 +93,7 @@ Derived from the longevity program (PROGRAM_OPUS.md) built around Mama's (Ratna 
 
 ### 1.4 Non-pharmacological BP levers
 - [ ] **Salt reduction to <5 g/day** (biggest dietary lever; Indonesian cooking is the challenge)
+- [ ] **Isometric training — wall sit (promoted to first-line, 2026-08-03):** largest resting-BP reduction of any exercise modality (~8 mmHg, ahead of aerobic); wall squats were the top-performing individual exercise. She already likes it. **Protocol: 4 × 2-min holds, 1–2 min rest, 3×/week, breathing continuously.** Keep plank secondary (Valsalva-prone, less studied)
 - [ ] **Potassium-enriched salt substitute** — only after normal creatinine/potassium and doctor approval (SSaSS trial; caution with ARBs)
 - [ ] Treat **sleep apnea** if present (potentially largest single win)
 - [ ] Consistent **aerobic exercise** (5–7 mmHg)
@@ -219,9 +225,10 @@ The July 31 sequence (140/80 → panic → 137/78 → 160/90 → medicate) is a 
 - [ ] **Measurement discipline** (1.1): twice daily, no re-measuring, weekly averages only — often breaks the loop by itself
 - [ ] **Slow breathing practice**: 10–15 min daily at 6 breaths/min (≈4 s in, 6 s out), as a *scheduled daily practice*, not a reaction to a high reading
 - [ ] **Treat the anxiety properly**: if persistent, CBT is first-line; discuss **SSRI** with GP as a far better long-term option than bromazepam
-- [x] **Anxiety-racikan contents documented (2026-08-03)**: the compounded "obat cemas racik" is clobazam (CLOFRITIS) 10 mg + sertraline (FAHRENHEIT) 50 mg, 5 tablets each. Its morning "puyeng" is the classic long-acting-benzo (clobazam) hangover, resolving by afternoon. Note: **5 tablets of sertraline is not a therapeutic SSRI course** (SSRIs need 2–6 weeks) — if anxiety persists, the real fix is a proper daily SSRI + CBT, not more benzos
-- [x] **Bromazepam (Akamon 3) ½ PRN — tolerated, no dizziness (2026-08-03)**: keep it occasional and time-limited only (falls, cognition in small-vessel disease); never daily
-- [ ] **Taper/limit bromazepam** — poor long-term trade in small-vessel disease
+- [x] **Anxiety-racikan contents documented (2026-08-03)**: the compounded "obat cemas racik" is clobazam (CLOFRITIS) 10 mg + sertraline (FAHRENHEIT) 50 mg, 5 tablets each. Its morning "puyeng" is the classic long-acting-benzo (clobazam) hangover, resolving by afternoon — benign as to *cause*, **not benign as to consequence** (fall-risk window on dual antiplatelets; sit on bed edge a full minute before standing, no stairs unaccompanied, no driving). Note: **5 tablets of sertraline is not a therapeutic SSRI course** (SSRIs need 2–6 weeks) — if anxiety persists, the real fix is a proper daily SSRI + CBT, not more benzos
+- [ ] **Two benzodiazepines — ask the same-day question (elevated to 0.7):** does she ever take the racikan (clobazam, long-acting) and the Akamon (bromazepam ½ PRN) on the **same day**? Nothing in the record establishes she doesn't. If yes → continuous benzo coverage → classic fall-with-head-impact setup on dual antiplatelets
+- [ ] **The racikan's format is pharmacologically indefensible:** a capsule fusing benzo + SSRI makes the standard trajectory (daily SSRI + 2–4 week benzo bridge tapered off *while the SSRI continues*) impossible. Raise with the prescriber; **establish who prescribed the racikan** (if not Dr. Budi Gunawan, no single physician holds her whole list)
+- [ ] **If a proper daily SSRI is started: sertraline is the correct agent** (avoid fluoxetine/fluvoxamine — strong CYP2C19 inhibitors that blunt clopidogrel); flag the **2D6 confounder** in advance (sertraline mildly inhibits CYP2D6; nebivolol is a 2D6 substrate — new dizziness may be increased beta-blocker effect, not the SSRI, not telmisartan); weigh the **SSRI-as-third-antiplatelet bleeding trade-off (Section 8)** after the microbleed count
 - [ ] **Sleep:** 7–8 hrs, consistent schedule, dark cool room, no screens last hour, no caffeine after midday
 - [ ] **Sleep apnea screening** (also 0.6) — both a sleep issue and a vascular one
 - [ ] **Reframe the goal for Mama:** target is a *good weekly average*, not a perfect reading; reacting to housework/stress is normal physiology, not failure
@@ -246,7 +253,8 @@ The July 31 sequence (140/80 → panic → 137/78 → 160/90 → medicate) is a 
 
 - [ ] **Ask the neurologist to define the duration** of clopidogrel + cilostazol — deliberate decision with a review date (CSPS.com supports it in some Asian guidance), not an indefinite default; microbleed count (0.4) should inform it
 - [ ] **Test for *H. pylori* and eradicate if positive** — measurably reduces GI bleeding on antiplatelets; high prevalence in Indonesia
-- [ ] **Consider a PPI** (she already had stomach pain and vomiting) — discuss with doctor
+- [ ] **Consider a PPI — but the agent matters**: avoid **omeprazole/esomeprazole** (strong CYP2C19 inhibitors: reduce clopidogrel activation — FDA warning — and raise cilostazol levels); **use pantoprazole or rabeprazole**. Omeprazole is the regional default — say it out loud at the pharmacy
+- [ ] **SSRI + dual antiplatelet = third antiplatelet (new 2026-08-03):** sertraline impairs platelet serotonin uptake → measurably raises GI/intracranial bleeding risk on clopidogrel + cilostazol. Doesn't veto the SSRI (untreated anxiety drives BP variability — the larger risk) but makes it a *weighed* decision — **decide after the microbleed count (0.4)**
 - [ ] **No NSAIDs, ever** — no ibuprofen, diclofenac, mefenamic acid, or *obat rematik* from a warung; paracetamol only
 - [ ] **Annual FBC and ferritin** — catch slow occult blood loss
 - [ ] **Tell every dentist, surgeon, physician** about the two antiplatelets before any procedure
@@ -314,6 +322,7 @@ The July 31 sequence (140/80 → panic → 137/78 → 160/90 → medicate) is a 
 
 **Weeks 1–2 — Safety and data**
 - [ ] Produce **one physician-signed reconciled medication list, built from the physical boxes** — include the **compounded anxiety racikan (clobazam 10 mg + sertraline 50 mg) and the bromazepam PRN**; clarify whether the racikan course is finished or ongoing
+- [ ] **Ask Mama the same-day benzodiazepine question (0.7)** — racikan + Akamon on the same day? Orthostatic check on a puyeng morning
 - [x] Clarify Heptal vs Urdafalk — resolved 2026-08-02: Urdafalk daily, Heptal not taken (intentional; UDCA covers the indication)
 - [ ] Book neurology, cardiology, surgical/GI consultations
 - [ ] Order missing labs (HbA1c, renal, urine ACR, FBC, B12, Lp(a), vitamin D)
@@ -334,7 +343,7 @@ The July 31 sequence (140/80 → panic → 137/78 → 160/90 → medicate) is a 
 **Weeks 5–8 — Build**
 - [ ] Add resistance training 2×/week
 - [ ] Increase fish to 3×/week; cut fried food to once weekly
-- [ ] H. pylori test; PPI decision
+- [ ] H. pylori test; PPI decision (**pantoprazole, not omeprazole** — Section 8)
 - [ ] Sleep apnea result + treatment if indicated
 - [ ] First regimen adjustment based on ABPM + 4-week home average
 - [ ] Audiogram, eye exam, dental
@@ -363,9 +372,10 @@ The July 31 sequence (140/80 → panic → 137/78 → 160/90 → medicate) is a 
 
 **Cardiologist:**
 - [ ] Her regimen is nebivolol, clopidogrel, cilostazol, UDCA + rosuvastatin 20 mg nightly (all confirmed 2026-08-02) — has an arrhythmia ever been suspected or documented at any point?
-- [ ] Can we still get a Holter or 14-day patch to characterize the HR 185 episode? Non-urgent — Mama attributes the racing heart to the discontinued amlodipine (2026-08-03), so the mechanism is largely resolved; this is a completeness check
+- [ ] **What was her peak heart rate on the 16 July treadmill test?** (COMPLICATIONS §2.5 records 148 bpm — if accurate, a resting 185 above her age-predicted max ~165 cannot be sinus)
+- [ ] **Arrange a 14-day ambulatory rhythm patch (not a 24-hour Holter) — Section 0 priority:** HR 185 is out of range for amlodipine reflex tachycardia (only 110 on exertion), and July symptoms were in the *opposite* hemisphere to the known lacunar infarct — **could paroxysmal AF explain both? If so, anticoagulation rather than dual antiplatelet therapy?**
 - [ ] Echocardiogram for left ventricular hypertrophy?
-- [ ] Could cilostazol be contributing to tachycardia/palpitations? Is it worth reconsidering? (Mama reports cilostazol causes no dizziness and attributes the racing heart to amlodipine — 2026-08-03)
+- [ ] Could cilostazol be contributing to tachycardia/palpitations? Is it worth reconsidering? (Note: no *dizziness* from cilostazol ≠ no effect on heart rate; nebivolol now masks any chronotropic effect — **unresolved, not answered**)
 - [ ] Is low-dose amlodipine (2.5 mg) with a beta-blocker reasonable, or is indapamide preferable?
 - [ ] Extracranial carotid imaging?
 - [ ] Both-arm BP check for subclavian disease
@@ -379,7 +389,7 @@ The July 31 sequence (140/80 → panic → 137/78 → 160/90 → medicate) is a 
 
 **GP:**
 - [ ] Full medication reconciliation into one printed list — built from the physical boxes and the doctor's prescription, verifying every line
-- [ ] **Anxiety-medication reconciliation**: the compounded racikan (clobazam 10 mg + sertraline 50 mg, 5 tablets each) and bromazepam PRN — how is she actually using them, is the clobazam course finished, and is a proper daily SSRI intended?
+- [ ] **Anxiety-medication reconciliation**: the compounded racikan (clobazam 10 mg + sertraline 50 mg, 5 tablets each) and bromazepam PRN — how is she actually using them, whether she ever takes **both on the same day**, is the clobazam course finished, and is a proper daily SSRI intended? Establish **who prescribed the racikan** (if not Dr. Budi Gunawan, no single physician holds her whole list); raise the **format problem** (fused benzo + SSRI forecloses the standard taper-while-SSRI-continues trajectory)
 - [ ] HbA1c, renal function, urine ACR, FBC, B12, Lp(a), vitamin D
 - [ ] ABPM and sleep apnea screening
 - [ ] Anxiety management plan that isn't long-term bromazepam
@@ -392,7 +402,7 @@ The July 31 sequence (140/80 → panic → 137/78 → 160/90 → medicate) is a 
 
 - [x] Kuching workup completed (July 16, 2026): brain MRI + MRA, abdominal ultrasound, full labs, chest X-ray, exercise stress test (11.1 METs)
 - [x] Initial Kuching medication overhaul: amlodipine/telmisartan combo, clopidogrel, cilostazol, rosuvastatin started
-- [x] Amlodipine identified as cause of HR 185 and discontinued (Dr. Budi Gunawan)
+- [x] Amlodipine **attributed** as cause of HR 185 and discontinued (Dr. Budi Gunawan) — **attribution is a temporal association, not rhythm documentation; the episode remains an undocumented arrhythmia until the 14-day rhythm patch (0.3)**
 - [x] Regimen stabilized on **nebivolol ½ tablet twice daily** → BP ~115–120/70, HR 70–75
 - [x] Urdafalk (ursodeoxycholic acid) 1-month course started
 - [x] Repeat abdominal ultrasound at 1-month mark **scheduled** (not yet done)
