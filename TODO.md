@@ -11,7 +11,7 @@ Derived from the longevity program (PROGRAM_OPUS.md) built around Mama's (Ratna 
 ## ⚡ Top Priorities — this week (from Section 0: "resolve within two weeks")
 
 - [ ] Produce **one physician-signed reconciled medication list** — build it from the physical boxes/blisters (photograph every box), cross-checked against the Kuching prescription and pharmacy labels
-- [ ] **Ask Mama the same-day benzodiazepine question (0.7):** does she ever take the racikan and the Akamon (bromazepam) on the same day? If yes → continuous benzo coverage → fall/hemorrhage risk on dual antiplatelets
+- [x] **Same-day benzodiazepine question answered (2026-08-03): YES — confirmed.** Last Friday Mama took Akamon ½ after panicking at a 140 reading, and the racikan (clobazam + sertraline) again that night before bed. **Act, don't ask:** enforce a strict no same-day racikan + Akamon rule without prescriber approval; fall-proofing (bed-edge sit a full minute, no stairs unaccompanied, no driving on puyeng mornings), an orthostatic check, and prescriber review of the racikan course are now mandatory (see 0.7)
 - [ ] **Pull the peak heart rate from the July 16 treadmill report — already in COMPLICATIONS §2.5: 148 bpm.** Resting HR 185 is above her age-predicted max (~165) → sinus tachycardia effectively excluded → **book the 14-day rhythm patch (0.3, now Section 0 priority)**
 - [ ] Run the **both-arm BP check** (0.1): measure BP in both arms, 3× each, same sitting; >15 mmHg systolic difference → subclavian stenosis concern; adopt the **higher arm** for all future readings
 - [ ] Ask the doctor to request **microbleed count/distribution** reporting from the existing MRI (T2*/SWI sequence) — no new scan needed
@@ -75,7 +75,7 @@ Derived from the longevity program (PROGRAM_OPUS.md) built around Mama's (Ratna 
 - [ ] **Never re-measure because a number was high** — log it and walk away
 - [ ] **Do not measure** within 30 min of housework, exercise, stairs, arguments, coffee, or a full bladder
 - [ ] Use the higher-baseline arm; **validated upper-arm cuff only** (no wrist devices)
-- [ ] Teach Mama: *a single 160/90 reading after housework in an anxious person is not a medical event*
+- [ ] Teach Mama: *a single 160/90 — or even a 140 — reading after housework in an anxious person is not a medical event* (confirmed Aug 3, 2026: she panicked and took a benzo at 140 — the panic response, not the number, is the problem)
 
 ### 1.2 Targets (set with the neurologist)
 - [ ] Agree a home BP average target: evidence supports **<130/80**, many neurologists target **systolic 120–130**
@@ -226,7 +226,7 @@ The July 31 sequence (140/80 → panic → 137/78 → 160/90 → medicate) is a 
 - [ ] **Slow breathing practice**: 10–15 min daily at 6 breaths/min (≈4 s in, 6 s out), as a *scheduled daily practice*, not a reaction to a high reading
 - [ ] **Treat the anxiety properly**: if persistent, CBT is first-line; discuss **SSRI** with GP as a far better long-term option than bromazepam
 - [x] **Anxiety-racikan contents documented (2026-08-03)**: the compounded "obat cemas racik" is clobazam (CLOFRITIS) 10 mg + sertraline (FAHRENHEIT) 50 mg, 5 tablets each. Its morning "puyeng" is the classic long-acting-benzo (clobazam) hangover, resolving by afternoon — benign as to *cause*, **not benign as to consequence** (fall-risk window on dual antiplatelets; sit on bed edge a full minute before standing, no stairs unaccompanied, no driving). Note: **5 tablets of sertraline is not a therapeutic SSRI course** (SSRIs need 2–6 weeks) — if anxiety persists, the real fix is a proper daily SSRI + CBT, not more benzos
-- [ ] **Two benzodiazepines — ask the same-day question (elevated to 0.7):** does she ever take the racikan (clobazam, long-acting) and the Akamon (bromazepam ½ PRN) on the **same day**? Nothing in the record establishes she doesn't. If yes → continuous benzo coverage → classic fall-with-head-impact setup on dual antiplatelets
+- [x] **Two benzodiazepines — same-day question ANSWERED (2026-08-03): yes.** Last Friday: Akamon ½ after panicking at 140, racikan again at night before bed → **continuous benzo coverage on dual antiplatelets is now documented**. Enforce the no-same-day rule; the anxiety fix is a proper SSRI course + CBT, not more benzos
 - [ ] **The racikan's format is pharmacologically indefensible:** a capsule fusing benzo + SSRI makes the standard trajectory (daily SSRI + 2–4 week benzo bridge tapered off *while the SSRI continues*) impossible. Raise with the prescriber; **establish who prescribed the racikan** (if not Dr. Budi Gunawan, no single physician holds her whole list)
 - [ ] **If a proper daily SSRI is started: sertraline is the correct agent** (avoid fluoxetine/fluvoxamine — strong CYP2C19 inhibitors that blunt clopidogrel); flag the **2D6 confounder** in advance (sertraline mildly inhibits CYP2D6; nebivolol is a 2D6 substrate — new dizziness may be increased beta-blocker effect, not the SSRI, not telmisartan); weigh the **SSRI-as-third-antiplatelet bleeding trade-off (Section 8)** after the microbleed count
 - [ ] **Sleep:** 7–8 hrs, consistent schedule, dark cool room, no screens last hour, no caffeine after midday
@@ -322,7 +322,7 @@ The July 31 sequence (140/80 → panic → 137/78 → 160/90 → medicate) is a 
 
 **Weeks 1–2 — Safety and data**
 - [ ] Produce **one physician-signed reconciled medication list, built from the physical boxes** — include the **compounded anxiety racikan (clobazam 10 mg + sertraline 50 mg) and the bromazepam PRN**; clarify whether the racikan course is finished or ongoing
-- [ ] **Ask Mama the same-day benzodiazepine question (0.7)** — racikan + Akamon on the same day? Orthostatic check on a puyeng morning
+- [x] **Same-day benzodiazepine question answered (2026-08-03): yes** — racikan + Akamon on the same day confirmed (last Friday: Akamon ½ after panicking at 140, racikan again at night). Now: **enforce no same-day benzo-on-benzo without prescriber approval**; orthostatic check on a puyeng morning; fall-proofing rules (bed-edge sit, no stairs unaccompanied, no driving)
 - [x] Clarify Heptal vs Urdafalk — resolved 2026-08-02: Urdafalk daily, Heptal not taken (intentional; UDCA covers the indication)
 - [ ] Book neurology, cardiology, surgical/GI consultations
 - [ ] Order missing labs (HbA1c, renal, urine ACR, FBC, B12, Lp(a), vitamin D)
@@ -389,7 +389,7 @@ The July 31 sequence (140/80 → panic → 137/78 → 160/90 → medicate) is a 
 
 **GP:**
 - [ ] Full medication reconciliation into one printed list — built from the physical boxes and the doctor's prescription, verifying every line
-- [ ] **Anxiety-medication reconciliation**: the compounded racikan (clobazam 10 mg + sertraline 50 mg, 5 tablets each) and bromazepam PRN — how is she actually using them, whether she ever takes **both on the same day**, is the clobazam course finished, and is a proper daily SSRI intended? Establish **who prescribed the racikan** (if not Dr. Budi Gunawan, no single physician holds her whole list); raise the **format problem** (fused benzo + SSRI forecloses the standard taper-while-SSRI-continues trajectory)
+- [ ] **Anxiety-medication reconciliation**: the compounded racikan (clobazam 10 mg + sertraline 50 mg, 5 tablets each) and bromazepam PRN — **she has confirmed taking both on the same day (2026-08-03)**, so the questions are now: how often is the racikan taken (nightly? PRN?), is the clobazam course finished or ongoing, is there a stop date, and is a proper daily SSRI intended? Establish **who prescribed the racikan** (if not Dr. Budi Gunawan, no single physician holds her whole list); raise the **format problem** (fused benzo + SSRI forecloses the standard taper-while-SSRI-continues trajectory)
 - [ ] HbA1c, renal function, urine ACR, FBC, B12, Lp(a), vitamin D
 - [ ] ABPM and sleep apnea screening
 - [ ] Anxiety management plan that isn't long-term bromazepam
