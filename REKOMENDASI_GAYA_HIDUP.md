@@ -28,7 +28,7 @@ Mama punya **dua obat penenang** di rumah:
 | Obat | Jenisnya | Aturan baru |
 |---|---|---|
 | **Akamon ½** (diminum kalau lagi cemas) | penenang cepat | ❌ **Berhenti mulai hari ini** |
-| **Obat racik** (kapsul, diminum malam sebelum tidur) | penenang panjang + obat cemas harian | ✅ **Tetap diminum seperti biasa** |
+| **Obat racik** (kapsul, diminum kalau cemas — biasanya malam) | penenang panjang + obat cemas harian | ✅ **Tetap diminum seperti biasa** |
 
 **Kenapa Akamon dihentikan?**
 Obat di dalam kapsul racikan itu jenis yang **bertahan lama sekali di badan — sekitar 3 hari untuk hilang separuhnya saja.** Jadi walaupun Mama minum racikan cuma malam hari, efeknya masih ada terus sepanjang hari berikutnya. Kalau ditambah Akamon, jadi dobel. Efek dobel = **kepala lebih berat, kaki goyah, dan risiko jatuh.**
@@ -38,7 +38,7 @@ Buat orang lain, jatuh itu cuma memar. Buat Mama — yang minum **dua obat penge
 > **Aturannya:** Selama racikan masih jalan, dan sampai **kurang lebih 2 minggu setelah racikan habis**, **jangan minum Akamon sama sekali** — kecuali dokter yang menyuruh.
 
 **Kenapa racikan justru TIDAK boleh distop mendadak?**
-Karena obat penenang yang sudah diminum tiap malam berminggu-minggu itu **tidak boleh berhenti tiba-tiba.** Kalau distop mendadak, badan bisa kaget: gemetar, jantung berdebar, tidak bisa tidur, cemas jadi jauh lebih parah, dan **tensi bisa melonjak.** Nanti kelihatannya seperti "Mama tiba-tiba tambah parah", padahal itu efek berhenti mendadak.
+Karena obat penenang yang sudah diminum rutin (tiap malam atau hampir tiap malam) berminggu-minggu itu **tidak boleh berhenti tiba-tiba.** Kalau distop mendadak, badan bisa kaget: gemetar, jantung berdebar, tidak bisa tidur, cemas jadi jauh lebih parah, dan **tensi bisa melonjak.** Nanti kelihatannya seperti "Mama tiba-tiba tambah parah", padahal itu efek berhenti mendadak. *(Mama pernah bilang racikan tidak diminum tiap malam — hanya kalau cemas. Justru itu yang akan kita pastikan lewat telepon ke apotek: seberapa sering sebenarnya. Tapi aturannya tetap sama — kalau sudah diminum rutin, jangan berhenti mendadak tanpa arahan dokter.)*
 
 Ditambah lagi, di dalam kapsul itu obat penenang **dan** obat cemas hariannya dijadikan satu. Jadi berhenti satu = berhenti dua-duanya sekaligus. Itu dua masalah sekaligus.
 
@@ -263,7 +263,7 @@ Ma, cemas Mama soal tensi itu **masalah kesehatan yang nyata**, bukan "kebanyaka
    > **Yang akan kita minta ke dokter:** *"Tolong dipisah. Obat cemas hariannya diteruskan sebagai tablet sendiri, obat penenangnya diturunkan pelan-pelan."*
    > Kabar baiknya lagi — Mama ternyata **sudah berniat melakukannya sendiri**: Mama mau minta ke **Dr. Budi Gunawan** untuk **obat cemas dan obat penenang dipisah jadi dua tablet terpisah**. Bagus sekali, itu arah yang sama dengan saran kita. Tinggal pastikan dokter melihat isi kapsul racikannya (clobazam 10 mg + sertraline 50 mg) dulu sebelum meresepkan yang terpisah.
 
-   Sekali lagi: **ini keputusan dokter, bukan Mama sendiri.** Papa sempat mengusulkan rencana turunkan obat: *penuh → setengah → plasebo (kosong)*, untuk menenangkan keluarga. **Arahnya sudah benar** (turun pelan-pelan, bukan berhenti mendadak), tapi **detail jadwalnya tetap dokter yang atur** — obat cemas hariannya harus tetap lanjut sebagai tablet sendiri. Jadikan usulan Papa bahan diskusi dengan dokter, jangan langsung dijalankan sendiri.
+   Sekali lagi: **ini keputusan dokter, bukan Mama sendiri.** Papa sempat mengusulkan rencana turunkan obat: *penuh → setengah → plasebo (kosong)*, untuk menenangkan keluarga. **Arahnya sudah benar** (turun pelan-pelan, bukan berhenti mendadak), tapi **detail jadwalnya tetap dokter yang atur** — obat cemas hariannya harus tetap lanjut sebagai tablet sendiri. Jadikan usulan Papa bahan diskusi dengan dokter, jangan langsung dijalankan sendiri. **Dan yang terpenting: jangan berikan plasebo (kapsul kosong) tanpa sepengetahuan dokter.** Diam-diam mengganti obat dengan kapsul kosong itu bentuk mengatur obat sendiri yang paling berbahaya — kalau Mama benar-benar butuh obatnya, yang diminum malah tidak ada isinya. Kalau Papa ingin tahap "kosong" itu, dokter yang harus menyetujui dan mengawasinya.
 
 3. **Tidur 7–8 jam**, jam tidur teratur, kamar gelap dan sejuk, tidak ada layar HP 1 jam sebelum tidur, tidak ada kopi setelah siang.
 
@@ -345,7 +345,7 @@ Nyeri hebat di perut kanan atas / ulu hati lebih dari beberapa jam • demam men
 
 ### ☎️ Hubungi dokter HARI ITU JUGA
 
-Jantung berdebar terus-menerus • nadi di atas 120 saat istirahat • pingsan atau hampir pingsan • tensi atas di bawah 100 disertai lemas/pusing • **rata-rata 7 hari** di atas 150/90
+Jantung berdebar terus-menerus • nadi di atas 120 saat istirahat *(dengan nebivolol yang membuat nadi pelan, angka segini justru tidak wajar — langsung hubungi dokter)* • pingsan atau hampir pingsan • tensi atas di bawah 100 disertai lemas/pusing • **rata-rata 7 hari** di atas 150/90
 
 > **Catatan untuk kunjungan dokter jantung:** sempat tercatat detak jantung **44 saat tidur** (waktu dulu masih minum atenolol + racikan). Sampaikan ini ke dokter jantung — misalnya untuk memutuskan apakah perlu alat rekam jantung 14 hari dan apakah dosis obat jantung malam (nebivolol) perlu diubah waktunya. (*Angka "185" yang dulu sempat tercatat ternyata salah ketik — sebenarnya 85 saat istirahat, normal. Ini sudah dikoreksi di catatan medis, jadi tidak perlu lagi dipakai sebagai alasan cek jantung.*) **Jangan ubah obatnya sendiri** — sampaikan ke dokternya.
 
