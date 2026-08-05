@@ -202,7 +202,16 @@ Ini sering salah kaprah: **jangan diet bebas lemak total.** Justru kalau lemak t
 Yang benar:
 - **Lemak sedang, dibagi rata ke semua waktu makan**
 - **Jangan sekali makan langsung banyak berlemak** (santan kental, gorengan sekaligus banyak) — itu yang memicu nyeri
-- **Jangan telat makan, jangan puasa lama-lama, janganenggam kecil sehari
+- **Jangan telat makan, jangan puasa lama-lama, jangan diet ekstrem**
+- **Jangan turun berat badan cepat-cepat** — maksimal ~1,5 kg per minggu. Turun terlalu cepat justru **membentuk batu empedu baru.**
+
+### Perbanyak 🟢
+
+- **Ikan** — kembung, sardin, tongkol. **3–4× seminggu**, dibakar atau dikukus, jangan digoreng
+- **Tempe & tahu** — tiap hari. Kukus, bakar, atau tumis sedikit minyak
+- **Sayur** — bayam, kangkung, brokoli, buncis, wortel. Target 5 porsi sayur+buah sehari
+- **Buah** — pepaya, jambu, jeruk, apel
+- **Kacang tanpa garam** — segenggam kecil sehari
 - **Beras merah / oat** — ganti sebagian nasi putih
 - **Minyak zaitun** untuk siraman terakhir; minyak goreng dikurangi
 - **Air putih** yang cukup
@@ -346,7 +355,16 @@ Jangan semua sekaligus, Ma. Pelan-pelan saja.
 - [ ] Cek tensi dua lengan (3× masing-masing)
 - [ ] Kumpulkan **semua** kotak obat & vitamin → foto semua → buat satu daftar obat
 - [ ] Buat janji: dokter saraf, dokter jantung, dokter bedah/pencernaan
-- [ ] Ambil lab yang belum pernah: **HbA1c,  jalan kaki 20–30 menit/hari
+- [ ] Ambil lab yang belum pernah: **HbA1c, fungsi ginjal, natrium, darah lengkap, B12, vitamin D, urine**
+- [ ] Daftar ABPM (tensi 24 jam) + skrining henti napas saat tidur
+
+### Minggu 3–4 — Dasar
+- [ ] Datang ke dokter saraf bawa daftar pertanyaan (Eric siapkan)
+- [ ] Tes daya ingat sederhana (MoCA) — **beri tahu dokter obat apa saja yang sedang diminum**, supaya hasilnya dibaca dengan benar
+- [ ] USG perut ulang + minta pendapat dokter bedah soal batu empedu
+- [ ] Ulang tes fungsi hati
+- [ ] Mulai latihan napas 10 menit tiap hari
+- [ ] Mulai jalan kaki 20–30 menit/hari
 - [ ] Buang kaldu bubuk & kecap asin dari dapur
 - [ ] Tinjau suplemen: stop vitamin E, cek B6, tanya pregabalin
 
