@@ -13,6 +13,7 @@ Derived from the longevity program (PROGRAM_OPUS.md) built around Mama's (Ratna 
 - [ ] Produce **one physician-signed reconciled medication list** — build it from the physical boxes/blisters (photograph every box), cross-checked against the Kuching prescription and pharmacy labels
 - [x] **Same-day benzodiazepine question answered (2026-08-03): YES — confirmed.** Last Friday Mama took Akamon ½ after panicking at a 140 reading, and the racikan (clobazam + sertraline) again that night before bed. **Act, don't ask — with the same-day rule corrected the same day:** a "no same-day" rule is pharmacologically defeated (clobazam's active metabolite t½ ~71–82 h ⇒ no non-clobazam day); the rule is now **no Akamon at all while the racikan runs, plus ~2 weeks after the last dose, without prescriber approval** (0.7). **AND: do NOT stop the racikan abruptly** — benzo withdrawal (incl. rebound hypertension, seizure risk) plus simultaneous SSRI discontinuation via the fused capsule; **stop the Akamon today, leave the racikan for a prescriber-led taper.** Fall-proofing (bed-edge sit a full minute, no stairs unaccompanied, no driving on puyeng mornings), an orthostatic check, and prescriber review of the racikan course are now mandatory (see 0.7)
 - [ ] **Establish racikan frequency/duration TODAY (answerable in 5 minutes, 0.7):** photograph the racikan packaging → count remaining tablets + read the apotek date (dispensed − remaining ÷ days = frequency); **phone the apotek for the dispensing history** (how many fills, on what dates — which also identifies the prescriber). If nightly across multiple fills, she is already on a therapeutic SSRI course (Section 6)
+- [ ] **Racikan switch request DECLINED; she has opened the capsule; course predates Kuching (2026-08-05, 0.7).** Continue the racikan — Akamon ½ daily is a *different benzodiazepine*, not a substitute; tell her plainly that **bromazepam and clobazam are both benzodiazepines**. She has been opening the capsule and taking half — tell the prescriber (compounded powder cannot be split safely); this is the strongest case for **unbundling**. The course has run for **months**, not days — the taper must be slower and prescriber-directed
 - [ ] **Pull the peak heart rate from the July 16 treadmill report — already in COMPLICATIONS §2.5: 148 bpm.** Resting HR 185 is above her age-predicted max (~165) → sinus tachycardia effectively excluded → **book the 14-day rhythm patch (0.3, now Section 0 priority)**
 - [ ] Run the **both-arm BP check** (0.1): measure BP in both arms, 3× each, same sitting; >15 mmHg systolic difference → subclavian stenosis concern; adopt the **higher arm** for all future readings
 - [ ] Ask the doctor to request **microbleed count/distribution** reporting from the existing MRI (T2*/SWI sequence) — no new scan needed
@@ -42,6 +43,8 @@ Derived from the longevity program (PROGRAM_OPUS.md) built around Mama's (Ratna 
 - [ ] **The peak-HR cross-check is already answered by COMPLICATIONS §2.5: 148 bpm** on the July 16 treadmill (age-predicted max ~165). Resting 185 above both → **sinus tachycardia effectively excluded; undocumented arrhythmia on existing data.** (Caveat noted: treadmill was likely on atenolol, which blunts peak HR — the exclusion still holds via the age-predicted ceiling.)
 - [ ] **Paroxysmal AF hypothesis (0.1 + 0.3 combined):** could paroxysmal AF explain both the wrong-hemisphere July event (left-arm symptoms, left-sided old infarct) and the HR 185? If yes → clopidogrel + cilostazol → anticoagulation; stroke etiology reframes from small-vessel to cardioembolic. **Ask the cardiologist.**
 - [ ] **Book a 14-day ambulatory rhythm patch (not a 24-hour Holter) — now Section 0 priority**, not a completeness check
+- [ ] **Specify the patch: nocturnal rate analysis + pause detection (2026-08-05, 0.3)** — Mama reports her HR fell to **44 during sleep** (pre-Kuching, on atenolol + the racikan); a resting 185 plus a sleeping 44 is the **tachy-brady / sick-sinus** pattern to exclude (linked to paroxysmal AF). Ask the cardiologist whether the **bedtime nebivolol dose** is needed, or could be moved to morning (0.3)
+- [ ] **Request the mid-June 2026 IGD records (2026-08-05, 0.3)** — Mama went straight to the ER for the left-arm event ("lgsg igd"); the 12-lead ECG / vitals / possible CT head there are free data relevant to both the 185 and the 44
 - [ ] **Cilostazol and heart rate: still fully open.** "No dizziness from cilostazol" says nothing about heart rate; and nebivolol now masks any chronotropic effect — the current absence of palpitations is confounded
 - [ ] Ask whether the **three nights of stomach pain and vomiting** were drug side effects (cilostazol/clopidogrel GI upset) or **biliary colic** — this changes the surgical recommendation (symptomatic vs asymptomatic gallstones)
 
@@ -62,6 +65,7 @@ Derived from the longevity program (PROGRAM_OPUS.md) built around Mama's (Ratna 
 ### 0.6 Tests not in the file that should be
 - [ ] **24-hour ambulatory BP monitoring (ABPM)** — highest-value single test: true average, variability, nocturnal dipping
 - [ ] **Sleep apnea screening** — STOP-BANG questionnaire first; home sleep test if positive
+- [ ] **Sleep-apnoea — now URGENT with positive findings (2026-08-05, 0.6):** Papa reports her sleep is *"hembus"*; Mama is sleepy by day (*ngantuk di toko* through 2025); post-menopausal since end 2024 → **positive STOP-BANG on history alone**. **Ask Papa directly:** loud snoring? witnessed pauses then gasping/snorting? unrefreshed waking? morning headaches? **Measure neck circumference** (>36 cm in women = positive). The bedtime long-acting benzo (clobazam) actively worsens any OSA — another reason to taper it
 - [ ] **Echocardiogram** — assess for left ventricular hypertrophy
 - [ ] **Extracranial carotid imaging** (MRA was intracranial 3D TOF only)
 - [ ] **14-day rhythm patch** — to characterize the HR 185 episode (elevated to Section 0 priority — see 0.3; NOT a 24-hour Holter)
@@ -126,6 +130,9 @@ Derived from the longevity program (PROGRAM_OPUS.md) built around Mama's (Ratna 
 ### 2.3 Statin question — lipids are *not* optimal for a secondary-prevention patient
 - [ ] Discuss LDL target with neurologist: secondary-prevention target **<1.8 mmol/L**, many guidelines **<1.4 mmol/L** (hers is 2.1; rosuvastatin 20 mg nightly confirmed 2026-08-02)
 - [ ] Note the counterpoint: with microbleeds, aggressive LDL lowering has a theoretical ICH association — decide **with** the microbleed count in hand
+- [ ] **LDL 2.1 is a TREATED value — untreated baseline was high (2026-08-05):** the April 2026 Biomedika check showed **total cholesterol 260 mg/dL**; she was on atorvastatin 20 mg April→mid-June, now rosuvastatin post-Kuching. Strengthens the case for **<1.8 (possibly <1.4)**, pending the microbleed count
+- [ ] **Adherence framing (2026-08-05):** she describes years of taking cholesterol meds "semaunya" (PRN) and now benchmarks against Vina's colleagues who take nothing — **those colleagues have not had a stroke; she is secondary prevention, different rules**. Reinforce her own correct insight (cholesterol → small-vessel plaques, "plak2") to lock in rosuvastatin
+- [ ] **Menopause resolved (2026-08-05): menses ceased end of 2024** — the 2025 cholesterol rise is post-menopausal LDL elevation; DEXA baseline now clearly indicated (§9)
 
 ---
 
@@ -235,7 +242,7 @@ The July 31 sequence (140/80 → panic → 137/78 → 160/90 → medicate) is a 
 - [ ] **The racikan's format is pharmacologically indefensible:** a capsule fusing benzo + SSRI makes the standard trajectory (daily SSRI + 2–4 week benzo bridge tapered off *while the SSRI continues*) impossible. Raise with the prescriber; **establish who prescribed the racikan** (if not Dr. Budi Gunawan, no single physician holds her whole list)
 - [ ] **If/when the racikan is unbundled and sertraline continues as a standalone daily tablet: sertraline is the correct agent** (avoid fluoxetine/fluvoxamine — strong CYP2C19 inhibitors that blunt clopidogrel); flag the **2D6 confounder** in advance (sertraline mildly inhibits CYP2D6; nebivolol is a 2D6 substrate — new dizziness may be increased beta-blocker effect, not the SSRI, not telmisartan); the **SSRI-as-third-antiplatelet trade-off is already current (Section 8)** — she is on it; microbleed count, H. pylori and PPI are overdue
 - [ ] **Sleep:** 7–8 hrs, consistent schedule, dark cool room, no screens last hour, no caffeine after midday
-- [ ] **Sleep apnea screening** (also 0.6) — both a sleep issue and a vascular one
+- [ ] **Sleep apnea screening** (also 0.6) — both a sleep issue and a vascular one — **now urgent (2026-08-05): positive findings.** Papa reports "hembus"; with daytime sleepiness and post-menopause this is a positive STOP-BANG on history. Ask Papa directly + measure neck circumference; arrange STOP-BANG / home sleep study
 - [ ] **Reframe the goal for Mama:** target is a *good weekly average*, not a perfect reading; reacting to housework/stress is normal physiology, not failure
 - [ ] **Social & purpose infrastructure:** regular contact with friends/family, a hobby, community/religious involvement
 
@@ -269,7 +276,7 @@ The July 31 sequence (140/80 → panic → 137/78 → 160/90 → medicate) is a 
 
 ---
 
-## Section 9 — Screening and vaccination calendar (age 55, postmenopausal likely)
+## Section 9 — Screening and vaccination calendar (age 55, postmenopausal — menses ceased end of 2024, confirmed 2026-08-05)
 
 **Cancer screening:**
 - [ ] **Mammogram** every 1–2 years
@@ -280,7 +287,7 @@ The July 31 sequence (140/80 → panic → 137/78 → 160/90 → medicate) is a 
 - [ ] **Skin and oral** — annual visual check
 
 **Other:**
-- [ ] **DEXA bone density scan** — establish baseline (fracture prevention is a major longevity factor for women)
+- [ ] **DEXA bone density scan** — **she is postmenopausal (menses ceased end of 2024 — confirmed 2026-08-05); establish baseline now.** Fracture prevention is a major longevity factor for women
 - [ ] **Audiogram** — baseline now, then every 2–3 years
 - [ ] **Dilated eye exam** — annual
 - [ ] **Dental** — twice yearly (periodontal disease is a vascular risk factor)
@@ -378,7 +385,8 @@ The July 31 sequence (140/80 → panic → 137/78 → 160/90 → medicate) is a 
 **Cardiologist:**
 - [ ] Her regimen is nebivolol, clopidogrel, cilostazol, UDCA + rosuvastatin 20 mg nightly (all confirmed 2026-08-02) — has an arrhythmia ever been suspected or documented at any point?
 - [ ] **What was her peak heart rate on the 16 July treadmill test?** (COMPLICATIONS §2.5 records 148 bpm — if accurate, a resting 185 above her age-predicted max ~165 cannot be sinus)
-- [ ] **Arrange a 14-day ambulatory rhythm patch (not a 24-hour Holter) — Section 0 priority:** HR 185 is out of range for amlodipine reflex tachycardia (only 110 on exertion), and July symptoms were in the *opposite* hemisphere to the known lacunar infarct — **could paroxysmal AF explain both? If so, anticoagulation rather than dual antiplatelet therapy?**
+- [ ] **Arrange a 14-day ambulatory rhythm patch (not a 24-hour Holter) — Section 0 priority:** HR 185 is out of range for amlodipine reflex tachycardia (only 110 on exertion), and July symptoms were in the *opposite* hemisphere to the known lacunar infarct — **could paroxysmal AF explain both? If so, anticoagulation rather than dual antiplatelet therapy?** — **specify nocturnal rate analysis + pause detection (2026-08-05):** her HR fell to **44 asleep** (pre-Kuching, on atenolol + racikan) → tachy-brady / sick-sinus question
+- [ ] **Is the bedtime nebivolol dose necessary? (2026-08-05)** — her HR fell to 44 asleep, on top of a bedtime benzodiazepine; could the daily nebivolol dose be given in the morning? (don't change it without the cardiologist)
 - [ ] Echocardiogram for left ventricular hypertrophy?
 - [ ] Could cilostazol be contributing to tachycardia/palpitations? Is it worth reconsidering? (Note: no *dizziness* from cilostazol ≠ no effect on heart rate; nebivolol now masks any chronotropic effect — **unresolved, not answered**)
 - [ ] Is low-dose amlodipine (2.5 mg) with a beta-blocker reasonable, or is indapamide preferable?
@@ -394,11 +402,12 @@ The July 31 sequence (140/80 → panic → 137/78 → 160/90 → medicate) is a 
 
 **GP:**
 - [ ] Full medication reconciliation into one printed list — built from the physical boxes and the doctor's prescription, verifying every line
-- [ ] **Anxiety-medication reconciliation**: the compounded racikan (clobazam 10 mg + sertraline 50 mg, 5 tablets each) and bromazepam PRN — **she has confirmed taking both on the same day (2026-08-03)**, so the questions are now: how often is the racikan taken (nightly? PRN?), is the clobazam course finished or ongoing, is there a stop date, and is a proper daily SSRI intended? Establish **who prescribed the racikan** (if not Dr. Budi Gunawan, no single physician holds her whole list); raise the **format problem** (fused benzo + SSRI forecloses the standard taper-while-SSRI-continues trajectory); corrected rule (0.7): **no Akamon at all while the racikan runs + ~2 weeks after the last dose**, and the taper of the racikan is the prescriber's to direct
+- [ ] **Anxiety-medication reconciliation**: the compounded racikan (clobazam 10 mg + sertraline 50 mg, 5 tablets each) and bromazepam PRN — **she has confirmed taking both on the same day (2026-08-03)**, so the questions are now: how often is the racikan taken (nightly? PRN?), is the clobazam course finished or ongoing, is there a stop date, and is a proper daily SSRI intended? Establish **who prescribed the racikan** (if not Dr. Budi Gunawan, no single physician holds her whole list); raise the **format problem** (fused benzo + SSRI forecloses the standard taper-while-SSRI-continues trajectory); corrected rule (0.7): **no Akamon at all while the racikan runs + ~2 weeks after the last dose**, and the taper of the racikan is the prescriber's to direct. **Update (2026-08-05): the switch request (Akamon ½ daily) was declined — both are benzodiazepines; she has opened the capsule and taken half (unsafe, compounded); the course predates Kuching — months, not days — so the taper must be slower; dosage/sequencing now strongly favors prescribing clobazam and sertraline separately**
 - [ ] **Sequencing request, stated plainly (2a):** we have stopped the concurrent Akamon. We are **not** stopping the nightly racikan — please direct the taper. Can the clobazam and sertraline be **prescribed separately** so the benzodiazepine can be withdrawn while the SSRI continues?
 - [ ] **Frequency and duration of the racikan (2b):** we are counting the strip and asking the apotek for the dispensing history. **If she has been on sertraline 50 mg nightly for weeks, she is already on a therapeutic SSRI course** — please treat it as one
 - [ ] **Sodium level, please (2c):** she is on an SSRI and reports morning dizziness (SSRI-induced hyponatremia/SIADH — first weeks of treatment, women >50)
 - [ ] **Reconstruct Friday 31 July (2d):** telmisartan 80 + bromazepam ½ + clobazam 10 + sertraline 50, on top of nebivolol and dual antiplatelets — maximum-dose ARB + two benzodiazepines + dual antiplatelets. Confirm the full stack with Eric, then treat that day as the explicit example of what must not recur
+- [ ] **Sleep-apnoea work-up (2026-08-05, 2e):** Papa reports her sleep is "hembus"; she is sleepy by day. Request **STOP-BANG / home sleep study**; treat as part of the BP and rhythm picture (0.6)
 - [ ] HbA1c, renal function, urine ACR, FBC, B12, Lp(a), vitamin D
 - [ ] ABPM and sleep apnea screening
 - [ ] Anxiety management plan that isn't long-term bromazepam

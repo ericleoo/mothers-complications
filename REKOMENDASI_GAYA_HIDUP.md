@@ -1,6 +1,6 @@
 # REKOMENDASI GAYA HIDUP UNTUK MAMA
 
-*Disusun oleh Eric — versi 4 Agustus 2026*
+*Disusun oleh Eric — versi 5 Agustus 2026*
 *Dibuat supaya gampang dibaca. Boleh dicicil, tidak usah dibaca sekaligus.*
 
 ---
@@ -50,6 +50,10 @@ Ditambah lagi, di dalam kapsul itu obat penenang **dan** obat cemas hariannya di
 - ☎️ **Telepon apoteknya:** sudah berapa kali racikan ini ditebus, tanggal berapa saja, dan **dokter siapa yang meresepkan**
 
 Satu telepon ini menjawab tiga pertanyaan sekaligus. Eric bisa bantu telepon kalau Mama mau.
+
+**Kalau Mama sempat berpikir: "ganti aja Akamon tiap hari, kan lebih enak" — jangan, Ma.** Akamon dan racikan itu **obat sejenis** — dua-duanya penenang golongan benzodiazepin. Akamon terasa lebih enak karena Mama meminumnya *sesekali*. Kalau diminum tiap hari, dalam 4–5 hari obatnya ikut menumpuk dan paginya puyeng lagi — sama saja, tapi obat cemas hariannya (sertraline) hilang. **Jadi racikan tetap dilanjutkan; Akamon disimpan untuk keadaan yang benar-benar perlu saja — dan jangan di hari yang sama dengan racikan.**
+
+**Jangan buka kapsul racikan untuk dibagi dua.** Firasat Mama bahwa dosisnya kebesaran itu mungkin benar — dan justru itu yang akan kita sampaikan ke dokter (minta dosis clobazamnya diturunkan pelan-pelan, atau racikannya dipisah jadi dua tablet). Tapi bubuk di dalam kapsul racikan **tidak rata**, jadi kalau dibagi dua, Mama tidak bisa tahu dapat separuh obat penenang atau separuh obat cemasnya. Biarkan dokter yang mengatur dosisnya.
 
 ### 2. Kalau angka tensi bikin panik — ada gantinya
 
@@ -213,7 +217,9 @@ Yang benar:
 - **Buah** — pepaya, jambu, jeruk, apel
 - **Kacang tanpa garam** — segenggam kecil sehari
 - **Beras merah / oat** — ganti sebagian nasi putih
-- **Minyak zaitun** untuk siraman terakhir; minyak goreng dikurangi
+- **Minyak zaitun (extra virgin)** untuk siraman terakhir di sayur — ini yang paling bagus; minyak goreng dikurangi
+- **JANGAN minyak kelapa** (termasuk yang virgin di kulkas) — lemak jenuhnya sangat tinggi (82–90%), justru **menaikkan kolesterol**. (Santan sesekali dalam masakan soal porsi — beda halnya dengan minyak kelapa yang dipakai tiap hari.)
+- Kalau pakai **semprotan olive oil** untuk memanggang: baca labelnya — banyak yang dicampur minyak kedelai/palm; cari yang 100% olive oil
 - **Air putih** yang cukup
 - **Protein cukup di setiap kali makan** (ikan/telur/tempe/tahu/ayam tanpa kulit) — ini penting supaya otot Mama tidak menyusut di usia 60-70an nanti
 
@@ -260,7 +266,7 @@ Ma, cemas Mama soal tensi itu **masalah kesehatan yang nyata**, bukan "kebanyaka
 
 3. **Tidur 7–8 jam**, jam tidur teratur, kamar gelap dan sejuk, tidak ada layar HP 1 jam sebelum tidur, tidak ada kopi setelah siang.
 
-4. **Perlu diperiksa: apakah Mama ngorok / henti napas saat tidur.** Ini penyebab tensi susah turun yang sering terlewat. Ada kuesioner singkat dulu, kalau perlu baru tes tidur di rumah.
+4. **Perlu segera diperiksa: kemungkinan henti napas saat tidur (sleep apnea).** Papa sempat bilang tidur Mama *"hembus"*. Ditambah Mama sering mengantuk di toko dan sudah lewat menopause, ini perlu dicek — bisa jadi ini penjelas tensi yang naik-turun dan detak jantung yang kadang aneh. **Tolong tanya Papa dulu:** (a) Mama ngorok keras? (b) Pernah kelihatan *berhenti napas* lalu megap-megap atau mendengus? (c) Bangun masih capek? (d) Pagi sering sakit kepala? (Bonus: ukur lingkar leher — kalau di atas 36 cm, makin kuat dugaannya.) Kalau ada yang "iya", kita jalankan kuesioner singkat dulu, kalau perlu tes tidur di rumah.
 
 5. **Jangan menyendiri.** Kumpul dengan teman, keluarga, kegiatan pengajian/komunitas, hobi. Ini bukan basa-basi — hubungan sosial pengaruhnya ke umur panjang setara berhenti merokok.
 
@@ -336,6 +342,8 @@ Nyeri hebat di perut kanan atas / ulu hati lebih dari beberapa jam • demam men
 
 Jantung berdebar terus-menerus • nadi di atas 120 saat istirahat • pingsan atau hampir pingsan • tensi atas di bawah 100 disertai lemas/pusing • **rata-rata 7 hari** di atas 150/90
 
+> **Catatan untuk kunjungan dokter jantung:** sempat tercatat detak jantung **44 saat tidur** (waktu dulu masih minum atenolol + racikan). Ini harus disampaikan ke dokter jantung — digabung dengan angka 185 yang pernah tercatat — supaya diputuskan apakah perlu alat rekam jantung 14 hari dan apakah dosis obat jantung malam (nebivolol) perlu diubah waktunya. **Jangan ubah obatnya sendiri** — sampaikan ke dokternya.
+
 ### ❗ Yang BUKAN darurat
 
 Satu kali angka 140/80 atau bahkan 160/90 setelah beres-beres rumah, naik tangga, atau sedang kesal. **Ini tidak butuh tindakan apa pun.** Catat, tutup alatnya, lanjut hidup.
@@ -349,6 +357,7 @@ Jangan semua sekaligus, Ma. Pelan-pelan saja.
 ### Minggu 1–2 — Aman dulu
 - [ ] **Stop Akamon.** Racikan tetap jalan.
 - [ ] Hitung sisa tablet racikan + telepon apotek (frekuensi, tanggal, siapa dokternya)
+- [ ] Tanya Papa soal tidur Mama: ngorok keras? pernah kelihatan berhenti napas lalu megap? (sleep apnea — lihat Bagian 6), + ukur lingkar leher
 - [ ] Tempel kartu "Kalau angka tensi bikin panik" di sebelah alat tensi
 - [ ] Mulai aturan duduk 1 menit sebelum berdiri di pagi hari
 - [ ] Pasang lampu tidur, singkirkan karpet licin
