@@ -261,12 +261,17 @@ Ma, cemas Mama soal tensi itu **masalah kesehatan yang nyata**, bukan "kebanyaka
    Kabar bagusnya: **obat cemas harian yang benar itu sudah ada di dalam kapsul racikan Mama.** Masalahnya cuma bentuknya — dia dijadikan satu dengan obat penenang, jadi tidak bisa dipisah.
 
    > **Yang akan kita minta ke dokter:** *"Tolong dipisah. Obat cemas hariannya diteruskan sebagai tablet sendiri, obat penenangnya diturunkan pelan-pelan."*
+   > Kabar baiknya lagi — Mama ternyata **sudah berniat melakukannya sendiri**: Mama mau minta ke **Dr. Budi Gunawan** untuk **obat cemas dan obat penenang dipisah jadi dua tablet terpisah**. Bagus sekali, itu arah yang sama dengan saran kita. Tinggal pastikan dokter melihat isi kapsul racikannya (clobazam 10 mg + sertraline 50 mg) dulu sebelum meresepkan yang terpisah.
 
-   Sekali lagi: **ini keputusan dokter, bukan Mama sendiri.**
+   Sekali lagi: **ini keputusan dokter, bukan Mama sendiri.** Papa sempat mengusulkan rencana turunkan obat: *penuh → setengah → plasebo (kosong)*, untuk menenangkan keluarga. **Arahnya sudah benar** (turun pelan-pelan, bukan berhenti mendadak), tapi **detail jadwalnya tetap dokter yang atur** — obat cemas hariannya harus tetap lanjut sebagai tablet sendiri. Jadikan usulan Papa bahan diskusi dengan dokter, jangan langsung dijalankan sendiri.
 
 3. **Tidur 7–8 jam**, jam tidur teratur, kamar gelap dan sejuk, tidak ada layar HP 1 jam sebelum tidur, tidak ada kopi setelah siang.
 
-4. **Perlu segera diperiksa: kemungkinan henti napas saat tidur (sleep apnea).** Papa sempat bilang tidur Mama *"hembus"*. Ditambah Mama sering mengantuk di toko dan sudah lewat menopause, ini perlu dicek — bisa jadi ini penjelas tensi yang naik-turun dan detak jantung yang kadang aneh. **Tolong tanya Papa dulu:** (a) Mama ngorok keras? (b) Pernah kelihatan *berhenti napas* lalu megap-megap atau mendengus? (c) Bangun masih capek? (d) Pagi sering sakit kepala? (Bonus: ukur lingkar leher — kalau di atas 36 cm, makin kuat dugaannya.) Kalau ada yang "iya", kita jalankan kuesioner singkat dulu, kalau perlu tes tidur di rumah.
+4. **Perlu segera diperiksa: kemungkinan henti napas saat tidur (sleep apnea).** Papa sempat bilang tidur Mama *"hembus"*. Ditambah Mama sering mengantuk di toko dan sudah lewat menopause, ini perlu dicek — bisa jadi ini penjelas tensi yang naik-turun dan kualitas tidurnya. **Tolong tanya Papa dulu:** (a) Mama ngorok keras? (b) Pernah kelihatan *berhenti napas* lalu megap-megap atau mendengus? (c) Bangun masih capek? (d) Pagi sering sakit kepala? (Bonus: ukur lingkar leher — kalau di atas 36 cm, makin kuat dugaannya.) Kalau ada yang "iya", kita jalankan kuesioner singkat dulu, kalau perlu tes tidur di rumah.
+
+   **Data rekaman tidur Mama (dari jam tangan, 19 Juli 2026) sudah kita lihat** — di tempat tidur 7 jam 55 menit, tidur 7 jam 46 menit, lancar (efisiensi 98%), tapi **mimpi (REM)-nya cuma 56 menit (12%) dan tidur dalamnya cuma 35 menit (7%)** — dua-duanya di bawah rata-rata — dan sisanya (6 jam 15 menit, 77%) tidur ringan, plus sekitar 6 kali terbangun singkat (total 19 menit). Pola malamnya sendiri masih normal: tidur dalam di awal malam, mimpi makin panjang menjelang pagi. Belum sampai bisa dipastikan sleep apnea (rekaman jam tangan tidak bisa menghitung henti napas), tapi **ini mendukung perlunya pengecekan lebih lanjut.** 
+
+   **Satu hal lagi:** waktu Sabtu/Minggu pagi, Papa sempat membangunkan Mama karena Mama menangis pelan pas tidur — Mama bermimpi ditekan hantu dan tubuhnya susah digerakkan, lalu berontak dan langsung bangun. Ini yang namanya **sleep paralysis ("ketindihan")** — **tidak berbahaya dan bukan sawan/kejang.** Tapi pengalaman ini sering muncul kalau tidurnya terpotong-potong — dan itu makin menguatkan alasan buat memeriksakan tidurnya ke dokter.
 
 5. **Jangan menyendiri.** Kumpul dengan teman, keluarga, kegiatan pengajian/komunitas, hobi. Ini bukan basa-basi — hubungan sosial pengaruhnya ke umur panjang setara berhenti merokok.
 
@@ -342,7 +347,7 @@ Nyeri hebat di perut kanan atas / ulu hati lebih dari beberapa jam • demam men
 
 Jantung berdebar terus-menerus • nadi di atas 120 saat istirahat • pingsan atau hampir pingsan • tensi atas di bawah 100 disertai lemas/pusing • **rata-rata 7 hari** di atas 150/90
 
-> **Catatan untuk kunjungan dokter jantung:** sempat tercatat detak jantung **44 saat tidur** (waktu dulu masih minum atenolol + racikan). Ini harus disampaikan ke dokter jantung — digabung dengan angka 185 yang pernah tercatat — supaya diputuskan apakah perlu alat rekam jantung 14 hari dan apakah dosis obat jantung malam (nebivolol) perlu diubah waktunya. **Jangan ubah obatnya sendiri** — sampaikan ke dokternya.
+> **Catatan untuk kunjungan dokter jantung:** sempat tercatat detak jantung **44 saat tidur** (waktu dulu masih minum atenolol + racikan). Sampaikan ini ke dokter jantung — misalnya untuk memutuskan apakah perlu alat rekam jantung 14 hari dan apakah dosis obat jantung malam (nebivolol) perlu diubah waktunya. (*Angka "185" yang dulu sempat tercatat ternyata salah ketik — sebenarnya 85 saat istirahat, normal. Ini sudah dikoreksi di catatan medis, jadi tidak perlu lagi dipakai sebagai alasan cek jantung.*) **Jangan ubah obatnya sendiri** — sampaikan ke dokternya.
 
 ### ❗ Yang BUKAN darurat
 
