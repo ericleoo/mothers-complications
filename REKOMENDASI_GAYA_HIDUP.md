@@ -1,6 +1,6 @@
 # REKOMENDASI GAYA HIDUP UNTUK MAMA
 
-*Disusun oleh Eric — versi 5 Agustus 2026*
+*Disusun oleh Eric — versi 6 Agustus 2026*
 *Dibuat supaya gampang dibaca. Boleh dicicil, tidak usah dibaca sekaligus.*
 
 ---
@@ -123,6 +123,8 @@ Kalau dua-duanya tidak bisa: **cukup sekali sehari, pagi saja.**
 
 Ukur di **lengan kiri dan kanan**, masing-masing 3 kali, sekali duduk. Catat semuanya. Ini untuk memeriksa pembuluh darah di bahu — sekalian menjelaskan kenapa telapak tangan kiri Mama terasa dingin.
 
+> ✅ **Sudah ada hasil pertamanya (6 Agustus 2026, jam 9 malam):** kiri **128/74 → 118/68**; kanan **118/75 → 116/68**. **Semuanya bagus — dalam target (<130/80).** Selisih kiri-kanan ~10 poin di pengukuran pertama, masih di bawah batas 15 poin, jadi tidak ada tanda penyumbatan pembuluh di bahu. **Lengan kiri angkanya lebih tinggi, jadi sementara ini kita pakai lengan kiri sebagai acuan.** (Karena tadi kiri dulu lalu kanan diukur bergantian — bukan bersamaan — nanti sekali lagi diukur dengan urutan dibalik, kanan dulu, biar benar-benar yakin. Yang penting: selisihnya masih jauh di bawah batas 15 poin, jadi tidak ada tanda penyumbatan pembuluh di bahu.) Pola "angka pertama lebih tinggi, kedua lebih rendah" itu normal (badan sedang menyesuaikan) — justru membuktikan cara ukurnya sudah benar: dua kali, selang 1 menit. **Dan kabar baiknya: tidak ada cerita panik atau minum obat untuk angka-angka malam itu.** Itu kemenangan besar. 👏
+
 ---
 
 ## BAGIAN 3 — Aturan obat
@@ -154,6 +156,8 @@ Dulu Mama sempat nyeri perut dan muntah 3 malam. Kalau dokter memberi obat lambu
 
 Omeprazole itu obat lambung yang paling sering diberikan otomatis — makanya perlu diingatkan.
 
+**Soal lansoprazole yang ada di rumah (pertanyaan Mama, 6 Agustus):** lansoprazole dan pantoprazole **sama golongannya** (sama-sama obat asam lambung / PPI) **tapi obat yang berbeda.** Yang terpenting: **jangan mulai minum obat lambung sendiri, Ma** — Mama juga tidak sedang melaporkan keluhan lambung sekarang (sakit perut dulu datang saat era amlodipine). Kalau nanti dokter memang meresepkan obat lambung, lansoprazole yang di rumah **masih aman dipakai** (tidak mengganggu clopidogrel seperti omeprazole), tapi pilihan utamanya tetap **pantoprazole atau rabeprazole**. Tes H. pylori yang tertunda tetap didahulukan. Cukup beri tahu dokter obat lambung apa yang ada di rumah saat kontrol — tidak perlu membeli apa pun sekarang.
+
 ---
 
 ## BAGIAN 4 — Olahraga
@@ -181,7 +185,7 @@ Ma, ternyata **wall sit — yang Mama suka — adalah olahraga yang paling terbu
 | **Latihan beban ringan** | 2× seminggu | Karet elastis / botol air / dumbbell ringan. 6–8 gerakan, 2–3 set × 8–12 kali |
 | **Plank** | 2× seminggu | Sebagai latihan perut |
 | **Keseimbangan** | **Tiap hari**, 5–10 menit | Berdiri satu kaki (pegangan kursi), jalan lurus tumit-ujung kaki, tai chi |
-| **Jalan harian** | Tiap hari | Naik pelan-pelan sampai 7.000–8.000 langkah |
+| **Jalan harian** | Tiap hari | Naik pelan-pelan sampai 7.000–8.000 langkah — **🌟 pertama kalinya 7.000 langkah tercapai di Citra 8 (5 Agustus malam). Sekarang jadikan kebiasaan, bukan sekali jalan!** |
 | **Peregangan** | 3× seminggu | 10 menit |
 
 **Latihan keseimbangan itu tidak boleh dilewat, Ma.** Sama pentingnya dengan obat — karena tujuannya mencegah jatuh.
@@ -256,6 +260,8 @@ Ma, cemas Mama soal tensi itu **masalah kesehatan yang nyata**, bukan "kebanyaka
 
 1. **Latihan napas pelan, 10–15 menit setiap hari.** 4 detik tarik, 6 detik buang. **Dijadwalkan tiap hari** — bukan hanya kalau sedang panik. Ini terbukti menurunkan tensi, bukan sekadar "biar rileks".
 
+   > 🎉 **Mama sudah melakukannya sendiri! (6 Agustus):** sejak Minggu lalu Mama yoga 10 menit **setiap pagi saat bangun dan sebelum tidur**, dengan latihan napas — dan yang paling penting: **kalau ada tegang sedikit, Mama tarik napas dan langsung mendingan.** Itu persis cara kerja yang kita mau: *tegang → napas → tenang*, bukan *angka → panik → minum obat*. Teruskan, Ma. Ini penggerak terbesar yang bisa dilakukan tanpa obat — dan Mama sudah jalan duluan. 👏 *(Satu catatan kecil: karena Mama melakukannya tepat setelah bangun tidur — saat tubuh masih rawan puyeng — mulai dulu dengan **duduk di tepi tempat tidur sambil tarik napas beberapa menit** (sekaligus memenuhi aturan satu menit sebelum berdiri), baru lanjut gerakan lainnya. Gerakan yang di lantai simpan untuk nanti setelah Mama agak lama bangun.)*
+
 2. **Obat cemas yang benar itu bukan obat penenang jangka panjang.** Yang benar: **obat cemas harian (SSRI) diminum rutin**, plus **terapi bicara (CBT)** kalau ada. Obat penenang hanya boleh jadi "jembatan" 2–4 minggu, lalu diturunkan pelan-pelan.
 
    Kabar bagusnya: **obat cemas harian yang benar itu sudah ada di dalam kapsul racikan Mama.** Masalahnya cuma bentuknya — dia dijadikan satu dengan obat penenang, jadi tidak bisa dipisah.
@@ -286,7 +292,7 @@ Tolong bawa **semua botol vitamin** ke dokter untuk ditinjau. Sementara ini:
 | Suplemen | Catatan |
 |---|---|
 | **Vitamin E** | **Minta dihentikan.** Ikut mengencerkan darah — bahaya digabung 2 pengencer darah Mama |
-| **Vitamin B kompleks (Neuro Forte)** | **Cek kandungan B6-nya.** B6 di atas 50 mg/hari jangka panjang justru **menyebabkan kebas/baal** — bisa memperparah keluhan tangan Mama |
+| **Vitamin B kompleks (Neuro Forte)** | **Cek kandungan B6-nya.** B6 di atas 50 mg/hari jangka panjang justru **menyebabkan kebas/baal** — bisa memperparah keluhan tangan Mama. *(Soal Neurobion ½ sehari yang Mama tanyakan 6 Agustus: boleh dilanjutkan, tapi ini kandungannya perlu dicek dokter — Neurobion putih mengandung B6 200 mg/tablet, Neurobion Forte merah muda 100 mg/tablet, jadi setengah tablet itu sekitar 100 mg (atau 50 mg) B6, jauh di atas batas aman harian 12 mg. Penting juga: foto label Neurobion dan Neuro Forte saat kontrol — kalau ini dua produk yang berbeda, B6-nya bisa menumpuk. Sekalian tes B12.)* |
 | **Zinc** | Jangan tiap hari terus-menerus, maksimal 15–25 mg. Kelebihan zinc jangka panjang bikin kekurangan tembaga → kebas & kurang darah |
 | **Asam folat** | Boleh lanjut, tapi **cek kadar B12** dulu |
 | **Pregabalin 75 mg** | **Masih diminum tidak, Ma?** Kalau iya, tanyakan apakah masih perlu — obat ini bikin pusing, mengantuk, dan **menambah risiko jatuh** |

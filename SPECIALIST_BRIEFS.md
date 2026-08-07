@@ -7,6 +7,8 @@
 - **Documented heart rates:** resting **85–91 / exertion 110–116** while on amlodipine (a normal dihydropyridine reflex response — the earlier "185" was a digit typo). **HR 44 asleep** on atenolol + the racikan (expected beta-blocker bradycardia). **Peak treadmill HR 148 ≈ 90% of the age-predicted max (~165), achieved while still on atenolol** — a robust chronotropic response arguing against sinus node disease.
 - **Stroke history:** old **left** basal ganglia/internal capsule lacunar infarct + moderate small-vessel disease (MRI, July 16 2026, Kuching). The June event was **left-arm** symptoms — opposite hemisphere to the old infarct.
 - **Sleep:** witnessed "hembus" (puffing) reported by Papa, daytime sleepiness, post-menopausal — **positive STOP-BANG on history alone**. One wrist-watch night (19 Jul) is not diagnostic either way.
+- **BP — first both-arm set (6 Aug 2026, 9 PM): L 128/74 → 118/68; R 118/75 → 116/68.** All in target (<130/80). **Caveat: readings were taken sequentially with order unrecorded — the ~10 mmHg left-higher first reading is plausibly partly settling artifact, so the inter-arm difference is not yet interpretable; repeat with the order reversed (right first) before adopting the arm rule.** Provisionally use the **left** arm. **Directionally reassuring: a left subclavian stenosis would make the LEFT arm read LOWER — it reads higher, so the left-arm arterial hypothesis (§0.1) is now unlikely; this pushes the differential toward cervical radiculopathy / TOS / non-vascular.** No mention of panic or medication for these readings.
+- **Behavioral wins (6 Aug 2026):** 7,000 steps at Citra 8; **10 min yoga + breath-work every morning on waking and before sleep since Sunday Aug 2**, using breath to settle tension in the moment — the panic → pill loop is being replaced by breath → settle.
 - Not medical advice. All decisions rest with her physicians.
 
 ---
@@ -29,7 +31,9 @@
 8. Is pregabalin still indicated?
 9. Baseline MoCA, please — **not while sedated on nightly clobazam** (~2 weeks after the last dose, or annotate medication status).
 
-**Immediate asks:** microbleed count from the existing MRI; answer the TIA/dual-antiplatelet question; both-arm BP check.
+**Update (2026-08-06):** venue largely settled — **Siloam Kebun Jeruk is a reasonable, convenient choice** (bigger, closer, stroke-ready; directory includes dr. Frandy Susatia Sp.N RVT FNIS — vascular/neurosonology credentials most aligned with the laterality/subclavian/cervical question — and consultant Prof. Dr. dr. Yusak Mangara Tua Siahaan Sp.N(K); confirm availability/fit when booking; as a robust fallback against directory drift, ask for a neurologist with a stroke/vascular subspecialty). Dr. Budi Gunawan is still needed separately for the unbundle request + reconciliation. Both-arm BP check: **first set in hand — taken sequentially with order unrecorded, so the inter-arm difference is not yet interpretable; repeat with the order reversed (right first); provisionally left arm. Directionally reassuring: a left subclavian stenosis would read the left arm LOWER — it reads higher, so the §0.1 left-arm-arterial hypothesis is now unlikely (cervical / TOS / non-vascular favored).** Mama also asks for a **"lighter BP medication so the heartbeat isn't pressed"** — that is the beta-blocker-rate / ARB-CCB-backbone question, now in her own words (see Cardiologist Q2–Q4).
+
+**Immediate asks:** microbleed count from the existing MRI; answer the TIA/dual-antiplatelet question; book the consult at Siloam Kebun Jeruk (or return to Dr. Susilo at Ukrida on continuity — counterpoint: Dr. Susilo prescribed pregabalin 75 mg + "brain vitamins" for an event this program itself questions as neuropathic (§7), a mild argument for fresh eyes at Siloam) and bring the question list + **the actual MRI images, not just the report**.
 
 ---
 
@@ -41,17 +45,19 @@
 - **No documented resting tachycardia exists.** On amlodipine she ran 85–91 resting / 110–116 on exertion — a textbook dihydropyridine reflex response. (The "185" in the record was a digit typo.)
 - **HR 44 overnight** on atenolol + the racikan — expected beta-blocker bradycardia, not a documented arrhythmia.
 - Sleep-apnoea screening is **positive on history** (witnessed "hembus", daytime sleepiness, post-menopausal, difficult-to-control BP).
+- **BP well controlled (6 Aug 2026, 9 PM): L 128/74 → 118/68; R 118/75 → 116/68** — all in target; no mention of panic or medication for these readings. On nebivolol her resting HR is ~70–75.
 
 **Questions**
 1. Has an arrhythmia ever been suspected or documented at any point?
-2. Is the bedtime nebivolol dose necessary, given HR 44 asleep? (Do not change without you.)
-3. **The tachycardia that "ruled out" amlodipine was a recording error (185 was a typo for 85). Does that change whether the backbone should be an ARB or CCB rather than nebivolol alone?** Is low-dose amlodipine (2.5 mg) on top of nebivolol reasonable, or is indapamide preferable? (Remaining amlodipine history: three nights of vomiting; subjective palpitation discomfort at 85 bpm.)
-4. **Rhythm monitoring — only if indicated by sleep:** OSA is a strong risk factor for paroxysmal AF and a cause of nocturnal bradyarrhythmia. **Sequence a 14-day patch behind the sleep study — if OSA is confirmed, is monitoring warranted on that basis?** Otherwise a patch (not a 24-hour Holter) is only to characterize the nocturnal 44 or any palpitations.
-5. Could cilostazol contribute to tachycardia/palpitations? Worth reconsidering? (Unresolved — nebivolol now masks any chronotropic effect.)
-6. Echocardiogram for left-ventricular hypertrophy?
-7. Extracranial carotid imaging? Both-arm BP for subclavian disease?
+2. **Mama asks for a "lighter BP medication so the heartbeat isn't pressed too much" (2026-08-06).** Framing for the consult: this is a **substitution/redistribution question, not an addition** — her BP is now excellent on nebivolol alone, and *adding* any antihypertensive pushes her toward the 100/58 territory that made her symptomatic. The real questions: **is nebivolol still the right backbone, and is the bedtime dose necessary (HR 44 asleep)?** — merges with the HR-44 / bedtime-dose item. **Ask her the prior question: what is actually bothering her — feeling slow, tired, or symptomatic from the low rate, or anxiety about the number 44? Those lead to different answers.** Her same-evening BP is excellent — change nothing now; answer on the merits at the consult.
+3. Is the bedtime nebivolol dose necessary, given HR 44 asleep? (Do not change without you.)
+4. **The tachycardia that "ruled out" amlodipine was a recording error (185 was a typo for 85). Does that change whether the backbone should be an ARB or CCB rather than nebivolol alone?** Is low-dose amlodipine (2.5 mg) on top of nebivolol reasonable, or is indapamide preferable? (Remaining amlodipine history: three nights of vomiting; subjective palpitation discomfort at 85 bpm.)
+5. **Rhythm monitoring — only if indicated by sleep:** OSA is a strong risk factor for paroxysmal AF and a cause of nocturnal bradyarrhythmia. **Sequence a 14-day patch behind the sleep study — if OSA is confirmed, is monitoring warranted on that basis?** Otherwise a patch (not a 24-hour Holter) is only to characterize the nocturnal 44 or any palpitations.
+6. Could cilostazol contribute to tachycardia/palpitations? Worth reconsidering? (Unresolved — nebivolol now masks any chronotropic effect.)
+7. Echocardiogram for left-ventricular hypertrophy?
+8. Extracranial carotid imaging? Both-arm BP for subclavian disease?
 
-**Immediate asks:** answer the ARB/CCB-backbone question; comment on the bedtime nebivolol dose; advise on monitoring **after** the sleep study result.
+**Immediate asks:** answer the nebivolol-backbone question as a **substitution/redistribution call** (Mama herself asks for a "lighter" BP drug — see Q2), including the prior question of what actually bothers her (symptoms vs. the number); comment on the bedtime nebivolol dose; advise on monitoring **after** the sleep study result.
 
 ---
 
@@ -94,5 +100,7 @@
 8. Sodium level (SSRI/SIADH — she reports morning dizziness); then the rest of the missing labs.
 9. Anxiety plan that isn't indefinite bromazepam: CBT and/or a proper daily SSRI (avoid fluoxetine/fluvoxamine — they blunt clopidogrel).
 10. ABPM; screening/vaccination catch-up; menopause and bone-health assessment (DEXA baseline).
+
+**Updates (2026-08-06):** (1) Mama asks whether **half a Neurobion tablet once daily** is enough — product-specific B6: Indonesian **Neurobion (white) = 200 mg B6/tablet, Neurobion Forte (pink) = 100 mg/tablet**, so half ≈ **100 mg or 50 mg B6** — above the 12 mg/day EFSA UL and double the ~50 mg/day Section 7 threshold; **confirm whether this Neurobion is the same product as the Neuro Forte already listed in Section 7 (B6 would stack) — photograph both labels**; order the pending **B12**; note pyridoxine neuropathy is a symmetric length-dependent sensory neuropathy (feet before hands), so it does not explain the unilateral left-arm event but will muddy any future sensory assessment; (2) **lansoprazole at home** — same class as pantoprazole (PPI), different drug; **lead with the prior question: does she need a PPI at all right now (no current dyspepsia — the stomach pain was the amlodipine era)? Don't start one on her own; if the doctor prescribes one, lansoprazole is acceptable in a pinch on clopidogrel but pantoprazole/rabeprazole remain preferred — H. pylori testing comes first**; (3) **both-arm BP in hand — sequential, order unrecorded, inter-arm difference not yet interpretable; repeat with reversed order (right first); provisionally left arm**; (4) **yoga + breath-work daily since Sunday Aug 2 (morning: start with breathing seated on the bed edge — the puyeng/orthostatic window — before floor poses), 7,000-step day at Citra 8 (first time at target — make it habitual)** — reinforce, and use it in the anxiety treatment plan.
 
 **Immediate asks:** reconcile the list; order sodium + missing labs; phone the apotek for the racikan history (also identifies the prescriber); refer the sleep study.
